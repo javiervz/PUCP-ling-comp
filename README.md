@@ -1,1 +1,0 @@
-# PUCP-ling-comp
