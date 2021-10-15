@@ -1,0 +1,12 @@
+# sent_id = FernandaM2017:Texto-2-2
+# text_orig = Uwa awa-ry kaiãa-puku-ry ũ-imi-akury.
+# text = Uwa awary kaiãapukury ũimiakury.
+# gloss_pt = 3SG.F ter-3PL.M.O muito-distr-M 3SG.F-filho.de-pl
+# text_pt = ‘Ela tinha muitos filhos.’Q
+# text_en = 'She had many children.'
+1	Uwa	uwa	PRON	Pron	Case=Nom|Gender=Fem|Number=Sing|Person=3|PronType=Prs	2	nsubj	_	gloss[pt]=3SG.F
+2	awary	awa	VERB	XPOS=ter-3PL.M.O	_	0	root	_	gloss[pt]=ter-3PL.M.O
+3	kaiãapukury	kaiãapuku	DET	XPOS=muito-distr	Gender=Masc	4	det	_	gloss[pt]=muito-distr-M
+4	ũimiakury	imi	NOUN	N	Case=Nom|Gender=Masc|Gender[psor]=Fem|Number=Plur|Number[psor]=Sing	2	obj	_	gloss[pt]=3SG.F-filho.de-pl|SpaceAfter=No
+5	.	.	PUNCT	_	_	2	punct	_	_
+
