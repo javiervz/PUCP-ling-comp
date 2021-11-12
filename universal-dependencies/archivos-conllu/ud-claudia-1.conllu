@@ -1,0 +1,26 @@
+"<Xanu>"
+	"Xanu" NOUN @nsubj:free #1->6
+"< =n>"
+	" =n" PART @case #2->1
+"<ka>"
+	"ka" AUX @aux:sgen #3->6
+"<=is>"
+	"=is" AUX @aux:evid #4->6
+"<=a>"
+	"=a" DET @nsubj:bound #5->6
+"<buankian>"
+	"buankian" VERB @root #6->0
+"<ain>"
+	"ain" DET @nmod #7->8
+"<bënë>"
+	"bënë" NOUN @obj #8->6
+"<“>"
+	"“" PUNCT @punct #9->6
+"<unirá>"
+	"unirá" NOUN @nsubj:free #10->11
+"<ka>"
+	"ka" AUX @parataxis #11->6
+"<”>"
+	"”" PUNCT @punct #12->6
+"<.>"
+	"." PUNCT @punct #13->6
