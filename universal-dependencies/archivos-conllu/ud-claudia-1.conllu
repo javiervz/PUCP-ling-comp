@@ -1,26 +1,13 @@
-"<Xanu>"
-	"Xanu" NOUN @nsubj:free #1->6
-"< =n>"
-	" =n" PART @case #2->1
-"<ka>"
-	"ka" AUX @aux:sgen #3->6
-"<=is>"
-	"=is" AUX @aux:evid #4->6
-"<=a>"
-	"=a" DET @nsubj:bound #5->6
-"<buankian>"
-	"buankian" VERB @root #6->0
-"<ain>"
-	"ain" DET @nmod #7->8
-"<bënë>"
-	"bënë" NOUN @obj #8->6
-"<“>"
-	"“" PUNCT @punct #9->6
-"<unirá>"
-	"unirá" NOUN @nsubj:free #10->11
-"<ka>"
-	"ka" AUX @parataxis #11->6
-"<”>"
-	"”" PUNCT @punct #12->6
-"<.>"
-	"." PUNCT @punct #13->6
+1	Xanu	Xanu	_	NOUN	_	6	nsubj:free	_	_
+2	 =n	 =n	_	PART	_	1	case	_	_
+3	ka	ka	_	AUX	_	6	aux:sgen	_	_
+4	=is	=is	_	AUX	_	6	aux:evid	_	_
+5	=a	=a	_	DET	_	6	nsubj:bound	_	_
+6	buankian	buankian	_	VERB	_	0	root	_	_
+7	ain	ain	_	DET	_	8	nmod	_	_
+8	bënë	bënë	_	NOUN	_	6	obj	_	_
+9	“	“	_	PUNCT	_	6	punct	_	_
+10	unirá	unirá	_	NOUN	_	11	nsubj:free	_	_
+11	ka	ka	_	AUX	_	6	parataxis	_	_
+12	”	”	_	PUNCT	_	6	punct	_	_
+13	.	.	_	PUNCT	_	6	punct	_	_
