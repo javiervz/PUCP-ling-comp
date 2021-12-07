@@ -1,0 +1,96 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	A	obligatory	-5.30044	-77.92179	Chicham
+apy	Apalaí	D	no case	1.49792	-54.7457	Cariban
+apu	Apurinã	D	no case	-8.21692	-66.77141	Arawakan
+arh	Arhuaco	C	none	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	C	none	1.216525	-78.340135	Barbacoan
+awe	Awetí	D	no case	-12.93358	-53.58519	Tupian
+quy	Ayacucho Quechua	A	obligatory	-13.84714	-74.32246	Quechuan
+brg	Baure	D	no case	-13.12775	-64.18381	Arawakan
+boa	Bora	C	none	-2.91467	-68.90929	Boran
+bor	Bororo	D	no case	-16.60295	-55.20043	Bororoan
+qvc	Cajamarca Quechua	A	obligatory	-7.09314	-78.32141	Quechuan
+caw	Callawalla	B	variable	-15.88451	-68.10176	Mixed Language
+ram	Canela	A	obligatory	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	A	obligatory	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	A	obligatory	-17.0	-68.5	Aymaran
+cbg	Chimila	?	Not known	10.19016	-74.25585	Chibchan
+cap	Chipaya	D	no case	-18.73951	-67.89633	Uru-Chipaya
+cht	Cholón	D	no case	-9.23129	-75.96211	Hibito-Cholon
+cod	Cocama-Cocamilla	D	no case	-4.5	-74.0	Tupian
+cub	Cubeo	B	variable	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	A	obligatory	-14.08527	-71.76625	Quechuan
+des	Desano	B	variable	0.58157	-69.495545	Tucanoan
+kwa	Dâw	C	none	-0.1177	-67.29341	Nadahup
+eme	Emerillon	D	no case	3.23694	-52.36986	Tupian
+gvo	Gavião Do Jiparaná	D	no case	-10.7235	-61.67521	Tupian
+gta	Guató	D	no case	-17.86961	-57.28974	Guato
+hix	Hixkaryána	D	no case	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	A	obligatory	-9.57135	-75.59401	Quechuan
+qux	Huangascar-Topara-Yauyos Quechua	A	obligatory	-13.11443	-75.76589	Quechuan
+qwh	Huaylas Ancash Quechua	A	obligatory	-9.38709	-77.77681	Quechuan
+jup	Hupdë	C	none	0.58622	-69.835915	Nadahup
+txi	Ikpeng	D	no case	-11.37822	-53.49553	Cariban
+qvi	Imbabura Highland Quichua	A	obligatory	0.31776	-78.37286	Quechuan
+inb	Inga	C	none	1.00313	-76.86062	Quechuan
+ito	Itonama	D	no case	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	A	obligatory	-7.62223	-66.56619	Arawan
+jqr	Jaqaru	?	Not known	-12.88233	-75.89576	Aymaran
+qxw	Jauja Wanca Quechua	A	obligatory	-11.67473	-75.2786	Quechuan
+jur	Jurúna	B	variable	-10.93541	-53.34717	Tupian
+kay	Kamayurá	D	no case	-12.26606	-53.46514	Tupian
+kxo	Kanoê	D	no case	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	D	no case	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	D	no case	-10.33424	-61.56908	Tupian
+knm	Katukína-Kanamarí	?	Not known	-6.45399	-68.7678	Katukinan
+xwa	Kwaza	C	none	-11.6666666667	-61.1833333333	Kwaza
+lkd	Lakondê	D	no case	-13.2	-60.5	Nambiquaran
+lec	Leco	B	variable	-15.00921	-67.88181	Leko
+arw	Lokono	D	no case	5.6429525	-56.924345	Arawakan
+mpu	Makuráp	D	no case	-11.87014	-64.32007	Tupian
+arn	Mapudungun	D	no case	-38.73917	-71.27701	Araucanian
+mcf	Matsés	C	none	-5.739145	-72.628105	Pano-Tacanan
+omc	Mochica	D	no case	-8.01666666667	-79.0	Mochica
+moc	Mocoví	D	no case	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	D	no case	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	D	no case	-13.81152	-65.63482	Movima
+myu	Mundurukú	D	no case	-8.41095	-57.69099	Tupian
+myr	Muniche	D	no case	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	D	no case	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	C	none	4.038935	-62.780115	Yanomamic
+qvn	North Junín Quechua	A	obligatory	-11.21321	-75.81275	Quechuan
+emp	Northern Emberá	A	obligatory	7.12761	-77.57396	Chocoan
+qvp	Pacaraos Quechua	A	obligatory	-11.14278	-76.73046	Quechuan
+pab	Parecís	D	no case	-14.59295	-57.40595	Arawakan
+plg	Pilagá	D	no case	-25.00585	-60.15372	Guaicuruan
+pui	Puinave	B	variable	3.92974	-67.6886	Puinave
+pbb	Páez	A	obligatory	2.61516	-76.31254	Paez
+rkb	Rikbaktsa	D	no case	-11.18865	-58.19424	Nuclear-Macro-Je
+sae	Sabanê	A	obligatory	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	D	no case	-13.05395	-62.09274	Tupian
+qxl	Salasaca Highland Quichua	A	obligatory	-1.35447	-78.39531	Quechuan
+qvs	San Martín Quechua	A	obligatory	-6.9582	-76.6608	Quechuan
+qus	Santiago del Estero Quichua	A	obligatory	-27.82096	-63.24657	Quechuan
+mav	Sateré-Mawé	D	no case	-3.63897	-56.87489	Tupian
+cbt	Shawi	A	obligatory	-5.63764	-76.82525	Cahuapanan
+shp	Shipibo-Conibo	A	obligatory	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	A	obligatory	-3.45136	-78.18923	Chicham
+quh	South Bolivian Quechua	A	obligatory	-20.920095	-66.333145	Quechuan
+qup	Southern Pastaza Quechua	A	obligatory	-3.32733	-76.52697	Quechuan
+tpj	Tapieté	D	no case	-21.4168866667	-62.68397	Tupian
+tae	Tariana	B	variable	0.440205	-68.904165	Arawakan
+teh	Tehuelche	B	variable	-47.57963	-68.32346	Chonan
+quw	Tena Lowland Quichua	A	obligatory	-0.76271	-77.54039	Quechuan
+tri	Trió	D	no case	2.53616	-55.759935	Cariban
+tpy	Trumai	A	obligatory	-11.81195	-53.5717	Trumai
+cof	Tsafiki	B	variable	-0.21181	-79.23468	Barbacoan
+ura	Urarina	D	no case	-4.44006	-75.42107	Urarina
+ure	Uru	D	no case	-16.72547	-68.97119	Uru-Chipaya
+wba	Warao	D	no case	7.50850666667	-59.3527633333	Warao
+pav	Wari	D	no case	-10.69948	-64.56152	Chapacuran
+wyr	Wayoró	D	no case	-12.69447	-61.30635	Tupian
+mtp	Wichí Lhamtés Nocten	D	no case	-21.987995	-63.59711	Matacoan
+xav	Xavánte	D	no case	-14.30173	-52.43669	Nuclear-Macro-Je
+yaa	Yaminahua	A	obligatory	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	D	no case	-10.54539	-75.31497	Arawakan
+yuz	Yuracaré	D	no case	-16.74788	-65.12241	Yurakare
