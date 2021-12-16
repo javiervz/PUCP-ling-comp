@@ -1,0 +1,102 @@
+iso-639-3	name	value	description	latitude	longitude	family
+agr	Aguaruna	B	sg/pl	-5.30044	-77.92179	Chicham
+apu	Apurinã	B	sg/pl	-8.21692	-66.77141	Arawakan
+arl	Arabela	B	sg/pl	-1.96126	-75.06117	Zaparoan
+arh	Arhuaco	B	sg/pl	10.70184	-73.63629	Chibchan
+kwi	Awa-Cuaiquer	B	sg/pl	1.216525	-78.340135	Barbacoan
+quy	Ayacucho Quechua	B	sg/pl	-13.84714	-74.32246	Quechuan
+ayo	Ayoreo	B	sg/pl	-19.220055	-60.217495	Zamucoan
+brg	Baure	B	sg/pl	-13.12775	-64.18381	Arawakan
+boa	Bora	C	sg/du/pl	-2.91467	-68.90929	Boran
+bor	Bororo	B	sg/pl	-16.60295	-55.20043	Bororoan
+qvc	Cajamarca Quechua	B	sg/pl	-7.09314	-78.32141	Quechuan
+caw	Callawalla	A	no number distinctions	-15.88451	-68.10176	Mixed Language
+ram	Canela	B	sg/pl	-6.10712	-45.1299	Nuclear-Macro-Je
+cav	Cavineña	C	sg/du/pl	-13.35441	-66.62773	Pano-Tacanan
+ayr	Central Aymara	B	sg/pl	-17.0	-68.5	Aymaran
+ceg	Chamacoco	B	sg/pl	-20.58988	-58.20047	Zamucoan
+cap	Chipaya	B	sg/pl	-18.73951	-67.89633	Uru-Chipaya
+cht	Cholón	B	sg/pl	-9.23129	-75.96211	Hibito-Cholon
+cod	Cocama-Cocamilla	B	sg/pl	-4.5	-74.0	Tupian
+con	Cofán	B	sg/pl	0.276675	-77.064305	Cofan
+cub	Cubeo	B	sg/pl	1.32382	-70.193935	Tucanoan
+quz	Cusco Quechua	B	sg/pl	-14.08527	-71.76625	Quechuan
+des	Desano	B	sg/pl	0.58157	-69.495545	Tucanoan
+kwa	Dâw	B	sg/pl	-0.1177	-67.29341	Nadahup
+eme	Emerillon	B	sg/pl	3.23694	-52.36986	Tupian
+ese	Ese Ejja	A	no number distinctions	-11.72683	-67.51496	Pano-Tacanan
+gvo	Gavião Do Jiparaná	B	sg/pl	-10.7235	-61.67521	Tupian
+hix	Hixkaryána	B	sg/pl	-0.16265	-58.80153	Cariban
+qub	Huallaga Huánuco Quechua	B	sg/pl	-9.57135	-75.59401	Quechuan
+qux	Huangascar-Topara-Yauyos Quechua	B	sg/pl	-13.11443	-75.76589	Quechuan
+qwh	Huaylas Ancash Quechua	B	sg/pl	-9.38709	-77.77681	Quechuan
+jup	Hupdë	B	sg/pl	0.58622	-69.835915	Nadahup
+qvi	Imbabura Highland Quichua	B	sg/pl	0.31776	-78.37286	Quechuan
+inb	Inga	B	sg/pl	1.00313	-76.86062	Quechuan
+iqu	Iquito	B	sg/pl	-3.31233	-73.97046	Zaparoan
+ito	Itonama	B	sg/pl	-12.80431	-64.35748	Itonama
+jaa	Jamamadí	B	sg/pl	-7.62223	-66.56619	Arawan
+jqr	Jaqaru	A	no number distinctions	-12.88233	-75.89576	Aymaran
+qxw	Jauja Wanca Quechua	B	sg/pl	-11.67473	-75.2786	Quechuan
+kbc	Kadiwéu	B	sg/pl	-19.72224	-57.58202	Guaicuruan
+kay	Kamayurá	B	sg/pl	-12.26606	-53.46514	Tupian
+kxo	Kanoê	B	sg/pl	-12.17894	-64.58121	Kanoe
+ktn	Karitiâna	A	no number distinctions	-9.37937	-64.15219	Tupian
+arr	Karo (Brazil)	B	sg/pl	-10.33424	-61.56908	Tupian
+xwa	Kwaza	A	no number distinctions	-11.6666666667	-61.1833333333	Kwaza
+lkd	Lakondê	B	sg/pl	-13.2	-60.5	Nambiquaran
+lao	Lao	B	sg/pl	16.07262	104.56848	Tai-Kadai
+lec	Leco	B	sg/pl	-15.00921	-67.88181	Leko
+mca	Maca	B	sg/pl	-25.01186	-57.36935	Matacoan
+wmd	Mamaindé	A	no number distinctions	-12.986439	-60.101072	Nambiquaran
+arn	Mapudungun	C	sg/du/pl	-38.73917	-71.27701	Araucanian
+mcf	Matsés	A	no number distinctions	-5.739145	-72.628105	Pano-Tacanan
+omc	Mochica	B	sg/pl	-8.01666666667	-79.0	Mochica
+moc	Mocoví	B	sg/pl	-28.09699	-60.41448	Guaicuruan
+cas	Mosetén	B	sg/pl	-14.64448	-67.83756	Moseten-Chimane
+mzp	Movima	B	sg/pl	-13.81152	-65.63482	Movima
+myr	Muniche	A	no number distinctions	-5.80546	-76.28113	Muniche
+yrl	Nhengatu	B	sg/pl	1.04502666667	-66.9645533333	Tupian
+shb	Ninam	C	sg/du/pl	4.038935	-62.780115	Yanomamic
+qvn	North Junín Quechua	B	sg/pl	-11.21321	-75.81275	Quechuan
+emp	Northern Emberá	B	sg/pl	7.12761	-77.57396	Chocoan
+qvp	Pacaraos Quechua	B	sg/pl	-11.14278	-76.73046	Quechuan
+pbh	Panare	B	sg/pl	6.95035	-65.84825	Cariban
+pap	Papiamento	B	sg/pl	12.48485	-69.93988	Indo-European
+plg	Pilagá	C	sg/du/pl	-25.00585	-60.15372	Guaicuruan
+pue	Puelche	C	sg/du/pl	-36.63757	-62.94127	Puelche
+pui	Puinave	B	sg/pl	3.92974	-67.6886	Puinave
+pbb	Páez	B	sg/pl	2.61516	-76.31254	Paez
+rey	Reyesano	B	sg/pl	-14.83332	-67.08332	Pano-Tacanan
+rus	Russian	B	sg/pl	59.0	50.0	Indo-European
+sae	Sabanê	A	no number distinctions	-12.98572	-60.33498	Nambiquaran
+skf	Sakirabia	B	sg/pl	-13.05395	-62.09274	Tupian
+qxl	Salasaca Highland Quichua	B	sg/pl	-1.35447	-78.39531	Quechuan
+qvs	San Martín Quechua	B	sg/pl	-6.9582	-76.6608	Quechuan
+qus	Santiago del Estero Quichua	B	sg/pl	-27.82096	-63.24657	Quechuan
+ona	Selk'nam	B	sg/pl	-54.0	-68.5	Chonan
+shp	Shipibo-Conibo	B	sg/pl	-7.17105	-74.82192	Pano-Tacanan
+jiv	Shuar	B	sg/pl	-3.45136	-78.18923	Chicham
+snn	Siona-Tetete	B	sg/pl	0.31733	-76.02367	Tucanoan
+quh	South Bolivian Quechua	B	sg/pl	-20.920095	-66.333145	Quechuan
+ayc	Southern Aymara	B	sg/pl	-17.14171	-70.34424	Aymaran
+qup	Southern Pastaza Quechua	B	sg/pl	-3.32733	-76.52697	Quechuan
+spa	Spanish	B	sg/pl	40.4414175	-1.11788	Indo-European
+tpj	Tapieté	A	no number distinctions	-21.4168866667	-62.68397	Tupian
+tae	Tariana	B	sg/pl	0.440205	-68.904165	Arawakan
+teh	Tehuelche	C	sg/du/pl	-47.57963	-68.32346	Chonan
+quw	Tena Lowland Quichua	B	sg/pl	-0.76271	-77.54039	Quechuan
+tob	Toba	B	sg/pl	-24.40253	-60.4472866667	Guaicuruan
+tri	Trió	B	sg/pl	2.53616	-55.759935	Cariban
+tpy	Trumai	C	sg/du/pl	-11.81195	-53.5717	Trumai
+cof	Tsafiki	B	sg/pl	-0.21181	-79.23468	Barbacoan
+tur	Turkish	B	sg/pl	39.866667	32.866667	Turkic
+ura	Urarina	B	sg/pl	-4.44006	-75.42107	Urarina
+ure	Uru	B	sg/pl	-16.72547	-68.97119	Uru-Chipaya
+wba	Warao	?	Not known	7.50850666667	-59.3527633333	Warao
+pav	Wari	B	sg/pl	-10.69948	-64.56152	Chapacuran
+mtp	Wichí Lhamtés Nocten	B	sg/pl	-21.987995	-63.59711	Matacoan
+yaa	Yaminahua	A	no number distinctions	-9.88459666667	-71.5964333333	Pano-Tacanan
+ame	Yanesha'	B	sg/pl	-10.54539	-75.31497	Arawakan
+yuq	Yuqui	A	no number distinctions	-16.78752	-64.94382	Tupian
+yuz	Yuracaré	B	sg/pl	-16.74788	-65.12241	Yurakare
