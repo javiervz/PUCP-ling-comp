@@ -1,0 +1,10 @@
+1	Uni	uni	NOUN	_	_	9	nsubj:free	_	man
+2	achushi	achushi	DET	_	_	1	xmod	_	one
+3	=n	n	PART	_	_	1	case	_	=ergative
+4	=pain	pain	PART	_	_	9	adv	_	=first
+5	ka	_	PART	_	_	9	aux:sgen	_	_
+6	=a	ka	PART	_	_	9	nsubj:bound	_	nar:3
+7	ënë	ënë	DET	_	_	8	det	_	this
+8	‘ó	‘ó	NOUN	_	_	9	obj	_	tapir:abs
+9	‘a-a-x-a‘a	VERB	_	_	_	_	_	kill-pfv-3-non.prox
+10	.	_	PUNCT	_	_	9	punct	_	_

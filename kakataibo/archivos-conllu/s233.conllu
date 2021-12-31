@@ -1,0 +1,9 @@
+1	Ë	ë	PRON	_	_	8	nsubj:free	_	1sg
+2	=n	n	PART	_	_	1	case	_	=a
+3	ka	ka	PART	_	_	8	aux:sgen	_	narrative
+4	=na	na	PART	_	_	8	nsubj:bound	_	=1sg
+5	xubu	xubu	NOUN	_	_	8	obl	_	house
+6	=nu	nu	PART	_	_	5	case	_	=locative
+7	i	i	NOUN	_	_	8	obj	_	wood:abs
+8	atsin-mi-i-n	atsin	VERB	_	_	_	_	_	enter-caus-ipfv-1/2
+9	.	_	PUNCT	_	_	8	punct	_	_

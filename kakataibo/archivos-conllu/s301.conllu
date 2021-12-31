@@ -1,0 +1,7 @@
+1	Kënë	kënë	NOUN	_	_	2	nsubj	_	wall:abs
+2	xaiki-këbë	xaibi	VERB	_	_	6	advcl	_	shake-ds/a/p:se:intr
+3	ka	_	PART	_	_	6	aux:sgen	_	_
+4	=a	ka	PART	_	_	6	nsubj:bound	_	nar:3
+5	xubu	xubu	NOUN	_	_	6	nsubj:free	_	house:abs
+6	nipakët-a-x-a	nipakët	VERB	_	_	_	_	_	fall.down-ipfv-non.prox
+7	.	_	PUNCT	_	_	6	punct	_	_

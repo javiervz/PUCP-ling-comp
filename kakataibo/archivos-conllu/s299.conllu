@@ -1,0 +1,13 @@
+1	‘Ë	‘Ë	PRON	_	_	3	nmod	_	1sg
+2	=n	n	PART	_	_	1	case	_	=genitive
+3	xubu	xubu	NOUN	_	_	5	nsubj	_	house:abs
+4	‘aisama	‘aisama	ADJ	_	_	5	amod	_	bad
+5	‘i-këbëtan	‘i	VERB	_	_	_	_	_	be-ds/a/p:se:tran
+6	ka	ka	PART	_	_	12	aux:sgen	_	narrative
+7	=na	na	PART	_	_	12	nsubj:bound	_	=1sg
+8	bëtsi	bëtsi	ADJ	_	_	9	amod	_	other
+9	xubu	xubu	NOUN	_	_	12	obj	_	house:abs
+10	‘ë	‘ë	PRON	_	_	12	nsubj:free	_	1sg
+11	=n	n	PART	_	_	10	case	_	=a
+12	‘a-akë-n	‘a	VERB	_	_	_	_	_	do-rem.pst-1/2
+13	.	_	PUNCT	_	_	12	punct	_	_

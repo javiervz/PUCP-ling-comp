@@ -1,0 +1,6 @@
+1	Xanu-xun	xanu	NOUN	_	_	5	adv	_	woman
+2	ka		_	PART	_	_	5	aux:sgen	_	_
+3	=a		ka	PART	_	_	5	nsubj:bound	_	nar:3
+4	‘atapa		‘atapa	NOUN	_	_	5	obj	_	chicken:abs
+5	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-pfv-3-non.prox
+6	.		_	PUNCT	_	_	5	punct	_	_
