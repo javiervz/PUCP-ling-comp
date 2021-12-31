@@ -1,0 +1,27 @@
+1	Puin	_	_	_	_	_	_	_	_
+2	‘axankëbë	_	_	_	_	_	_	_	_
+3	kaisa	_	_	_	_	_	_	_	_
+4	[	_	_	_	_	_	_	_	_
+5	...	_	_	_	_	_	_	_	_
+
+1	Pui	_	NOUN	_	_	3	obl	_	_
+2	=n	_	PART	_	_	1	case	_	_
+3	‘axankëbë	_	VERB	_	_	9	advcl	_	_
+4	ka	_	AUX	_	_	9	aux:sgen	_	_
+5	=is	_	AUX	_	_	9	aux:evid	_	_
+6	=a	_	DET	_	_	9	nsubj:bound	_	_
+7	a	_	DET	_	_	_	_	_	_
+8	kaxu	_	ADV	_	_	7	case	_	_
+9	kwankëxa	_	VERB	_	_	0	root	_	_
+10	uni	_	NOUN	_	_	_	_	_	_
+11	achushi	_	ADJ	_	_	10	nummod	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+1	_	_	_	_	_	_	_	_	_
+2	_	_	_	_	_	_	_	_	_
+3	_	_	_	_	_	_	_	_	_
+4	_	_	_	_	_	_	_	_	_
+5	_	_	_	_	_	_	_	_	_
+6	_	_	_	_	_	_	_	_	_
+7	_	_	_	_	_	_	_	_	_
+8	_	_	_	_	_	_	_	_	_

@@ -1,0 +1,10 @@
+1	Uni	_	NOUN	_	_	9	nsubj:free	_	man
+2	=n	_	PART	_	_	1	case	_	=ERG
+3	ka	_	PART	_	_	9	aux:sgen	_	NAR:3
+4	=a	_	PART	_	_	9	nsubj	_	_
+5	baka	_	NOUN	_	_	9	obl	_	river
+6	=nu	_	PART	_	_	5	case	_	=LOC
+7	=xun	_	PART	_	_	1	case	_	=PA.A
+8	chaxu	_	NOUN	_	_	9	obj	_	deer:ABS
+9	'a-a-x-a	_	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
+10	.	_	PUNCT	_	_	9	punct	_	_

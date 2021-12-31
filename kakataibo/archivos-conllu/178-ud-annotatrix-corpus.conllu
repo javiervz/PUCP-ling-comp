@@ -1,0 +1,8 @@
+1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN
+2	chaiti	_	NOUN	_	_	7	nsubj:free	_	ancestor
+3	=n	_	PART	_	_	2	case	_	=ERG
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR:3
+5	=a	_	PART	_	_	7	nsubj	_	_
+6	bana	_	NOUN	_	_	7	obl	_	tale:ABS
+7	ñui-xun-kian	_	VERB	_	_	0	root	_	say-BEN-REM.PST.HAB.3
+8	.	_	PUNCT	_	_	7	punct	_	_

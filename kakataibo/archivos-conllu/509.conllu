@@ -1,0 +1,13 @@
+1	Chaxu	_	NOUN	_	_	_	_	_	_
+2	an	_	DET	_	_	1	det	_	_
+3	=n	_	PART	_	_	1	case	_	_
+4	churukukwainkin	_	NOUN	_	_	12	nsubj	_	_
+5	ka	_	AUX	_	_	12	aux:sgen	_	_
+6	=is	_	AUX	_	_	12	aux:evid	_	_
+7	=a	_	DET	_	_	12	nsubj:bound	_	_
+8	xanu	_	NOUN	_	_	12	obj	_	_
+9	xënirá	_	ADJ	_	_	8	amod	_	_
+10	chaxu	_	NOUN	_	_	12	nsubj:free	_	_
+11	=n	_	PART	_	_	10	case	_	_
+12	makwëxakëshín	_	VERB	_	_	0	root	_	_
+13	.	_	PUNCT	_	_	12	punct	_	_

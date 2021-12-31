@@ -1,0 +1,8 @@
+1	Ë	_	PRON	_	_	7	nsubj:free	_	1SG
+2	=x	_	PART	_	_	1	case	_	=S
+3	ka	_	PART	_	_	7	aux:sgen	_	NAR
+4	=na	_	PART	_	_	7	nsubj	_	=1SG
+5	xubu	_	NOUN	_	_	7	obl	_	house
+6	=nu	_	PART	_	_	5	case	_	=LOC
+7	atsin-i-n	_	VERB	_	_	0	root	_	enter-IPFV-1/2
+8	.	_	PUNCT	_	_	7	punct	_	_

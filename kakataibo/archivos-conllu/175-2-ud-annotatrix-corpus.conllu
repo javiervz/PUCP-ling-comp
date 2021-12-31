@@ -1,0 +1,17 @@
+1	Norte	_	NOUN	_	_	16	obl	_	North
+2	=nu	_	PART	_	_	1	case	_	=loc
+3	tsó-xun	_	VERB	_	_	16	advcl	_	live-S/A>A:SE
+4	ka	_	PART	_	_	16	aux:sgen	_	NAR
+5	=is	_	PART	_	_	16	aux:ev	_	=REP
+6	=a	_	PART	_	_	16	nsubj	_	=3
+7	nukën	_	PRON	_	_	8	nmod	_	1pl.gen
+8	chaiti-baë	_	NOUN	_	_	16	nsubj:free	_	ancestor-COL
+9	=n	_	PART	_	_	8	case	_	=ERG
+10	uni	_	NOUN	_	_	16	obl	_	people
+11	=ñu	_	PART	_	_	10	case	_	=PROP
+12	=ma	_	PART	_	_	10	nmod	_	=NEG
+13	no	_	NOUN	_	_	16	obl	_	foreign
+14	=ñu	_	PART	_	_	13	case	_	=PROP
+15	=ma	_	PART	_	_	13	nmod	_	=NEG
+16	'a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3-NON.PROX
+17	.	_	PUNCT	_	_	16	punct	_	_

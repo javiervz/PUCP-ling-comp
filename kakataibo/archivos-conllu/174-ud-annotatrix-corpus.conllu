@@ -1,0 +1,8 @@
+1	Juan	_	NOUN	_	_	7	nsubj	_	Juan
+2	ka	_	PART	_	_	7	nsubj	_	NAR:3
+3	=mënë	_	PART	_	_	7	nsubj	_	=MIR
+4	mi	_	PRON	_	_	6	nmod	_	2SG
+5	=n	_	PART	_	_	4	case	_	=GEN
+6	kuriki	_	NOUN	_	_	7	aux:sgen	_	money:ABS
+7	mëkama-iéé	_	VERB	_	_	0	root	_	steal-3.accusatory
+8	.	_	PUNCT	_	_	7	punct	_	_

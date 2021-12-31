@@ -1,0 +1,15 @@
+1	Usai	_	ADV	_	_	5	advmod	_	_
+2	ka	_	AUX	_	_	5	aux:sgen	_	_
+3	=a	_	PART	_	_	5	nsubj:bound	_	_
+4	ëo	_	ADJ	_	_	_	_	_	_
+5	kamëokëxa	_	VERB	_	_	0	root	_	_
+6	nu	_	PRON	_	_	8	nmod	_	_
+7	=n	_	PART	_	_	6	case	_	_
+8	‘anibu	_	NOUN	_	_	5	obj	_	_
+9	nukën	_	PRON	_	_	10	nmod	_	_
+10	chaitibaë	_	NOUN	_	_	5	nmod	_	_
+11	=n	_	PART	_	_	10	case	_	_
+12	nukën	_	PRON	_	_	13	nmod	_	_
+13	xutabaë	_	NOUN	_	_	5	nmod	_	_
+14	=n	_	PART	_	_	13	case	_	_
+15	.	_	PUNCT	_	_	5	punct	_	_

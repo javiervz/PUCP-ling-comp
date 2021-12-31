@@ -1,0 +1,9 @@
+1	Tënka-këbë	_	VERB	_	_	8	advcl	_	cut-when:DS/A/P:INTR
+2	ka	_	PART	_	_	8	aux:sgen	_	NAR
+3	=is	_	PART	_	_	8	aux:ev	_	REP
+4	=a	_	PART	_	_	8	nsubj	_	3
+5	uni	_	NOUN	_	_	8	nsubj:free	_	person:ABS
+6	ëëëëëë	_	INTJ	_	_	8	parataxis	_	ëëëëë
+7	ki-i	_	VERB	_	_	8	advcl	_	say:INTR-S/A>S:SE
+8	bë-man-mët-akë-xín	_	VERB	_	_	0	root	_	eyes-touch-REFL-REM.PST-3-PROX
+9	.	_	PUNCT	_	_	8	punct	_	_

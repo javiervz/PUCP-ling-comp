@@ -1,0 +1,9 @@
+1	Nukën	_	PRON	_	_	2	nmod	_	1pl:gen
+2	chaiti	_	NOUN	_	_	6	nsubj:free	_	ancestor:abs
+3	ka	_	PART	_	_	6	aux:sgen	_	nar
+4	=is	_	PART	_	_	6	aux:ev	_	=rep
+5	=a	_	PART	_	_	6	nsubj	_	=3
+6	tsó-akë-x-a	_	VERB	_	_	0	root	_	live-rem.pst-3-non.prox
+7	norte	_	NOUN	_	_	6	obl	_	North
+8	=nu	_	PART	_	_	7	case	_	=loc
+9	.	_	PUNCT	_	_	6	punct	_	_

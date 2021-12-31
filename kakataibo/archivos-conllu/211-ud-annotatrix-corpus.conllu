@@ -1,0 +1,8 @@
+1	Aguaytia	_	NOUN	_	_	6	obl	_	Aguaytía
+2	=nu	_	PART	_	_	1	case	_	=DIR
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	=na	_	PART	_	_	6	nsubj	_	=1SG
+5	imëshi	_	NOUN	_	_	6	advmod	_	tomorrow
+6	kwan-ti	_	VERB	_	_	0	root	_	go-NOMLZ
+7	ain	_	VERB	_	_	6	aux	_	be:1/2
+8	.	_	PUNCT	_	_	6	punct	_	_

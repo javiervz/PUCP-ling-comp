@@ -1,0 +1,8 @@
+1	Roberto	_	NOUN	_	_	7	nsubj:free	_	Roberto
+2	ka	_	PART	_	_	7	aux:sgen	_	NAR:3
+3	=a	_	PART	_	_	7	nsubj	_	_
+4	mëkën	_	NOUN	_	_	7	obl	_	hand
+5	=nu	_	PART	_	_	4	case	_	=LOC
+6	më-uxu	_	NOUN	_	_	7	nmod	_	hand-white
+7	'ikën	_	VERB	_	_	0	root	_	be:3
+8	.	_	PUNCT	_	_	7	punct	_	_
