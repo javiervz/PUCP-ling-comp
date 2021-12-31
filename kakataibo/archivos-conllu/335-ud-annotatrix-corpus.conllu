@@ -1,0 +1,12 @@
+1	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	nar
+2	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=1pl
+3	toxama	_	NOUN	_	_	5	obj	5:obj	tree.sp.
+4	upí	_	ADJ	_	_	3	amod	3:amod	beautiful:abs
+5	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	pick.up-s/a>a:pe
+6	taish	_	NOUN	_	_	8	obj	8:obj	tree.sp.
+7	a	_	DET	_	_	6	det	6:det	3sg:p
+8	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	buy-s/a>a:pe
+9	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	nar
+10	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=1pl
+11	‘aru-i-n	_	VERB	_	_	0	root	0:root	cook-ipfv-½
+12	.	_	PUNCT	_	_	11	punct	11:punct	_

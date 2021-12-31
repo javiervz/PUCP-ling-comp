@@ -6,5 +6,5 @@
 6	=a	ka	PART	_	_	9	nsubj:bound	_	nar:3
 7	ënë	ënë	DET	_	_	8	det	_	this
 8	‘ó	‘ó	NOUN	_	_	9	obj	_	tapir:abs
-9	‘a-a-x-a‘a	VERB	_	_	_	_	_	kill-pfv-3-non.prox
+9	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-pfv-3-non.prox
 10	.	_	PUNCT	_	_	9	punct	_	_

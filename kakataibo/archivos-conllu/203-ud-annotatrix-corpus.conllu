@@ -3,5 +3,5 @@
 3	ka	_	PART	_	_	5	aux:sgen	_	NAR
 4	=mina	_	PART	_	_	5	nsubj	_	=2
 5	pi-ti	_	VERB	_	_	0	root	_	eat-NOMLZ
-6	'ain	_	VERB	_	_	5	aux	_	be:1/2
+6	'ain	_	AUX	_	_	5	aux	_	be:1/2
 7	.	_	PUNCT	_	_	6	punct	_	_

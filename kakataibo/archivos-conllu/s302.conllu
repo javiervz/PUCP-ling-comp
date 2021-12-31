@@ -5,5 +5,5 @@
 5	ka	_	PART	_	_	8	aux:sgen	_	_
 6	=a	ka	PART	_	_	8	nsubj:bound	_	nar:3
 7	xubu	xubu	NOUN	_	_	8	nsubj:free	_	house:abs
-8	nipakët-a-x-a	nipakët	VERB	_	_	_	_	_	fall.down-ipfv-3-non.prox
+8	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-ipfv-3-non.prox
 9	.	_	PUNCT	_	_	8	punct	_	_

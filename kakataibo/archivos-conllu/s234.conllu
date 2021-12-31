@@ -4,5 +4,5 @@
 4	=na	na	PART	_	_	7	nsubj:bound	_	=1sg
 5	kini	kini	NOUN	_	_	7	obl	_	hole
 6	=nu	nu	PART	_	_	5	case	_	=locative
-7	më-atsin-mët-i-n	atsin	VERB	_	_	_	_	_	hand-enter-refl-ipfv-1/2
+7	më-atsin-mët-i-n	atsin	VERB	_	_	0	root	_	hand-enter-refl-ipfv-1/2
 8	.	_	PUNCT	_	_	7	punct	_	_

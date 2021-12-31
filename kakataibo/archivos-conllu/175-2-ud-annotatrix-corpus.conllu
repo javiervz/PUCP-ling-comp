@@ -10,7 +10,7 @@
 10	uni	_	NOUN	_	_	16	obl	_	people
 11	=ñu	_	PART	_	_	10	case	_	=PROP
 12	=ma	_	PART	_	_	10	nmod	_	=NEG
-13	no	_	NOUN	_	_	16	obl	_	foreign
+13	no	_	ADJ	_	_	16	obl	_	foreign
 14	=ñu	_	PART	_	_	13	case	_	=PROP
 15	=ma	_	PART	_	_	13	nmod	_	=NEG
 16	'a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3-NON.PROX

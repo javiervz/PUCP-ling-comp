@@ -3,5 +3,5 @@
 3	nunti	nunti	NOUN	_	_	6	nsubj:free	_	canoe:abs
 4	ka	_	PART	_	_	6	aux:sgen	_	_
 5	=a	ka	PART	_	_	6	nsubj:bound	_	nar:3
-6	kini-i-ín	kini	VERB	_	_	_	_	_	become.hole-ipfv-prox_
+6	kini-i-ín	kini	VERB	_	_	0	root	_	become.hole-ipfv-prox_
 7	.	_	PUNCT	_	_	6	punct	_	_

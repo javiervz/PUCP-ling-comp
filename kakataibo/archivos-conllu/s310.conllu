@@ -5,5 +5,5 @@
 5	ka	ka	PART	_	_	8	aux:sgen	_	narrative
 6	=na	na	PART	_	_	8	nsubj:bound	_	=1sg
 7	‘aisama	‘aisama	ADJ	_	_	8	amod	_	bad
-8	‘ain	‘i	VERB	_	_	_	_	_	be:1/2
+8	‘ain	‘i	VERB	_	_	0	root	_	be:1/2
 9	.	_	PUNCT	_	_	8	punct	_	_

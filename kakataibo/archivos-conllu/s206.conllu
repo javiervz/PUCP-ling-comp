@@ -4,5 +4,5 @@
 4	ka	_	PART	_	_	7	aux:sgen	_	_
 5	=a	ka	PART	_	_	7	nsubj:bound	_	nar:3
 6	‘ë	‘ë	PRON	_	_	7	obj	_	1sg:p
-7	‘inan	'inan	VERB	_	_	_	_	_	give:imp
+7	‘inan	'inan	VERB	_	_	0	root	_	give:imp
 8	.	_	PUNCT	_	_	7	punct	_	_

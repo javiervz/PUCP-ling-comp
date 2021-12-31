@@ -3,5 +3,5 @@
 3	linterna	linterna	NOUN	_	_	6	nsubj:free	_	torch:abs
 4	ka	ka	PART	_	_	6	aux:sgen	_	narrative
 5	=mina	mina	PART	_	_	6	nsubj:bound	_	=2
-6	tirit-o-a-n	tirit	VERB	_	_	_	_	_	become.shining-fact-pfv-2
+6	tirit-o-a-n	tirit	VERB	_	_	0	root	_	become.shining-fact-pfv-2
 7	.	_	PUNCT	_	_	6	punct	_	_

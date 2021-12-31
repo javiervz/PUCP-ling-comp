@@ -3,5 +3,5 @@
 3	naë	naë	NOUN	_	_	6	nsubj:free	_	garden:abs
 4	ka	_	PART	_	_	6	aux:sgen	_	_
 5	=a	ka	PART	_	_	6	nsubj:bound	_	nar:3
-6	matat-i-ín	matat	VERB	_	_	_	_	_	become.hill-ipfv-prox
+6	matat-i-ín	matat	VERB	_	_	0	root	_	become.hill-ipfv-prox
 7	.	_	PUNCT	_	_	6	punct	_	_
