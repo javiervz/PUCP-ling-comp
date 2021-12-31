@@ -1,0 +1,12 @@
+1	Anuxun	anu	ADV	_	_	11	advmod	_	there
+2	nukën	nukën	PRON	_	_	3	nmod	_	1pl.gen
+3	bake	bakë	NOUN	_	_	11	obj	_	son
+4	bëchikë	bëchikë	NOUN	_	_	3	compound	_	son
+5	nukën	nukën	PRON	_	_	6	nmod	_	1pl.gen
+6	ini	ini	NOUN	_	_	11	obj	_	daughter
+7	bëchikë	bëchikë	NOUN	_	_	6	compound	_	daughter
+8	'óina	'ó	NOUN	_	_	10	obj	_	tapir
+9	chunena	chuna	NOUN	_	_	10	obj	_	monkey
+10	pitankëxun	pi	VERB	_	_	11	advcl	_	eat
+11	kaniotin	kaniot	VERB	_	_	0	root	_	raise
+12	.	_	PUNCT	_	_	11	punct	_	_

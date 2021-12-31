@@ -1,0 +1,12 @@
+1	'Aishbi	'aishbi	VERB	_	_	5	advmod	_	but
+2	ka	ka	PART	_	_	5	aux:sgen	_	narrative
+3	=is	is	PART	_	_	5	aux:evid	_	reportative
+4	=a	a	PART	_	_	5	nsubj:bound	_	3
+5	'iakëxa	'i	VERB	_	_	0	root	_	be
+6	a	a	DET	_	_	7	det	_	that
+7	uni	uni	NOUN	_	_	5	nsubj:free	_	person
+8	chumíbukë	chumin-but	ADJ	_	_	7	amod	_	thin-advance.process
+9	bamati	bama	VERB	_	_	5	advmod	_	die
+10	ura	ura	ADV	_	_	9	advmod	_	far
+11	=ma	ma	ADV	_	_	10	advmod	_	negative
+12	.	_	PUNCT	_	_	5	punct	_	_

@@ -1,0 +1,8 @@
+1	Bari	bari	NOUN	_	_	7	nsubj:free	_	sun
+2	=n	n	PART	_	_	1	case	_	ergative
+3	ka	ka	PART	_	_	7	aux:sgen	_	narrative
+4	=a	a	PART	_	_	7	nsubj:bound	_	3
+5	a	a	DET	_	_	6	det	_	that
+6	këntí	këntí	NOUN	_	_	7	obj	_	pot
+7	ichútmiaxa	ichút	VERB	_	_	0	root	_	be.bright
+8	.	_	PUNCT	_	_	7	punct	_	_

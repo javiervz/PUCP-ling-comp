@@ -1,0 +1,12 @@
+1	Ë	Ë	ADV	_	_	8	obl	_	here
+2	=nu	nu	PART	_	_	1	case	_	locative
+3	achushi	achushi	NUM	_	_	7	nummod	_	one
+4	bëráma	bëráma	ADJ	_	_	7	amod	_	old
+5	nu	nu	PRON	_	_	7	amod	_	1pl
+6	=n	n	PART	_	_	5	case	_	genitive
+7	‘anibu	‘anibu	NOUN	_	_	8	nsubj:free	_	ancestor
+8	‘ia	be	NOUN	_	_	11	ccomp	_	be-NOMLZ
+9	ka	ka	PART	_	_	11	aux:sgen	_	narrative
+10	=na	na	PART	_	_	11	nsubj:bound	_	1sg
+11	ñuikasin	ñui	VERB	_	_	0	root	_	tell
+12	.	_	PUNCT	_	_	11	punct	_	_

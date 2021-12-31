@@ -1,0 +1,9 @@
+1	Roberto	Roberto	PROPN	_	_	8	nsubj:free	_	Roberto
+2	=nën	n	PART	_	_	1	case	_	Ergative
+3	ka	ka	PART	_	_	8	aux:sgen	_	narrative
+4	=a	a	PART	_	_	8	nsubj:bound	_	3
+5	ënë	ënë	DET	_	_	7	det	_	this
+6	‘ó	'o	NOUN	_	_	7	nmod	_	tapir
+7	name	nami	NOUN	_	_	8	obj	_	meat
+8	pipania	pi-pan	VERB	_	_	0	root	_	eat-first
+9	.	_	PUNCT	_	_	8	punct	_	_

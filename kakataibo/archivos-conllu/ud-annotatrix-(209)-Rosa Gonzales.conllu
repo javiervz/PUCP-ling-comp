@@ -1,0 +1,12 @@
+1	Uni	uni	NOUN	_	_	10	obl	_	man
+2	chaxkë´	chaxkë´	ADJ	_	_	1	amod	_	big
+3	achushi	achushi	NUM	_	_	1	nummod	_	one
+4	=bëtan	bëtan	PART	_	_	1	case	_	comitative
+5	ka	ka	PART	_	_	10	aux:sgen	_	narrative
+6	=na	na	PART	_	_	10	nsubj:bound	_	1sg
+7	'ë	'ë	PRON	_	_	9	nmod	_	1sg
+8	=n	n	PART	_	_	7	case	_	genitive
+9	xubu	xubu	NOUN	_	_	10	obj	_	house
+10	'ati	'a	VERB	_	_	0	root	_	do
+11	'ain	'ain	AUX	_	_	10	aux	_	be
+12	.	_	PUNCT	_	_	10	punct	_	_

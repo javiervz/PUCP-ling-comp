@@ -1,0 +1,20 @@
+1	Kana	_	_	_	_	_	_	_	_
+2	rani	_	_	_	_	_	_	_	_
+3	xon	_	_	_	_	_	_	_	_
+4	ranikananuna	_	_	_	_	_	_	_	_
+5	ain	_	_	_	_	_	_	_	_
+6	tsipunu	_	_	_	_	_	_	_	_
+7	bëtanitin	_	_	_	_	_	_	_	_
+8	.	_	_	_	_	_	_	_	_
+
+1	Kana	kana	NOUN	_	_	2	nmod	_	macaw
+2	rani	rani	NOUN	_	_	10	obj	_	feather
+3	xon	xon	NOUN	_	_	4	nmod	_	red.macaw
+4	rani	rani	NOUN	_	_	10	obj	_	feather
+5	ka	ka	PART	_	_	10	aux:sgen	_	narrative
+6	=nanuna	(na)nuna	PART	_	_	10	nsubj:bound	_	1pl
+7	ain	ain	PRON	_	_	8	nmod	_	his
+8	tsipu	tsipun	NOUN	_	_	10	obl	_	end (of an object)
+9	=nu	nu	PART	_	_	8	case	_	locative
+10	bëtanitin	bëtanit	VERB	_	_	0	root	_	tie
+11	.	_	PUNCT	_	_	10	punct	_	_

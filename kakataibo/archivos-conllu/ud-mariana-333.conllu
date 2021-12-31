@@ -1,0 +1,12 @@
+1	atian	_	ADV	_	_	11	discourse	_	then
+2	casi	_	ADV	_	_	3	advmod	_	almost
+3	kamabi	_	DET	_	_	4	nummod	_	every
+4	nëtë	_	NOUN	_	_	11	advmod	_	day
+5	=n	_	PART	_	_	4	case	_	=temp
+6	ka	_	PART	_	_	11	aux:sgen	_	nar
+7	=is	_	PART	_	_	11	aux:evi	_	=rep
+8	=a	_	PART	_	_	11	nsubj:bound	_	=3
+9	a	_	DET	_	_	10	det	_	that
+10	uni	_	NOUN	_	_	11	nsubj	_	person:abs
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox
+12	.	_	PUNCT	_	_	11	punct	_	_

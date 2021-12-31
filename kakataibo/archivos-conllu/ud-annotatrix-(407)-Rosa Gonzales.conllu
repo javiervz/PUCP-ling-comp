@@ -1,0 +1,9 @@
+1	Chuna	chuna	NOUN	_	_	8	nsubj:free	_	spider.monkey
+2	unitín	uni	NOUN	_	_	1	nmod	_	man
+3	a	a	PRON	_	_	1	appos	_	3sg
+4	=n	n	PART	_	_	3	case	_	A
+5	ka	ka	PART	_	_	8	aux:sgen	_	narrative
+6	=a	a	PART	_	_	8	nsubj:bound	_	3
+7	'ë	'ë	PRON	_	_	8	obj	_	1sg:P
+8	ratuaxa	ratu	VERB	_	_	0	root	_	scare
+9	.	_	PUNCT	_	_	8	punct	_	_

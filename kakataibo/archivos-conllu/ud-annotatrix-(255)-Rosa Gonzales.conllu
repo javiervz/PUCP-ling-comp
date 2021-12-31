@@ -1,0 +1,10 @@
+1	Comodiezaños	como diez años	ADV	_	_	2	advmod	_	como diez años
+2	aish	aish	VERB	_	_	7	advcl	_	be
+3	ka	ka	PART	_	_	7	aux:sgen	_	narrative
+4	=na	=na	PART	_	_	7	nsubj:bound	_	1sg
+5	'ë	'ë	PRON	_	_	_	_	_	1sg
+6	=x	x	PART	_	_	5	case	_	s
+7	tsókën	tsót	VERB	_	_	0	root	_	live
+8	SantaRosa	Santa Rosa	NOUN	_	_	7	obl	_	Santa Rosa
+9	tsipúmi	 tsipumi	ADP	_	_	8	case	_	below
+10	.	_	PUNCT	_	_	7	punct	_	_

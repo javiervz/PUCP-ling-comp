@@ -1,0 +1,9 @@
+1	Hotel	hotel	NOUN	_	_	8	obl	_	hotel
+2	=uki	u(ki)	PART	_	_	1	case	_	=indirect direction
+3	ka	_	PART	_	_	8	aux:sgen	_	_
+4	=a	ka	PART	_	_	8	nsubj:bound	_	nar:3
+5	‘ë	‘ë	PRON	_	_	7	nmod	_	1sg
+6	=n	n	PART	_	_	5	case	_	=genitive
+7	xukën	xukën	NOUN	_	_	8	nsubj:free	_	brother:abs
+8	u-i-a	u	VERB	_	_	0	root	_	come-ipvf-non.prox
+9	.	_	PUNCT	_	_	8	punct	_	_

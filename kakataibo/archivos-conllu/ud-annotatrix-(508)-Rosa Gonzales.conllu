@@ -1,0 +1,14 @@
+1	kwainkin	kwain	VERB	_	_	13	advcl	_	move.over
+2	=shi	ishi	PART	_	_	1	advmod	_	only
+3	ka	ka	PART	_	_	13	aux:sgen	_	narrative
+4	=is	is	PART	_	_	13	aux:evid	_	reportative
+5	=a	a	PART	_	_	13	nsubj:bound	_	3
+6	ain	ain	PRON	_	_	7	nmod	_	3sg
+7	tita	tita	NOUN	_	_	13	obj	_	mother
+8	ñuxanrá	ñuxan	NOUN	_	_	7	amod	_	old.woman
+9	ain	ain	PRON	_	_	10	nmod	_	3sg:gen
+10	maë	maë	NOUN	_	_	11	obj	_	house
+11	matsunkubuinia	matsun	VERB	_	_	13	advcl	_	sweep
+12	=bi	bi	PART	_	_	11	advmod	_	same
+13	rëakëxa	rët	VERB	_	_	0	root	_	beat
+14	.	_	PUNCT	_	_	13	punct	_	_

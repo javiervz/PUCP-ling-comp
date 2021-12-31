@@ -1,0 +1,16 @@
+1	Bëru-ax	bëru	VERB	_	_	11	advcl	_	stay-s/a>s
+2	ka	_	PART	_	_	11	aux:sgen	_	stay-ds:pe
+3	=is	_	PART	_	_	11	aux:evi	_	_
+4	=a	kaisa	PART	_	_	11	nsubj:bound	_	nar=rep=3
+5	bëru-an	bëru	VERB	_	_	11	advcl	_	_
+6	ka	_	PART	_	_	11	aux:sgen	_	_
+7	=is	_	PART	_	_	11	aux:evi	_	_
+8	=a	kaisa	PART	_	_	11	nsubj:bound	_	nar=rep=3
+9	ukairi	_	NOUN	_	_	11	obj	_	ladder
+10	a	_	DET	_	_	9	appos	_	that:p
+11	tënka-pat-akë-x-ín	_	VERB	_	_	0	root	_	cut.making.noise-down:tran-rem.pst-3-prox
+12	u-but-kin	u	VERB	_	_	11	advcl	_	come-down:intr-s/a>a:se
+13	is	_	PART	_	_	11	aux:evi	_	_
+14	=a	isa	PART	_	_	11	nsubj:bound	_	rep=3
+15	rët-uku-but-an	rët	VERB	_	_	11	advcl	_	cut-iter:one.direction-down:intr-ds/a/p:pe
+16	.	_	PUNCT	_	_	11	punct	_	_

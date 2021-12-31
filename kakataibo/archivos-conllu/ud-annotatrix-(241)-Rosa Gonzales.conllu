@@ -1,0 +1,9 @@
+1	Uinbirës	uinbirës	PRON	_	_	7	nsubj:free	_	anyone
+2	ka	ka	PART	_	_	7	aux:sgen	_	narrative
+3	=a	a	PART	_	_	7	nsubj:bound	_	3
+4	'ë	'ë	PRON	_	_	6	nmod	_	1
+5	=n	n	PART	_	_	4	case	_	genetive
+6	piti	piti	NOUN	_	_	7	obj	_	food
+7	piti	pi	VERB	_	_	0	root	_	eat
+8	'ikën	'ikën	AUX	_	_	7	aux	_	be
+9	.	_	PUNCT	_	_	7	punct	_	_

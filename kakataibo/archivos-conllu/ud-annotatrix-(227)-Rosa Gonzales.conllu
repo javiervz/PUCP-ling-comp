@@ -1,0 +1,8 @@
+1	Parunuti	parunuti	NOUN	_	_	6	nsubj:free	_	earring
+2	a	a	DET	_	_	1	det	_	that
+3	=x	x	PART	_	_	1	case	_	s.
+4	ka	ka	PART	_	_	6	aux:sgen	_	narrative
+5	=a	a	PART	_	_	6	nsubj:bound	_	3
+6	pabëntamëti	pa.bëntan	VERB	_	_	0	root	_	ear.hang
+7	'ikën	'ikën	AUX	_	_	6	aux	_	be
+8	.	_	PUNCT	_	_	6	punct	_	_
