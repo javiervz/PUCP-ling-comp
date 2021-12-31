@@ -1,0 +1,7 @@
+1	patron	_	NOUN	_	_	6	obl	_	boss
+2	=bëtan	_	PART	_	_	1	case	_	=COM
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	=a	_	PART	_	_	6	nsubj	_	:3
+5	balata	_	NOUN	_	_	6	obj	_	rubber.latex
+6	a-akë-x-ín	_	VERB	_	_	0	root	_	do-REM.PST-3-PROX
+7	.	_	PUNCT	_	_	6	punct	_	_

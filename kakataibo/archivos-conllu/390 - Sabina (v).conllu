@@ -1,0 +1,11 @@
+1	después	_	ADV	_	_	5	advmod	_	after
+2	ka	_	PART	_	_	5	aux:sgen	_	NAR
+3	=nanuna	_	PART	_	_	5	nsubj	_	=PL
+4	bëtsi	_	NOUN	_	_	5	obj	_	other:ABS
+5	a-ti	_	VERB	_	_	0	root	_	do-NOMLZ
+6	ain	_	AUX	_	_	5	aux	_	be:1/2
+7	bëtsi	_	DET	_	_	8	amod	_	other
+8	historia	_	NOUN	_	_	5	obj	_	story:ABS
+9	bëtsi	_	DET	_	_	10	amod	_	other
+10	bana	_	NOUN	_	_	8	appos	_	tale:ABS
+11	.	_	PUNCT	_	_	5	punct	_	_

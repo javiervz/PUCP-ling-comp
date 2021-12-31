@@ -1,0 +1,9 @@
+1	hotel	_	NOUN	_	_	8	obl	_	hotel
+2	=miki	_	PART	_	_	1	case	_	=IMPR.DIR
+3	ka	_	PART	_	_	8	aux:sgen	_	NAR
+4	=a	_	PART	_	_	8	nsubj	_	:3
+5	e	_	PRON	_	_	7	nmod	_	1SG
+6	=n	_	PART	_	_	5	case	_	=GEN
+7	xukën	_	NOUN	_	_	8	nsubj:free	_	brother:ABS
+8	u-i-a	_	VERB	_	_	0	root	_	come-IPFV-NON.PROX
+9	.	_	PUNCT	_	_	8	punct	_	_

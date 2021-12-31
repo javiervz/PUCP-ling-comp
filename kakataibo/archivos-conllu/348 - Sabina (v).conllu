@@ -1,0 +1,9 @@
+1	rët-tankëxun	_	VERB	_	_	8	advcl	_	kill-S/A:A:PE
+2	ka	_	PART	_	_	8	aux:sgen	_	NAR
+3	=is	_	PART	_	_	8	aux:ev	_	=REP
+4	=a	_	PART	_	_	8	nsubj	_	=3
+5	xanu	_	NOUN	_	_	8	nsubj:free	_	woman
+6	=n	_	PART	_	_	5	case	_	=ERG
+7	chaxu	_	NOUN	_	_	8	obj	_	deer:ABS
+8	rakan-akë-x-in	_	VERB	_	_	0	root	_	lay.down-REM.PST-3-PROX
+9	.	_	PUNCT	_	_	8	punct	_	_

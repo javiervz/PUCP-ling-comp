@@ -1,0 +1,9 @@
+1	uni-tín	_	ADJ	_	_	2	nmod	2:nmod	man-same.size
+2	chuna	_	NOUN	_	_	8	nsubj:free	8:nsubj:free	spider.monkey
+3	a	_	PRON	_	_	2	det	2:det	3SG
+4	=n	_	PART	_	_	2	case	2:case	=A
+5	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
+6	=a	_	PART	_	_	8	nsubj	8:nsubj	:3
+7	ë	_	PRON	_	_	8	obj	8:obj	1SG:P
+8	ratu-a-x-a	_	VERB	_	_	0	root	0:root	scare-PFV-3-NON.PROX
+9	.	_	PUNCT	_	_	8	punct	8:punct	_

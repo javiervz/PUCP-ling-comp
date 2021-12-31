@@ -1,0 +1,10 @@
+1	a-tankëxun	_	VERB	_	_	8	advcl	8:advcl	do-S/A>A:PE
+2	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
+3	=na	_	PART	_	_	8	nsubj	8:nsubj	=1SG
+4	itsa	_	DET	_	_	5	nummod	5:nummod	a.lot
+5	katsin	_	NOUN	_	_	8	obj	8:obj	banana.sp:ABS
+6	itsa	_	DET	_	_	7	nummod	7:nummod	a.lot
+7	xinkun	_	NOUN	_	_	5	appos	5:appos	banana.sp:ABS
+8	a-ti	_	VERB	_	_	0	root	0:root	do-NOMLZ
+9	ain	_	AUX	_	_	8	aux	8:aux	be:1/2
+10	.	_	PUNCT	_	_	8	punct	8:punct	_

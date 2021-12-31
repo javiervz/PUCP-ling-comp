@@ -1,0 +1,11 @@
+1	ka	_	NOUN	_	_	2	aux:sgen	_	NAR
+2	xui	_	VERB	_	_	10	parataxis	_	grill:IMP
+3	ka-xun	_	VERB	_	_	10	advcl	_	say-S/A>A:SE
+4	ka	_	PART	_	_	10	aux:sgen	_	NAR
+5	=is	_	PART	_	_	10	aux:ev	_	=REP
+6	=a	_	PART	_	_	10	nsubj	_	=3
+7	charu	_	NOUN	_	_	10	obj	_	crab:ABS
+8	ain	_	PRON	_	_	9	nmod	_	3SG:GEN
+9	xanu	_	NOUN	_	_	10	iobj	_	woman:ABS
+10	inan-akë-x-a	_	VERB	_	_	0	root	_	give-REM.PST-3-NON.PROX
+11	.	_	PUNCT	_	_	10	punct	_	_

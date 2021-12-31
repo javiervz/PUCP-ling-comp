@@ -1,0 +1,8 @@
+1	nu	_	PRON	_	_	3	nmod	3:nmod	1PL
+2	=n	_	PART	_	_	1	case	1:case	=GEN
+3	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS
+4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR
+5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3
+6	iken	_	VERB	_	_	0	root	0:root	be:3
+7	kwáxka-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ
+8	.	_	PUNCT	_	_	6	punct	6:punct	_

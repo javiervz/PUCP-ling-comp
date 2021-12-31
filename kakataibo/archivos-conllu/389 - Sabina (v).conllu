@@ -1,0 +1,11 @@
+1	anu	_	ADV	_	_	4	advmod	_	heroes
+2	ka	_	PART	_	_	4	aux	_	NAR
+3	=a	_	PART	_	_	4	nsubj	_	:3
+4	i-akë-x-a	_	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
+5	a	_	SCONJ	_	_	6	det	_	that
+6	uni	_	NOUN	_	_	4	nsubj:free	_	person
+7	=kama	_	PART	_	_	6	nmod	_	=PL
+8	ë	_	PRON	_	_	10	nmod	_	1SG
+9	=n	_	PART	_	_	8	case	_	=GEN
+10	papaokë	_	NOUN	_	_	6	appos	_	ancestor
+11	.	_	PUNCT	_	_	4	punct	_	_

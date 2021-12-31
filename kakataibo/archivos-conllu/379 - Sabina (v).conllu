@@ -1,0 +1,6 @@
+1	xubu	_	NOUN	_	_	5	obj	_	houses
+2	=kama	_	PART	_	_	1	nmod	_	=PL:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=a	_	PART	_	_	5	nsubj	_	:3
+5	is-akë-x-a	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX
+6	.	_	PUNCT	_	_	5	punct	_	_

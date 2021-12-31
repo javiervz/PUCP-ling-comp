@@ -1,0 +1,12 @@
+1	ainbi	_	CCONJ	_	_	11	advcl	_	but:DS/A/P
+2	ka	_	PART	_	_	11	aux:sgen	_	NAR
+3	=a	_	PART	_	_	11	nsubj	_	:3
+4	bëná	_	ADJ	_	_	5	amod	_	young
+5	uni	_	NOUN	_	_	11	nsubj:free	_	person
+6	=n	_	PART	_	_	5	case	_	=ERG
+7	pia	_	NOUN	_	_	8	nmod	_	arrow:ABS
+8	toin-ti	_	NOUN	_	_	11	obj	_	grab-NOMLZ
+9	kanti	_	NOUN	_	_	10	nmod	_	bow
+10	toin-ti	_	NOUN	_	_	8	appos	_	hold-NOMLZ
+11	rabin-i-a	_	VERB	_	_	0	root	_	feel.embarrased-IPFV-NON.PROX
+12	.	_	PUNCT	_	_	11	punct	_	_

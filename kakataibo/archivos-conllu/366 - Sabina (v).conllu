@@ -1,0 +1,13 @@
+1	cha	_	ADJ	_	_	2	amod	_	big
+2	bai	_	NOUN	_	_	5	obj	_	path:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=a	_	PART	_	_	5	nsubj	_	=3
+5	a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3
+6	desde	_	ADP	_	_	7	case	_	from
+7	Tingo	_	PROPN	_	_	8	compound	_	Tingo
+8	María	_	PROPN	_	_	5	obl	_	María
+9	anu-xun	_	ADV	_	_	5	advmod	_	there-PA.A
+10	hasta	_	ADP	_	_	11	case	_	until
+11	Pucallpa	_	PROPN	_	_	5	obl	_	Pucallpa
+12	=nu	_	PART	_	_	11	case	_	=LOC
+13	.	_	PUNCT	_	_	5	punct	_	_

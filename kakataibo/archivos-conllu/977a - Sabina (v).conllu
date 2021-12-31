@@ -1,0 +1,11 @@
+
+
+1	xëa-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ
+2	a	_	DET	_	_	1	det	1:det	that
+3	=x	_	PART	_	_	1	case	1:case	=S
+4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR
+5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3
+6	ikën	_	VERB	_	_	0	root	0:root	be:3
+7	shipibo	_	PROPN	_	_	8	nmod	8:nmod	Shipibo
+8	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS
+9	.	_	PUNCT	_	_	6	punct	6:punct	_

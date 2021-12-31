@@ -1,0 +1,10 @@
+1	a	_	PRON	_	_	8	obl	_	that
+2	=kupí	_	PART	_	_	1	case	_	-REAS
+3	ka	_	PART	_	_	8	aux:sgen	_	NAR
+4	=a	_	PART	_	_	8	nsubj	_	:3
+5	nu	_	PRON	_	_	7	nmod	_	we
+6	=n	_	PART	_	_	5	case	_	=GEN
+7	me	_	NOUN	_	_	8	nsubj:free	_	land:ABS
+8	chukúma	_	ADJ	_	_	9	amod	_	small
+9	ikën	_	VERB	_	_	0	root	_	be:3
+10	.	_	PUNCT	_	_	9	punct	_	_

@@ -1,0 +1,11 @@
+1	nukën	_	PRON	_	_	2	nmod	_	our
+2	papaokë	_	NOUN	_	_	10	nsubj:free	_	ancestor
+3	=kama	_	PART	_	_	2	nummod	_	=PL
+4	ka	_	PART	_	_	10	aux:sgen	_	NAR
+5	=a	_	PART	_	_	10	nsubj	_	:3
+6	uni	_	NOUN	_	_	7	amod	_	man
+7	chaxkë	_	ADJ	_	_	10	nmod	_	big
+8	siná	_	ADJ	_	_	9	amod	_	brave
+9	uni	_	NOUN	_	_	10	nmod	_	man
+10	i-akë-x-a	_	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
+11	.	_	PUNCT	_	_	10	punct	_	_

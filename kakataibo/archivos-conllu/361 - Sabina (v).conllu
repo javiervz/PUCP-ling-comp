@@ -1,0 +1,9 @@
+1	a-kin	_	VERB	_	_	5	advcl	_	do-S/A>A:SE
+2	=ma	_	PART	_	_	1	advmod	_	=NEG
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=nanuna	_	PART	_	_	5	nsubj	_	=1PL
+5	a-i-n	_	VERB	_	_	0	root	_	do-IPFV-1/1
+6	atsa	_	NOUN	_	_	5	obl	_	manioc
+7	=këñun	_	PART	_	_	6	case	_	=COMP:P
+8	xëki	_	NOUN	_	_	5	obj	_	corn:ABS
+9	.	_	PUNCT	_	_	5	punct	_	_
