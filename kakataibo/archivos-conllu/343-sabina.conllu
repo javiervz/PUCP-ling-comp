@@ -1,16 +1,4 @@
-1	y	_	CCONJ	_	_	8	conj	8:conj	and
-2	a	_	SCONJ	_	_	3	det	3:det	that
-3	kaibu	_	NOUN	_	_	_	_	_	relative:ABS
-4	=ribi	_	PART	_	_	3	advmod	3:advmod	=also
-5	abat-a	_	NOUN	_	_	3	advmod	3:advmod	escape-NOMLZ
-6	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
-7	=a	_	PART	_	_	8	nsubj	8:nsubj	:3
-8	ikën	_	VERB	_	_	0	root	0:root	be:3
-9	bëtsi	_	NOUN	_	_	8	advmod	8:advmod	other
-10	Palcaso	_	PROPN	_	_	11	nmod	11:nmod	Palcaso river
-11	rëbúmi	_	ADP	_	_	8	advmod	8:advmod	beyond
-12	.	_	PUNCT	_	_	8	punct	8:punct	_
-
+# sent_id = 343-sabina
 1	nukën	_	DET	_	_	2	nmod	2:nmod	1PL.GEN
 2	papa	_	NOUN	_	_	4	nmod	4:nmod	father
 3	=n	_	PART	_	_	2	case	2:case	=GEN

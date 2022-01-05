@@ -1,0 +1,14 @@
+#sent_id = 343-sabina
+1	nukën	_	DET	_	_	2	nmod	2:nmod	1PL.GEN
+2	papa	_	NOUN	_	_	4	nmod	4:nmod	father
+3	=n	_	PART	_	_	2	case	2:case	=GEN
+4	bana	_	NOUN	_	_	7	nsubj	7:nsubj	tale:ABS
+5	=ishi	_	PART	_	_	4	advmod	4:advmod	=only
+6	a-i	_	VERB	_	_	7	advcl	7:advcl	do-S/A>S:SE
+7	tsót-i-n	_	VERB	_	_	12	parataxis	12:parataxis	live-IPFV-1/2
+8	a	_	PRON	_	_	12	obj	12:obj	that
+9	=ishi	_	PART	_	_	8	advmod	8:advmod	=only
+10	ka	_	PART	_	_	12	aux:sgen	12:aux:sgen	NAR
+11	=na	_	PART	_	_	12	nsubj	12:nsubj	=1SG
+12	ka-i-n	_	VERB	_	_	0	root	0:root	say-IPFV-1/2
+13	.	_	PUNCT	_	_	12	punct	12:punct	_
