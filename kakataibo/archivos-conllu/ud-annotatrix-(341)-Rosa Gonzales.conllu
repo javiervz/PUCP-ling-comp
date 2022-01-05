@@ -1,12 +1,3 @@
-1	Kana	_	_	_	_	_	_	_	_
-2	rani	_	_	_	_	_	_	_	_
-3	xon	_	_	_	_	_	_	_	_
-4	ranikananuna	_	_	_	_	_	_	_	_
-5	ain	_	_	_	_	_	_	_	_
-6	tsipunu	_	_	_	_	_	_	_	_
-7	bëtanitin	_	_	_	_	_	_	_	_
-8	.	_	_	_	_	_	_	_	_
-
 1	Kana	kana	NOUN	_	_	2	nmod	_	macaw
 2	rani	rani	NOUN	_	_	10	obj	_	feather
 3	xon	xon	NOUN	_	_	4	nmod	_	red.macaw
