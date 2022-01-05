@@ -1,3 +1,4 @@
+# sent_id = 285-rosa
 1	A	a	DET	_	_	2	det	_	that
 2	uni	uni	NOUN	_	_	9	nsubj:free	_	man
 3	=n	n	PART	_	_	2	case	_	ergative
@@ -5,6 +6,6 @@
 5	=a	a	PART	_	_	9	nsubj:bound	_	3
 6	uri	uri	ADV	_	_	9	advmod	_	far
 7	achushi	achushi	NUM	_	_	8	nummod	_	one
-8	xaë	xaë	NOUN	_	_	9	obj	_	turtle
-9	mëraxa	mëra	VERB	_	_	0	root	_	find
+8	xaë	xaë	NOUN	_	_	9	obj	_	turtle:abs
+9	mëraxa	mëra-a-x-a	VERB	_	_	0	root	_	find-PFV-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_

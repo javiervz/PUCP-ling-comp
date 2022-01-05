@@ -1,3 +1,4 @@
+# sent_id = 214-rosa
 1	uni	uni	NOUN	_	_	10	nsubj:free	_	man
 2	=n	n	PART	_	_	1	case	_	ergative
 3	ka	ka	PART	_	_	10	aux:sgen	_	narrative
@@ -5,7 +6,7 @@
 5	baka	baka	NOUN	_	_	10	obl	_	river
 6	=nu	nu	PART	_	_	5	case	_	locative
 7	=xun	xun	PART	_	_	1	case	_	Participant agreement.Agent
-8	=bi	bi	PART	_	_	5	advmod	_	same
-9	chaxu	chaxu	NOUN	_	_	10	obj	_	deer
-10	'aaxa	'a	VERB	_	_	0	root	_	kill
+8	=bi	bi	PART	_	_	5	advmod	_	=same
+9	chaxu	chaxu	NOUN	_	_	10	obj	_	deer:abs
+10	'aaxa	'a-a-x-a	VERB	_	_	0	root	_	kill-pfv-3-non.prox
 11	.	_	PUNCT	_	_	10	punct	_	_

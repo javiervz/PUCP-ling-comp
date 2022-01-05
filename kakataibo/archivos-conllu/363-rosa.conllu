@@ -1,3 +1,4 @@
+# sent_id = 363-rosa
 1	Ain	ain	PRON	_	_	2	nmod	_	3sg:gen
 2	monument	monumento	NOUN	_	_	8	nsubj:free	_	statue
 3	=sapi	sapi	PART	_	_	8	aux:dub	_	dubitative
@@ -5,5 +6,5 @@
 5	=a	a	PART	_	_	8	nsubj:bound	_	3
 6	Pucallpa	Pucallpa	NOUN	_	_	8	obl	_	Pucallpa
 7	=nu	nu	PART	_	_	6	case	_	locative
-8	'ikën	'ikën	VERB	_	_	0	root	_	be
+8	'ikën	'ikën	VERB	_	_	0	root	_	be:3
 9	.	_	PUNCT	_	_	8	punct	_	_

@@ -1,0 +1,13 @@
+# sent_id = 318-rosa
+1	Anuxun	anu-xun	ADV	_	_	11	advmod	_	there-S/A>A:SE
+2	nukën	nukën	PRON	_	_	3	nmod	_	1pl.gen
+3	bake	bakë	NOUN	_	_	11	obj	_	son:abs
+4	bëchikë	bëchikë	NOUN	_	_	3	compound	_	son:abs
+5	nukën	nukën	PRON	_	_	6	nmod	_	1pl.gen
+6	ini	ini	NOUN	_	_	11	obj	_	daughter:abs
+7	bëchikë	bëchikë	NOUN	_	_	6	compound	_	daughter:abs
+8	'óina	'ó-ina	NOUN	_	_	10	obj	_	tapir-GENE:ABS
+9	chunena	chuna-ina	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS
+10	pitankëxun	pi-tankëxun	VERB	_	_	11	advcl	_	eat-S/A>A:PE
+11	kaniotin	kaniot-i-n	VERB	_	_	0	root	_	raise-IPFV-1/2
+12	.	_	PUNCT	_	_	11	punct	_	_
