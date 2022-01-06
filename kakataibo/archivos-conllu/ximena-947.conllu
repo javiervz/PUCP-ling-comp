@@ -1,0 +1,7 @@
+# sent_id = 947-ximena
+1	Emilio	_	_	NOUN	_	6	nsubj:free	_	_
+2	=n	_	_	PART	_	1	case	_	_
+3	ka	_	_	PART	_	6	aux:sgen	_	_
+4	=a	_	_	DET	_	6	nsubj	_	_
+5	Wilton	_	_	NOUN	_	6	obj	_	_
+6	bana-anan-xun-a-x-a	_	_	VERB	_	0	root	_	_

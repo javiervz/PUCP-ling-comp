@@ -1,0 +1,9 @@
+# sent_id = 916-ximena
+1	kashi	_	_	NOUN	_	8	nsubj	8:nsubj	_
+2	a	_	_	DET	_	1	det	1:det	_
+3	=x	_	_	PART	_	1	case	1:case	_
+4	ka	_	_	PART	_	8	aux:sgen	8:aux:sgen	_
+5	=a	_	_	DET	_	8	nsubj	8:nsubj	_
+6	i	_	_	NOUN	_	8	obl	8:obl	_
+7	=nu	_	_	PART	_	6	case	6:case	_
+8	pani-a-x-a	_	_	VERB	_	0	root	0:root	_
