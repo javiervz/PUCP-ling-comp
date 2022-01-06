@@ -17,6 +17,20 @@
 
 
 
+# sent_id = 1006-ximena
+1	ënu	_	_	ADV	_	6	advmod	_	_
+2	achushi	_	_	ADV	_	6	nummod	_	_
+3	bëráma	_	_	ADJ	_	6	amod	_	_
+4	nu	_	_	AUX	_	6	nmod	_	_
+5	=n	_	_	PART	_	4	case	_	_
+6	‘anibu	_	_	NOUN	_	7	nsubj:free	_	_
+7	‘i-a	_	_	NOUN	_	10	ccomp	_	_
+8	ka	_	_	PART	_	10	aux:sgen	_	_
+9	=na	_	_	AUX	_	10	nsubj	_	_
+10	ñui-kas-i-n	_	VERB	_	_	0	root	_	_
+
+
+
 # sent_id = 174-mariana
 1	Juan	_	PROPN	_	_	7	nsubj	_	Juan=
 2	ka	_	PART	_	_	7	nsubj	_	NAR:3=
@@ -1232,94 +1246,6 @@
 
 
 
-# sent_id = 7-mariana
-1	atian	_	ADV	_	_	11	discourse	_	then=
-2	casi	_	ADV	_	_	3	advmod	_	almost=
-3	kamabi	_	DET	_	_	4	nummod	_	every=
-4	nëtë	_	NOUN	_	_	11	advmod	_	day=
-5	=n	_	PART	_	_	4	case	_	
-6	ka	_	PART	_	_	11	aux:sgen	_	nar=
-7	=is	_	PART	_	_	11	aux:evi	_	
-8	=a	_	PART	_	_	11	nsubj:bound	_	
-9	a	_	DET	_	_	10	det	_	that=
-10	uni	_	NOUN	_	_	11	nsubj	_	person:abs=
-11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox=
-12	.	_	PUNCT	_	_	11	punct	_	_
-
-
-
-# sent_id = 799-claudia
-1	‘Itankëxun	_	ADV	_	_	5	advcl	_	_
-2	ka	_	AUX	_	_	5	aux:sgen	_	_
-3	=is	_	AUX	_	_	5	aux:evid	_	_
-4	=a	_	DET	_	_	5	nsubj:bound	_	_
-5	kakëxa	_	VERB	_	_	0	root	_	_
-6	ain	_	AUX	_	_	7	nmod	_	_
-7	tita	_	NOUN	_	_	5	obj	_	_
-8	ñuxanrá	_	ADJ	_	_	7	amod	_	_
-9	“	_	PUNCT	_	_	5	punct	_	_
-10	tita	_	NOUN	_	_	23	discourse	_	_
-11	=n	_	PART	_	_	10	case	_	_
-12	,	_	PUNCT	_	_	_	_	_	_
-13	anu	_	DET	_	_	16	obj	_	_
-14	uni	_	NOUN	_	_	16	advmod	_	_
-15	xëni	_	ADJ	_	_	14	amod	_	_
-16	‘ati	_	VERB	_	_	21	ccomp	_	_
-17	ë	_	PRON	_	_	20	nmod	_	_
-18	=n	_	PART	_	_	17	case	_	_
-19	kupë	_	NOUN	_	_	_	_	_	_
-20	atsa	_	PART	_	_	19	compound	_	_
-21	bitstanmainun	_	VERB	_	_	23	advcl	_	_
-22	ka	_	AUX	_	_	23	aux:sgen	_	_
-23	bëruan	_	VERB	_	_	5	parataxis	_	_
-24	,	_	PUNCT	_	_	5	punct	_	_
-25	tita	_	NOUN	_	_	23	discourse	_	_
-26	=n	_	PART	_	_	25	case	_	_
-27	”	_	PUNCT	_	_	5	punct	_	_
-28	.	_	PUNCT	_	_	5	punct	_	_
-
-
-
-# sent_id = 976-mariana
-1	Nüken	_	_	PRON	_	2	nmod	_	1PL.GEN=
-2	chaiti	_	_	NOUN	_	6	nsubj	_	ancestor:ABS=
-3	ka	_	_	PART	_	6	aux:sgen	_	
-4	=is	_	_	PART	_	6	aux:ev	_	
-5	=a	_	_	PART	_	6	nsubj	_	
-6	tsót-akë-x-a	_	VERB	_	_	0	root	_	live-REM.PST-3-NON.PROX=
-7	rima	_	_	PROPN	_	6	obl	_	Lima=
-8	kaxu	_	_	ADV	_	7	case	_	behind=
-9	norte	_	_	NOUN	_	6	obl	_	North=
-10	=nu	_	_	PART	_	9	case	_	
-11	.	_	_	PUNCT	_	6	punct	_	_
-
-
-
-# sent_id = 977a-sabina
-1	xëa-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ=
-2	a	_	DET	_	_	1	det	1:det	that=
-3	=x	_	PART	_	_	1	case	1:case	
-4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
-5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3=
-6	ikën	_	VERB	_	_	0	root	0:root	be:3=
-7	shipibo	_	PROPN	_	_	8	nmod	8:nmod	Shipibo=
-8	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
-9	.	_	PUNCT	_	_	6	punct	6:punct	_
-
-
-
-# sent_id = 977b-sabina
-1	nu	_	PRON	_	_	3	nmod	3:nmod	1PL=
-2	=n	_	PART	_	_	1	case	1:case	
-3	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
-4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
-5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3=
-6	iken	_	VERB	_	_	0	root	0:root	be:3=
-7	kwáxka-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ=
-8	.	_	PUNCT	_	_	6	punct	6:punct	_
-
-
-
 # sent_id = 615-ximena
 1	ui	_	PRON	_	_	7	nsubj:free	_	_
 2	n	_	PART	_	_	1	case	_	_
@@ -1339,6 +1265,22 @@
 5	munui	_	NOUN	_	_	7	advcl	_	_
 6	ishi 	_	ADV	_	_	5	advmod	_	_
 7	kwanin	_	VERB	_	_	0	root	_	_
+
+
+
+# sent_id = 7-mariana
+1	atian	_	ADV	_	_	11	discourse	_	then=
+2	casi	_	ADV	_	_	3	advmod	_	almost=
+3	kamabi	_	DET	_	_	4	nummod	_	every=
+4	nëtë	_	NOUN	_	_	11	advmod	_	day=
+5	=n	_	PART	_	_	4	case	_	
+6	ka	_	PART	_	_	11	aux:sgen	_	nar=
+7	=is	_	PART	_	_	11	aux:evi	_	
+8	=a	_	PART	_	_	11	nsubj:bound	_	
+9	a	_	DET	_	_	10	det	_	that=
+10	uni	_	NOUN	_	_	11	nsubj	_	person:abs=
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox=
+12	.	_	PUNCT	_	_	11	punct	_	_
 
 
 
@@ -1374,6 +1316,38 @@
 7	n 	_	PART	_	_	6	case	_	_
 8	iëtan-a-n	_	VERB	_	_	0	root	_	_
 9	.	_	PUNCT	_	_	8	punct	_	_
+
+
+
+# sent_id = 799-claudia
+1	‘Itankëxun	_	ADV	_	_	5	advcl	_	_
+2	ka	_	AUX	_	_	5	aux:sgen	_	_
+3	=is	_	AUX	_	_	5	aux:evid	_	_
+4	=a	_	DET	_	_	5	nsubj:bound	_	_
+5	kakëxa	_	VERB	_	_	0	root	_	_
+6	ain	_	AUX	_	_	7	nmod	_	_
+7	tita	_	NOUN	_	_	5	obj	_	_
+8	ñuxanrá	_	ADJ	_	_	7	amod	_	_
+9	“	_	PUNCT	_	_	5	punct	_	_
+10	tita	_	NOUN	_	_	23	discourse	_	_
+11	=n	_	PART	_	_	10	case	_	_
+12	,	_	PUNCT	_	_	_	_	_	_
+13	anu	_	DET	_	_	16	obj	_	_
+14	uni	_	NOUN	_	_	16	advmod	_	_
+15	xëni	_	ADJ	_	_	14	amod	_	_
+16	‘ati	_	VERB	_	_	21	ccomp	_	_
+17	ë	_	PRON	_	_	20	nmod	_	_
+18	=n	_	PART	_	_	17	case	_	_
+19	kupë	_	NOUN	_	_	_	_	_	_
+20	atsa	_	PART	_	_	19	compound	_	_
+21	bitstanmainun	_	VERB	_	_	23	advcl	_	_
+22	ka	_	AUX	_	_	23	aux:sgen	_	_
+23	bëruan	_	VERB	_	_	5	parataxis	_	_
+24	,	_	PUNCT	_	_	5	punct	_	_
+25	tita	_	NOUN	_	_	23	discourse	_	_
+26	=n	_	PART	_	_	25	case	_	_
+27	”	_	PUNCT	_	_	5	punct	_	_
+28	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
@@ -1450,6 +1424,65 @@
 3	ka	_	_	PART	_	5	aux:sgen	_	_
 4	:a	_	_	DET	_	5	nsubj	_	_
 5	‘ikut-kan-anan-i-a	_	_	VERB	_	0	root	_	_
+
+
+
+# sent_id = 976-mariana
+1	Nüken	_	_	PRON	_	2	nmod	_	1PL.GEN=
+2	chaiti	_	_	NOUN	_	6	nsubj	_	ancestor:ABS=
+3	ka	_	_	PART	_	6	aux:sgen	_	
+4	=is	_	_	PART	_	6	aux:ev	_	
+5	=a	_	_	PART	_	6	nsubj	_	
+6	tsót-akë-x-a	_	VERB	_	_	0	root	_	live-REM.PST-3-NON.PROX=
+7	rima	_	_	PROPN	_	6	obl	_	Lima=
+8	kaxu	_	_	ADV	_	7	case	_	behind=
+9	norte	_	_	NOUN	_	6	obl	_	North=
+10	=nu	_	_	PART	_	9	case	_	
+11	.	_	_	PUNCT	_	6	punct	_	_
+
+
+
+# sent_id = 977a-sabina
+1	xëa-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ=
+2	a	_	DET	_	_	1	det	1:det	that=
+3	=x	_	PART	_	_	1	case	1:case	
+4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
+5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3=
+6	ikën	_	VERB	_	_	0	root	0:root	be:3=
+7	shipibo	_	PROPN	_	_	8	nmod	8:nmod	Shipibo=
+8	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
+9	.	_	PUNCT	_	_	6	punct	6:punct	_
+
+
+
+# sent_id = 977b-sabina
+1	nu	_	PRON	_	_	3	nmod	3:nmod	1PL=
+2	=n	_	PART	_	_	1	case	1:case	
+3	bana	_	NOUN	_	_	6	nmod	6:nmod	word:ABS=
+4	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	NAR=
+5	=a	_	PART	_	_	6	nsubj	6:nsubj	:3=
+6	iken	_	VERB	_	_	0	root	0:root	be:3=
+7	kwáxka-kë	_	NOUN	_	_	6	nsubj:free	6:nsubj:free	drink-NOMLZ=
+8	.	_	PUNCT	_	_	6	punct	6:punct	_
+
+
+
+# sent_id = 979-ximena
+1	ka	_	_	PART	_	4	aux:sgen	_	_
+2	:a	_	_	DET	_	4	nsubj	_	_
+3	‘ó	_	_	NOUN	_	4	obj	_	_
+4	‘a-on-x-a	_	_	VERB	_	0	root	_	_
+
+
+
+# sent_id = 999-ximena
+1	mi	_	_	AUX	_	3	nsubj	_	_
+2	=n	_	_	PART	_	1	case	_	_
+3	‘aru-kë	_	_	NOUN	_	4	acl	_
+4	piti	_	_	NOUN	_	7	nsubj:free	_	_
+5	ka	_	_	PART	_	7	aux	_	_
+6	:a	_	_	DET	_	7	nsubj	_	_
+7	nëish=kin	_	_	VERB	_	0	root	_
 
 
 

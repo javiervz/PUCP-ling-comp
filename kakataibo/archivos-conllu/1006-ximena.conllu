@@ -1,0 +1,11 @@
+# sent_id = 1006-ximena
+1	ënu	_	_	ADV	_	6	advmod	_	_
+2	achushi	_	_	ADV	_	6	nummod	_	_
+3	bëráma	_	_	ADJ	_	6	amod	_	_
+4	nu	_	_	AUX	_	6	nmod	_	_
+5	=n	_	_	PART	_	4	case	_	_
+6	‘anibu	_	_	NOUN	_	7	nsubj:free	_	_
+7	‘i-a	_	_	NOUN	_	10	ccomp	_	_
+8	ka	_	_	PART	_	10	aux:sgen	_	_
+9	=na	_	_	AUX	_	10	nsubj	_	_
+10	ñui-kas-i-n	_	VERB	_	_	0	root	_	_
