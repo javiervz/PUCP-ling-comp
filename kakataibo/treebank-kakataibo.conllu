@@ -1259,11 +1259,11 @@
 
 # sent_id = 672-ximena
 1	‘ë	_	PRON	_	_	7	nsubj:free	_	_
-2	x 	_	PART	_	_	1	case	_	_
+2	x	_	PART	_	_	1	case	_	_
 3	ka	_	PART	_	_	7	aux:sgen	_	_
-4	na 	_	DET	_	_	7	nsubj	_	_
+4	na	_	DET	_	_	7	nsubj	_	_
 5	munui	_	NOUN	_	_	7	advcl	_	_
-6	ishi 	_	ADV	_	_	5	advmod	_	_
+6	ishi	_	ADV	_	_	5	advmod	_	_
 7	kwanin	_	VERB	_	_	0	root	_	_
 
 
@@ -1287,7 +1287,7 @@
 # sent_id = 708-ximena
 1	‘inu	_	NOUN	_	_	6	nsubj:free	_	_
 2	=n	_	PART	_	_	1	case	_	_
-3	=bu 	_	PART	_	_	1	nummod	_	_
+3	=bu	_	PART	_	_	1	nummod	_	_
 4	ka	_	PART	_	_	6	aux:sgen	_	_
 5	:a	_	AUX	_	_	6	nsubj	_	_
 6	'aaxa	_	VERB	_	_	0	root	_	_
@@ -1296,24 +1296,24 @@
 
 
 # sent_id = 719-ximena
-1	Juan 	_	NOUN 	_	_	6	nsubj:free	_	_
+1	Juan	_	NOUN	_	_	6	nsubj:free	_	_
 2	ka	_	PART	_	_	6	aux:sgen	_	_
-3	a 	_	DET	_	_	6	nsubj	_	_
+3	a	_	DET	_	_	6	nsubj	_	_
 4	chuna	_	NOUN	_	_	6	nmod	_	_
-5	sa 	_	PART	_	_	4	case	_	_
+5	sa	_	PART	_	_	4	case	_	_
 6	‘ikën	_	VERB	_	_	0	root	_	_
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 775-ximena
-1	chupa 	_	NOUN	_	_	2	obj	_	_
+1	chupa	_	NOUN	_	_	2	obj	_	_
 2	maru-kin	_	VERB	_	_	8	advcl	_	_
-3	bi 	_	ADV	_	_	2	advmod	_	_
+3	bi	_	ADV	_	_	2	advmod	_	_
 4	ka	_	PART	_	_	8	aux:sgen	_	_
-5	na 	_	DET	_	_	8	nsubj	_	_
+5	na	_	DET	_	_	8	nsubj	_	_
 6	‘ë	_	PRON	_	_	8	nsubj:free	_	_
-7	n 	_	PART	_	_	6	case	_	_
+7	n	_	PART	_	_	6	case	_	_
 8	iëtan-a-n	_	VERB	_	_	0	root	_	_
 9	.	_	PUNCT	_	_	8	punct	_	_
 
@@ -1353,11 +1353,11 @@
 
 # sent_id = 854-ximena
 1	María	_	NOUN	_	_	3	nsubj:free	_	_
-2	=n 	_	PART	_	_	1	case	_	_
+2	=n	_	PART	_	_	1	case	_	_
 3	‘aru-kë	_	VERB	_	_	7	ccomp	_	_
-4	=sa 	_	PART	_	_	3	case	_	_
+4	=sa	_	PART	_	_	3	case	_	_
 5	ka	_	AUX	_	_	7	aux:sgen	_	_
-6	=na 	_	PART	_	_	7	nsubj	_	_
+6	=na	_	PART	_	_	7	nsubj	_	_
 7	sinan-i-n	_	VERB	_	_	0	root	_	_
 
 
@@ -1365,10 +1365,10 @@
 # sent_id = 881-ximena
 1	a	_	PRON	_	_	7	nsubj:free	_	_
 2	=kama	_	DET	_	_	1	nummod	_	_
-3	=n 	_	PART	_	_	1	case	_	_
-4	ka 	_	AUX	_	_	7	aux:sgen	_	_
+3	=n	_	PART	_	_	1	case	_	_
+4	ka	_	AUX	_	_	7	aux:sgen	_	_
 5	=a	_	DET	_	_	7	nsubj	_	_
-6	‘atsa 	_	NOUN	_	_	7	obj	_	_
+6	‘atsa	_	NOUN	_	_	7	obj	_	_
 7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
 8	.	_	PUNCT	_	_	7	punct	_	_
 
