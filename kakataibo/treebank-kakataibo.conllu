@@ -1429,17 +1429,17 @@
 
 
 # sent_id = 976-mariana
-1	Nüken	_	_	PRON	_	2	nmod	_	1PL.GEN
-2	chaiti	_	_	NOUN	_	6	nsubj	_	ancestor:ABS
-3	ka	_	_	PART	_	6	aux:sgen	_	=NAR
-4	=is	_	_	PART	_	6	aux:ev	_	=REP
-5	=a	_	_	PART	_	6	nsubj	_	=3
-6	tsót-akë-x-a	_	VERB	_	_	0	root	_	live-REM.PST-3-NON.PROX
-7	rima	_	_	PROPN	_	6	obl	_	Lima
-8	kaxu	_	_	ADV	_	7	case	_	behind
-9	norte	_	_	NOUN	_	6	obl	_	North
-10	=nu	_	_	PART	_	9	case	_	=LOC
-11	.	_	_	PUNCT	_	6	punct	_	_
+1	Nüken	_	PRON	_	_	2	nmod	2:nmod	1PL.GEN
+2	chaiti	_	NOUN	_	_	6	nsubj	6:nsubj	ancestor:ABS
+3	ka	_	PART	_	_	6	aux:sgen	6:aux:sgen	=NAR
+4	=is	_	PART	_	_	6	aux:ev	6:aux:ev	=REP
+5	=a	_	PART	_	_	6	nsubj	6:nsubj	=3
+6	tsót-akë-x-a	_	VERB	_	_	0	root	0:root	live-REM.PST-3-NON.PROX
+7	rima	_	PROPN	_	_	6	obl	6:obl	Lima
+8	kaxu	_	ADV	_	_	7	case	7:case	behind
+9	norte	_	NOUN	_	_	6	obl	6:obl	North
+10	=nu	_	PART	_	_	9	case	9:case	=LOC
+11	.	_	PUNCT	_	_	6	punct	6:punct	_
 
 
 
