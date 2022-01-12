@@ -1317,68 +1317,68 @@
 
 
 # sent_id = 799-claudia
-1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	_
-2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	_
-3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	_
-4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	_
-5	kakëxa	_	VERB	_	_	0	root	0:root	_
-6	ain	_	AUX	_	_	7	nmod	7:nmod	_
-7	tita	_	NOUN	_	_	5	obj	5:obj	_
-8	ñuxanrá	_	ADJ	_	_	7	amod	7:amod	_
+1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
+2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR
+3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	REP
+4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	=3
+5	kakëxa	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
+6	ain	_	AUX	_	_	7	nmod	7:nmod	3sg:GEN
+7	tita	_	NOUN	_	_	5	obj	5:obj	mother
+8	ñuxanrá	_	ADJ	_	_	7	amod	7:amod	 old(FEM)-DIM
 9	“	_	PUNCT	_	_	5	punct	5:punct	_
-10	tita	_	NOUN	_	_	23	discourse	23:discourse	_
-11	=n	_	PART	_	_	10	case	10:case	_
+10	tita	_	NOUN	_	_	23	discourse	23:discourse	mother
+11	=n	_	PART	_	_	10	case	10:case	=VOC
 12	,	_	PUNCT	_	_	5	punct	5:punct	_
-13	anu	_	DET	_	_	16	obj	16:obj	_
-14	uni	_	NOUN	_	_	16	advmod	16:advmod	_
-15	xëni	_	ADJ	_	_	14	amod	14:amod	_
-16	‘ati	_	VERB	_	_	21	ccomp	21:ccomp	_
-17	ë	_	PRON	_	_	20	nmod	20:nmod	_
-18	=n	_	PART	_	_	17	case	17:case	_
+13	anu	_	DET	_	_	16	obj	16:obj	there
+14	uni	_	NOUN	_	_	16	advmod	16:advmod	person
+15	xëni	_	ADJ	_	_	14	amod	14:amod	fat:ABS
+16	‘ati	_	VERB	_	_	21	ccomp	21:ccomp	do-NOMLZ
+17	ë	_	PRON	_	_	20	nmod	20:nmod	1SG
+18	=n	_	PART	_	_	17	case	17:case	GEN
 19	kupë	_	NOUN	_	_	21	obj	21:obj	manioc:ABS
-20	atsa	_	PART	_	_	19	compound	19:compound	_
-21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	_
-22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	_
-23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	_
+20	atsa	_	PART	_	_	19	compound	19:compound	manioc:ABS
+21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	pick.up-go.to-DS/A/P:SE:DUR
+22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	NAR
+23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	take.care
 24	,	_	PUNCT	_	_	5	punct	5:punct	_
-25	tita	_	NOUN	_	_	23	discourse	23:discourse	_
-26	=n	_	PART	_	_	25	case	25:case	_
+25	tita	_	NOUN	_	_	23	discourse	23:discourse	mother
+26	=n	_	PART	_	_	25	case	25:case	=VOC
 27	”	_	PUNCT	_	_	5	punct	5:punct	_
 28	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 
 
 # sent_id = 854-ximena
-1	María	_	NOUN	_	_	3	nsubj:free	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	‘aru-kë	_	VERB	_	_	7	ccomp	_	_
-4	=sa	_	PART	_	_	3	case	_	_
-5	ka	_	PART	_	_	7	aux:sgen	_	_
-6	=na	_	PART	_	_	7	nsubj:bound	_	_
-7	sinan-i-n	_	VERB	_	_	0	root	_	_
+1	María	_	NOUN	_	_	3	nsubj:free	_	María
+2	=n	_	PART	_	_	1	case	_	=ERG
+3	‘aru-kë	_	VERB	_	_	7	ccomp	_	cook-NOMLZ
+4	=sa	_	PART	_	_	3	case	_	=COMP
+5	ka	_	PART	_	_	7	aux:sgen	_	NAR
+6	=na	_	PART	_	_	7	nsubj:bound	_	1SG
+7	sinan-i-n	_	VERB	_	_	0	root	_	think-PFV-1/2
 
 
 
 # sent_id = 881-ximena
-1	a	_	PRON	_	_	7	nsubj:free	_	_
-2	=kama	_	PART	_	_	1	nummod	_	_
-3	=n	_	PART	_	_	1	case	_	_
-4	ka	_	PART	_	_	7	aux:sgen	_	_
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	‘atsa	_	NOUN	_	_	7	obj	_	_
-7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
-8	.	_	PUNCT	_	_	7	punct	_	_
+1	A	_	PRON	_	_	6	nsubj:free	_	3SG
+2	=kama	_	PART	_	_	1	nummod	_	PL
+3	=x	_	PART	_	_	1	case	_	S
+4	ka	_	PART	_	_	6	aux:sgen	_	NAR
+5	=a	_	PART	_	_	6	nsubj:bound	_	=3
+6	'ux-kan-i-a	_	VERB	_	_	0	root	_	 sleep-PL-IPFV-NON.PROX
+7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 882-ximena
-1	a	_	PRON	_	_	7	nsubj:free	_	_
-2	=kama	_	PART	_	_	1	nummod	_	_
-3	=n	_	PART	_	_	1	case	_	_
-4	ka	_	PART	_	_	7	aux:sgen	_	_
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	‘atsa	_	NOUN	_	_	7	obj	_	_
-7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
+1	a	_	PRON	_	_	7	nsubj:free	_	3SG
+2	=kama	_	PART	_	_	1	nummod	_	=PL
+3	=n	_	PART	_	_	1	case	_	=A
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR
+5	=a	_	PART	_	_	7	nsubj:bound	_	=3
+6	‘atsa	_	NOUN	_	_	7	obj	_	manioc:ABS
+7	pi-kan-i-n	_	VERB	_	_	0	root	_	 eat-PL-IPFV-NON.PROX
+8 	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
