@@ -418,16 +418,16 @@
 
 
 # sent_id = 255-rosa
-1	Comodiezaños	como diez años	ADV	_	_	2	advmod	_	like.ten.years=
-2	aish	aish	VERB	_	_	7	advcl	_	be:S/A>S=
-3	ka	ka	PART	_	_	7	aux:sgen	_	narrative=
-4	=na	=na	PART	_	_	7	nsubj:bound	_	1sg=
-5	‘ë	‘ë	PRON	_	_	_	_	_	1sg=
-6	=x	x	PART	_	_	5	case	_	
-7	tsókën	tsót-akë-n	VERB	_	_	0	root	_	live-REM.PST-1/2=
-8	SantaRosa	Santa Rosa	NOUN	_	_	7	obl	_	Santa.Rosa.village=
-9	tsipúmi	 tsipumi	ADP	_	_	8	case	_	below=
-10	.	_	PUNCT	_	_	7	punct	_	_
+1	Comodiezaños	como diez años	ADV	_	_	2	advmod	2:advmod	like.ten.years=
+2	aish	aish	VERB	_	_	7	advcl	7:advcl	be:S/A>S=
+3	ka	ka	PART	_	_	7	aux:sgen	7:aux:sgen	narrative=
+4	=na	=na	PART	_	_	7	nsubj:bound	7:nsubj:bound	1sg=
+5	‘ë	‘ë	PRON	_	_	7	nsubj:free	7:nsubj:free	1sg=
+6	=x	x	PART	_	_	5	case	5:case	_
+7	tsókën	tsót-akë-n	VERB	_	_	0	root	0:root	live-REM.PST-1/2=
+8	SantaRosa	Santa Rosa	NOUN	_	_	7	obl	7:obl	Santa.Rosa.village=
+9	tsipúmi	 tsipumi	ADP	_	_	8	case	8:case	below=
+10	.	_	PUNCT	_	_	7	punct	7:punct	_
 
 
 
