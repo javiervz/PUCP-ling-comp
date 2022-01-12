@@ -1363,25 +1363,25 @@
 
 
 # sent_id = 881-ximena
-1	a	_	PRON	_	_	7	nsubj:free	_	_
-2	=kama	_	PART	_	_	1	nummod	_	_
-3	=n	_	PART	_	_	1	case	_	_
-4	ka	_	PART	_	_	7	aux:sgen	_	_
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	‘atsa	_	NOUN	_	_	7	obj	_	_
-7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
-8	.	_	PUNCT	_	_	7	punct	_	_
+1	A	_	PRON	_	_	6	nsubj:free	_	3SG
+2	=kama	_	PART	_	_	1	nummod	_	=PL
+3	=x	_	PART	_	_	1	case	_	=S
+4	ka	_	PART	_	_	6	aux:sgen	_	NAR
+5	=a	_	PART	_	_	6	nsubj:bound	_	=3
+6	'ux-kan-i-a	_	VERB	_	_	0	root	_	 sleep-PL-IPFV-NON.PROX
+7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 882-ximena
-1	a	_	PRON	_	_	7	nsubj:free	_	_
-2	=kama	_	PART	_	_	1	nummod	_	_
-3	=n	_	PART	_	_	1	case	_	_
-4	ka	_	PART	_	_	7	aux:sgen	_	_
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	‘atsa	_	NOUN	_	_	7	obj	_	_
-7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
+1	a	_	PRON	_	_	7	nsubj:free	_	3SG
+2	=kama	_	PART	_	_	1	nummod	_	=PL
+3	=n	_	PART	_	_	1	case	_	=A
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR
+5	=a	_	PART	_	_	7	nsubj:bound	_	=3
+6	‘atsa	_	NOUN	_	_	7	obj	_	 manioc:ABS
+7	pi-kan-i-n	_	VERB	_	_	0	root	_	 eat-PL-IPFV-NON.PROX
+8	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
@@ -1398,33 +1398,36 @@
 
 
 # sent_id = 916-ximena
-1	kashi	_	NOUN	_	_	8	nsubj:free	8:nsubj	_
-2	a	_	DET	_	_	1	det	1:det	_
-3	=x	_	PART	_	_	1	case	1:case	_
-4	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	_
-5	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	_
-6	i	_	NOUN	_	_	8	obl	8:obl	_
-7	=nu	_	PART	_	_	6	case	6:case	_
-8	pani-a-x-a	_	VERB	_	_	0	root	0:root	_
+1	kashi	_	NOUN	_	_	8	nsubj:free	8:nsubj	bat
+2	a	_	DET	_	_	1	det	1:det	that
+3	=x	_	PART	_	_	1	case	1:case	=S
+4	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
+5	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	=3
+6	i	_	NOUN	_	_	8	obl	8:obl	tree
+7	=nu	_	PART	_	_	6	case	6:case	=LOC
+8	pani-a-x-a	_	VERB	_	_	0	root	0:root	hang-PFV-3-NON.PROX
+9 	.	_	PUNCT	_	_	8	punct	8:punct	_
 
 
 
 # sent_id = 947-ximena
-1	Emilio	_	NOUN	_	_	6	nsubj:free	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	PART	_	_	6	aux:sgen	_	_
-4	=a	_	PART	_	_	6	nsubj:bound	_	_
-5	Wilton	_	NOUN	_	_	6	obj	_	_
-6	bana-anan-xun-a-x-a	_	VERB	_	_	0	root	_	_
+1	Emilio	_	NOUN	_	_	6	nsubj:free	_	Emilio
+2	=n	_	PART	_	_	1	case	_	=ERG
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	=a	_	PART	_	_	6	nsubj:bound	_	=3
+5	Wilton	_	NOUN	_	_	6	obj	_	Wilton:ABS
+6	bana-anan-xun-a-x-a	_	VERB	_	_	0	root	_	 speak-MAL-BEN-PFV-3-NON.PROX
+7 	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 967-ximena
-1	xanu	_	NOUN	_	_	5	nsubj:free	_	_
-2	rabé̈	_	DET	_	_	1	nummod	_	_
-3	ka	_	PART	_	_	5	aux:sgen	_	_
-4	=a	_	PART	_	_	5	nsubj:bound	_	_
-5	‘ikut-kan-anan-i-a	_	VERB	_	_	0	root	_	_
+1	xanu	_	NOUN	_	_	5	nsubj:free	_	woman
+2	rabé̈	_	DET	_	_	1	nummod	_	two:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=a	_	PART	_	_	5	nsubj:bound	_	=3
+5	‘ikut-kan-anan-i-a	_	VERB	_	_	0	root	_	 hug-PL-RECP-IPFV-NON.PROX
+6 	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
@@ -1469,21 +1472,23 @@
 
 
 # sent_id = 979-ximena
-1	ka	_	PART	_	_	4	aux:sgen	_	_
-2	=a	_	PART	_	_	4	nsubj:bound	_	_
-3	‘ó	_	NOUN	_	_	4	obj	_	_
-4	‘a-on-x-a	_	VERB	_	_	0	root	_	_
+1	ka	_	PART	_	_	4	aux:sgen	_	NAR
+2	=a	_	PART	_	_	4	nsubj:bound	_	=3
+3	‘ó	_	NOUN	_	_	4	obj	_	tapir:ABS
+4	‘a-on-x-a	_	VERB	_	_	0	root	_	 kill-PST.yesterday-3-NON.PROX
+5 	.	_	PUNCT	_	_	4	punct	_	_
 
 
 
 # sent_id = 999-ximena
-1	mi	_	PRON	_	_	3	nsubj:free	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	‘aru-kë	_	VERB	_	_	4	advcl	_
-4	piti	_	NOUN	_	_	7	nsubj:free	_	_
-5	ka	_	PART	_	_	7	aux:sgen	_	_
-6	=a	_	PART	_	_	7	nsubj:bound	_	_
-7	nëish=kin	_	VERB	_	_	0	root	_
+1	mi	_	PRON	_	_	3	nsubj:free	_	2SG
+2	=n	_	PART	_	_	1	case	_	=A
+3	‘aru-kë	_	VERB	_	_	4	advcl	_ 	cook-NOMLZ
+4	piti	_	NOUN	_	_	7	nsubj:free	_	food
+5	ka	_	PART	_	_	7	aux:sgen	_	NAR
+6	=a	_	PART	_	_	7	nsubj:bound	_	=3
+7	nëish=kin	_	VERB	_	_	0	root	delicious=EXCL2
+8 	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
