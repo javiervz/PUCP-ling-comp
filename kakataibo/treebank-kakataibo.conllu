@@ -1487,7 +1487,7 @@
 4	piti	_	NOUN	_	_	7	nsubj:free	_	food
 5	ka	_	PART	_	_	7	aux:sgen	_	NAR
 6	=a	_	PART	_	_	7	nsubj:bound	_	=3
-7	nëish=kin	_	VERB	_	_	0	root	delicious=EXCL2
+7	nëish=kin	_	VERB	_	_	0	root	_	delicious=EXCL2
 8 	.	_	PUNCT	_	_	7	punct	_	_
 
 
