@@ -18,16 +18,16 @@
 
 
 # sent_id = 1006-ximena
-1	ënu	_	ADV	_	_	6	advmod	_	_
-2	achushi	_	ADV	_	_	6	nummod	_	_
-3	bëráma	_	ADJ	_	_	6	amod	_	_
-4	nu	_	AUX	_	_	6	nmod	_	_
-5	=n	_	PART	_	_	4	case	_	_
-6	‘anibu	_	NOUN	_	_	7	nsubj:free	_	_
-7	‘i-a	_	NOUN	_	_	10	ccomp	_	_
-8	ka	_	PART	_	_	10	aux:sgen	_	_
-9	=na	_	AUX	_	_	10	nsubj:bound	_	_
-10	ñui-kas-i-n	_	VERB	_	_	0	root	_	_
+1	ënu	_	ADV	_	_	6	advmod	_	here
+2	achushi	_	ADV	_	_	6	nummod	_	one
+3	bëráma	_	ADJ	_	_	6	amod	_	old
+4	nu	_	AUX	_	_	6	nmod	_	1PL
+5	=n	_	PART	_	_	4	case	_	=GEN
+6	‘anibu	_	NOUN	_	_	7	nsubj:free	_	ancestor:ABS
+7	‘i-a	_	NOUN	_	_	10	ccomp	_	be-NOMLZ
+8	ka	_	PART	_	_	10	aux:sgen	_	NAR
+9	=na	_	AUX	_	_	10	nsubj:bound	_	=1SG
+10	ñui-kas-i-n	_	VERB	_	_	0	root	_	tell-DES-IPFV-1/2
 
 
 
@@ -587,17 +587,17 @@
 
 
 # sent_id = 315-claudia
-1	Xanu	Xanu	NOUN	_	_	6	nsubj:free	_	_
-2	=n	 =n	PART	_	_	1	case	_	_
-3	ka	ka	AUX	_	_	6	aux:sgen	_	_
-4	=is	=is	AUX	_	_	6	aux:evid	_	_
-5	=a	=a	DET	_	_	6	nsubj:bound	_	_
-6	buankian	buankian	VERB	_	_	0	root	_	_
-7	ain	ain	DET	_	_	8	nmod	_	_
-8	bënë	bënë	NOUN	_	_	6	obj	_	_
+1	Xanu	Xanu	NOUN	_	_	6	nsubj:free	_	woman
+2	=n	 =n	PART	_	_	1	case	_	=ERG
+3	ka	ka	PART	_	_	6	aux:sgen	_	NAR
+4	=is	=is	PART	_	_	6	aux:evid	_	=REP
+5	=a	=a	PART	_	_	6	nsubj:bound	_	=3
+6	buan-kian	buankian	VERB	_	_	0	root	_	bring-HAB.PAST.3
+7	ain	ain	DET	_	_	8	nmod	_	3SG:GEN
+8	bënë	bënë	NOUN	_	_	6	obj	_	husband
 9	“	“	PUNCT	_	_	6	punct	_	_
-10	unirá	unirá	NOUN	_	_	11	nsubj:free	_	_
-11	ka	ka	AUX	_	_	6	parataxis	_	_
+10	unirá	unirá	NOUN	_	_	11	nsubj:free	_	man-DIM:ABS
+11	ka	ka	PART	_	_	6	parataxis	_	NAR:3
 12	”	”	PUNCT	_	_	6	punct	_	_
 13	.	.	PUNCT	_	_	6	punct	_	_
 
@@ -640,40 +640,40 @@
 
 
 # sent_id = 319-claudia
-1	Usa	_	ADV	_	_	6	advmod	_	_
-2	=bi	_	PART	_	_	6	aux:sgen	_	_
-3	ka	_	AUX	_	_	6	aux:sgen	_	_
-4	‘isenaka	_	NOUN	_	_	6	nsubj:free	_	_
-5	=n	_	PART	_	_	4	case	_	_
-6	rataxtamainun	_	VERB	_	_	0	root	_	_
-7	chëkiai	_	ADV	_	_	6	advmod	_	_
+1	Usa	_	ADV	_	_	6	advmod	_	like.that
+2	=bi	_	PART	_	_	6	aux:sgen	_	=same
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	‘isa-inak	_	NOUN	_	_	6	nsubj:free	_	bird-GENE
+5	=n	_	PART	_	_	4	case	_	=ERG
+6	ra-tax-tan-mainun	_	VERB	_	_	0	root	_	skin-peck-go.to-DS/A/P:SE:DUR
+7	chëki-ai	_	ADV	_	_	6	advmod	_	get.rotten-IMP:there
 8	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 320-claudia
-1	Usai	_	ADV	_	_	5	advmod	_	_
-2	ka	_	AUX	_	_	5	aux:sgen	_	_
-3	=a	_	PART	_	_	5	nsubj:bound	_	_
-4	ëo	_	ADJ	_	_	5	amod	_	_
-5	kamëokëxa	_	VERB	_	_	0	root	_	_
-6	nu	_	PRON	_	_	8	nmod	_	_
-7	=n	_	PART	_	_	6	case	_	_
-8	‘anibu	_	NOUN	_	_	5	obj	_	_
-9	nukën	_	PRON	_	_	10	nmod	_	_
-10	chaitibaë	_	NOUN	_	_	5	nmod	_	_
-11	=n	_	PART	_	_	10	case	_	_
-12	nukën	_	PRON	_	_	13	nmod	_	_
-13	xutabaë	_	NOUN	_	_	5	nmod	_	_
-14	=n	_	PART	_	_	13	case	_	_
+1	Usa-i	_	ADV	_	_	5	advmod	_	like.that-S/A>S:SE
+2	ka	_	PART	_	_	5	aux:sgen	_	NAR
+3	=a	_	PART	_	_	5	nsubj:bound	_	=3
+4	ëo	_	VERB	_	_	5	goeswith	_	a.lot.of
+5	kamë-o-akë-x-a	_	VERB	_	_	0	root	_	a.lot.of-FACT-REM.PST-3-NON.PROX
+6	nu	_	PRON	_	_	8	nmod	_	1PL
+7	=n	_	PART	_	_	6	case	_	=GEN
+8	‘anibu	_	NOUN	_	_	5	obj	_	ancestor
+9	nukën	_	PRON	_	_	10	nmod	_	1PL.GEN
+10	chaiti-baë	_	NOUN	_	_	5	nmod	_	ancestor-COL
+11	=n	_	PART	_	_	10	case	_	=ERG
+12	nukën	_	PRON	_	_	13	nmod	_	1PL.GEN
+13	xuta-baë-n	_	NOUN	_	_	5	nmod	_	grandfather-COL
+14	=n	_	PART	_	_	13	case	_	=ERG
 15	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
 # sent_id = 330-claudia
 1	‘Ë	_	NOUN	_	_	9	nsubj:free	9:nsubj:free	1SG
-2	=n	_	PART	_	_	1	case	1:case	-A
-3	ka	_	AUX	_	_	9	aux:sgen	9:aux:sgen|10:aux	NAR
+2	=n	_	PART	_	_	1	case	1:case	=A
+3	ka	_	PART	_	_	9	aux:sgen	9:aux:sgen|10:aux	NAR
 4	=na	_	PART	_	_	9	nsubj:bound	9:nsubj:bound|10:nsubj	=1SG
 5	ënë	_	PRON	_	_	8	det	8:det	this
 6	an	_	PART	_	_	8	compound	8:compound	fish.sp
@@ -685,22 +685,22 @@
 
 
 # sent_id = 331-claudia
-1	An	_	PART	_	_	3	compound	_	_
-2	taë	_	PART	_	_	3	compound	_	_
-3	tëbiskati	_	NOUN	_	_	7	nsubj:free	_	_
-4	ka	_	AUX	_	_	7	aux:sgen	_	_
-5	=n	_	PART	_	_	7	nsubj:bound	_	_
-6	‘aisama	_	ADJ	_	_	7	amod	_	_
-7	‘ikën	_	VERB	_	_	0	root	_	_
+1	An	_	PART	_	_	3	compound	_	fish.sp
+2	taë	_	PART	_	_	3	compound	_	fish.sp
+3	tëbiskati	_	NOUN	_	_	7	nsubj:free	_	fish.sp
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR
+5	=n	_	PART	_	_	7	nsubj:bound	_	=3
+6	‘aisama	_	ADJ	_	_	7	amod	_	bad
+7	‘ikën	_	VERB	_	_	0	root	_	be:3
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 332-claudia
-1	Tsatsa	_	NOUN	_	_	4	obj	_	_
-2	ënë	_	PRON	_	_	1	det	_	_
-3	ka	_	AUX	_	_	4	aux:sgen	_	_
-4	bëruan	_	VERB	_	_	0	root	_	_
+1	Tsatsa	_	NOUN	_	_	4	obj	_	fish.sp
+2	ënë	_	PRON	_	_	1	det	_	this:P
+3	ka	_	PART	_	_	4	aux:sgen	_	NAR
+4	bëruan	_	VERB	_	_	0	root	_	look.after:IMP
 5	!	_	PUNCT	_	_	4	punct	_	_
 
 
@@ -722,11 +722,11 @@
 
 
 # sent_id = 334-claudia
-1	Upí	_	ADJ	_	_	2	amod	_	_
-2	ñu	_	NOUN	_	_	5	obj	_	_
-3	ka	_	AUX	_	_	5	aux:sgen	_	_
-4	=na	_	PART	_	_	5	nsubj:bound	_	_
-5	kwëënin	_	VERB	_	_	0	root	_	_
+1	Upí	_	ADJ	_	_	2	amod	_	beautiful
+2	ñu	_	NOUN	_	_	5	obj	_	thing:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=na	_	PART	_	_	5	nsubj:bound	_	=1SG
+5	kwëën-i-n	_	VERB	_	_	0	root	_	want-1PFV-1/2
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 
@@ -748,38 +748,40 @@
 
 
 # sent_id = 337-claudia
-1	Ka	_	AUX	_	_	6	aux:sgen	_	_
-2	=a	_	PART	_	_	6	nsubj:bound	_	_
-3	‘itsa	_	ADJ	_	_	4	nummod	_	_
-4	ñu	_	NOUN	_	_	6	nsubj:free	_	_
-5	xarákë	_	ADV	_	_	6	advmod	_	_
-6	ROOT	_	VERB	_	_	0	root	_	_
+1	Ka	_	PART	_	_	6	aux:sgen	_	NAR
+2	=a	_	PART	_	_	6	nsubj:bound	_	=3
+3	‘itsa	_	ADJ	_	_	4	nummod	_	many
+4	ñu	_	NOUN	_	_	6	nsubj:free	_	thing
+5	xará-kë	_	ADV	_	_	6	advmod	_	make.noise-NOMLZ:ABS
+6	ROOT	_	VERB	_	_	0	root	_	be
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 338-claudia
-1	Ësaokin	_	ADV	_	_	5	advcl	_	_
-2	mane	_	NOUN	_	_	5	nsubj:free	_	_
-3	‘itsa	_	ADJ	_	_	2	nummod	_	_
-4	toinkë	_	VERB	_	_	2	appos	_	_
-5	‘ixunmabi	_	VERB	_	_	0	root	_	_
-6	.	_	PUNCT	_	_	5	punct	_	_
+1	Ësa-o-kin	_	ADV	_	_	5	advcl	_	like.this-FACT-S/A>A:SE
+2	manë	_	NOUN	_	_	5	nsubj:free	_	metal
+3	‘itsa	_	ADJ	_	_	2	nummod	_	many:ABS
+4	toin-kë	_	VERB	_	_	2	appos	_	hold-NOMLZ
+5	‘i-xun	_	VERB	_	_	0	root	_	be-S/A>A:SE
+6	=ma	_	PART	_	_	5	advmod	_	=NEG
+7	=bi	_	PART	_	_	5	advmod	_	=although
+8	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
 # sent_id = 339-claudia
-1	Pui	_	NOUN	_	_	3	obl	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	‘axankëbë	_	VERB	_	_	9	advcl	_	_
-4	ka	_	PART	_	_	9	aux:sgen	_	_
-5	=is	_	PART	_	_	9	aux:evid	_	_
-6	=a	_	PART	_	_	9	nsubj:bound	_	_
-7	a	_	DET	_	_	9	amod	_	_
-8	kaxu	_	ADV	_	_	7	case	_	_
-9	kwankëxa	_	VERB	_	_	0	root	_	_
-10	uni	_	NOUN	_	_	9	nsubj:free	_	_
-11	achushi	_	ADJ	_	_	10	nummod	_	_
+1	Pui	_	NOUN	_	_	3	obl	_	excrement
+2	=n	_	PART	_	_	1	case	_	INS
+3	‘axan-këbë	_	VERB	_	_	9	advcl	_	fish.using.poison-DS/A/P:SE:INTR
+4	ka	_	PART	_	_	9	aux:sgen	_	NAR
+5	=is	_	PART	_	_	9	aux:evid	_	REP
+6	=a	_	PART	_	_	9	nsubj:bound	_	3
+7	a	_	DET	_	_	9	amod	_	that
+8	kaxu	_	ADV	_	_	7	case	_	behind
+9	kwan-akë-x-a	_	VERB	_	_	0	root	_	go-REM.PST-3-NON.PROX
+10	uni	_	NOUN	_	_	9	nsubj:free	_	person
+11	achushi	_	ADJ	_	_	10	nummod	_	one:ABS
 12	.	_	PUNCT	_	_	9	punct	_	_
 
 
@@ -1317,68 +1319,68 @@
 
 
 # sent_id = 799-claudia
-1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
-2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR
-3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	REP
-4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	=3
-5	kakëxa	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
-6	ain	_	AUX	_	_	7	nmod	7:nmod	3sg:GEN
-7	tita	_	NOUN	_	_	5	obj	5:obj	mother
-8	ñuxanrá	_	ADJ	_	_	7	amod	7:amod	 old(FEM)-DIM
+1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	_
+2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	_
+3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	_
+4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	_
+5	kakëxa	_	VERB	_	_	0	root	0:root	_
+6	ain	_	AUX	_	_	7	nmod	7:nmod	_
+7	tita	_	NOUN	_	_	5	obj	5:obj	_
+8	ñuxanrá	_	ADJ	_	_	7	amod	7:amod	_
 9	“	_	PUNCT	_	_	5	punct	5:punct	_
-10	tita	_	NOUN	_	_	23	discourse	23:discourse	mother
-11	=n	_	PART	_	_	10	case	10:case	=VOC
+10	tita	_	NOUN	_	_	23	discourse	23:discourse	_
+11	=n	_	PART	_	_	10	case	10:case	_
 12	,	_	PUNCT	_	_	5	punct	5:punct	_
-13	anu	_	DET	_	_	16	obj	16:obj	there
-14	uni	_	NOUN	_	_	16	advmod	16:advmod	person
-15	xëni	_	ADJ	_	_	14	amod	14:amod	fat:ABS
-16	‘ati	_	VERB	_	_	21	ccomp	21:ccomp	do-NOMLZ
-17	ë	_	PRON	_	_	20	nmod	20:nmod	1SG
-18	=n	_	PART	_	_	17	case	17:case	GEN
+13	anu	_	DET	_	_	16	obj	16:obj	_
+14	uni	_	NOUN	_	_	16	advmod	16:advmod	_
+15	xëni	_	ADJ	_	_	14	amod	14:amod	_
+16	‘ati	_	VERB	_	_	21	ccomp	21:ccomp	_
+17	ë	_	PRON	_	_	20	nmod	20:nmod	_
+18	=n	_	PART	_	_	17	case	17:case	_
 19	kupë	_	NOUN	_	_	21	obj	21:obj	manioc:ABS
-20	atsa	_	PART	_	_	19	compound	19:compound	manioc:ABS
-21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	pick.up-go.to-DS/A/P:SE:DUR
-22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	NAR
-23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	take.care
+20	atsa	_	PART	_	_	19	compound	19:compound	_
+21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	_
+22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	_
+23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	_
 24	,	_	PUNCT	_	_	5	punct	5:punct	_
-25	tita	_	NOUN	_	_	23	discourse	23:discourse	mother
-26	=n	_	PART	_	_	25	case	25:case	=VOC
+25	tita	_	NOUN	_	_	23	discourse	23:discourse	_
+26	=n	_	PART	_	_	25	case	25:case	_
 27	”	_	PUNCT	_	_	5	punct	5:punct	_
 28	.	_	PUNCT	_	_	5	punct	5:punct	_
 
 
 
 # sent_id = 854-ximena
-1	María	_	NOUN	_	_	3	nsubj:free	_	María
-2	=n	_	PART	_	_	1	case	_	=ERG
-3	‘aru-kë	_	VERB	_	_	7	ccomp	_	cook-NOMLZ
-4	=sa	_	PART	_	_	3	case	_	=COMP
-5	ka	_	PART	_	_	7	aux:sgen	_	NAR
-6	=na	_	PART	_	_	7	nsubj:bound	_	1SG
-7	sinan-i-n	_	VERB	_	_	0	root	_	think-PFV-1/2
+1	María	_	NOUN	_	_	3	nsubj:free	_	_
+2	=n	_	PART	_	_	1	case	_	_
+3	‘aru-kë	_	VERB	_	_	7	ccomp	_	_
+4	=sa	_	PART	_	_	3	case	_	_
+5	ka	_	PART	_	_	7	aux:sgen	_	_
+6	=na	_	PART	_	_	7	nsubj:bound	_	_
+7	sinan-i-n	_	VERB	_	_	0	root	_	_
 
 
 
 # sent_id = 881-ximena
-1	A	_	PRON	_	_	6	nsubj:free	_	3SG
-2	=kama	_	PART	_	_	1	nummod	_	PL
-3	=x	_	PART	_	_	1	case	_	S
-4	ka	_	PART	_	_	6	aux:sgen	_	NAR
-5	=a	_	PART	_	_	6	nsubj:bound	_	=3
-6	'ux-kan-i-a	_	VERB	_	_	0	root	_	 sleep-PL-IPFV-NON.PROX
-7	.	_	PUNCT	_	_	6	punct	_	_
+1	a	_	PRON	_	_	7	nsubj:free	_	_
+2	=kama	_	PART	_	_	1	nummod	_	_
+3	=n	_	PART	_	_	1	case	_	_
+4	ka	_	PART	_	_	7	aux:sgen	_	_
+5	=a	_	PART	_	_	7	nsubj:bound	_	_
+6	‘atsa	_	NOUN	_	_	7	obj	_	_
+7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
+8	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 882-ximena
-1	a	_	PRON	_	_	7	nsubj:free	_	3SG
-2	=kama	_	PART	_	_	1	nummod	_	=PL
-3	=n	_	PART	_	_	1	case	_	=A
-4	ka	_	PART	_	_	7	aux:sgen	_	NAR
-5	=a	_	PART	_	_	7	nsubj:bound	_	=3
-6	‘atsa	_	NOUN	_	_	7	obj	_	manioc:ABS
-7	pi-kan-i-n	_	VERB	_	_	0	root	_	 eat-PL-IPFV-NON.PROX
-8 	.	_	PUNCT	_	_	7	punct	_	_
+1	a	_	PRON	_	_	7	nsubj:free	_	_
+2	=kama	_	PART	_	_	1	nummod	_	_
+3	=n	_	PART	_	_	1	case	_	_
+4	ka	_	PART	_	_	7	aux:sgen	_	_
+5	=a	_	PART	_	_	7	nsubj:bound	_	_
+6	‘atsa	_	NOUN	_	_	7	obj	_	_
+7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
 
 
 
