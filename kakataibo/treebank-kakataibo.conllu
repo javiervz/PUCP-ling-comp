@@ -643,7 +643,7 @@
 1	Usa	_	ADV	_	_	6	advmod	_	_
 2	=bi	_	PART	_	_	6	aux:sgen	_	_
 3	ka	_	AUX	_	_	6	aux:sgen	_	_
-4	‘isenaka	_	NOUN	_	_	6	nsubj:bound	_	_
+4	‘isenaka	_	NOUN	_	_	6	nsubj:free	_	_
 5	=n	_	PART	_	_	4	case	_	_
 6	rataxtamainun	_	VERB	_	_	0	root	_	_
 7	chëkiai	_	ADV	_	_	6	advmod	_	_
