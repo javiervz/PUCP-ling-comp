@@ -404,11 +404,11 @@
 # sent_id = 248-sabina
 1	y	_	CCONJ	_	_	8	conj	8:conj	and=
 2	a	_	SCONJ	_	_	3	det	3:det	that=
-3	kaibu	_	NOUN	_	_	_	_	_	relative:ABS=
+3	kaibu	_	NOUN	_	_	8	nsubj:free	_	relative:ABS=
 4	=ribi	_	PART	_	_	3	advmod	3:advmod	
 5	abat-a	_	NOUN	_	_	3	advmod	3:advmod	escape-NOMLZ=
 6	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
-7	=a	_	PART	_	_	8	nsubj	8:nsubj	:3=
+7	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	:3=
 8	ikën	_	VERB	_	_	0	root	0:root	be:3=
 9	bëtsi	_	NOUN	_	_	8	advmod	8:advmod	other=
 10	Palcaso	_	PROPN	_	_	11	nmod	11:nmod	Palcaso river=
