@@ -1188,18 +1188,19 @@
 
 
 # sent_id = 509-claudia
-1	Chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
-2	an	_	DET	_	_	1	det	1:det	_
-3	=n	_	PART	_	_	1	case	1:case	_
-4	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	_
-5	=is	_	PART	_	_	11	aux:evid	11:aux:evid	_
-6	=a	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	_
-7	xanu	_	NOUN	_	_	11	obj	11:obj	_
-8	xënirá	_	ADJ	_	_	7	amod	7:amod	_
-9	chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
-10	=n	_	PART	_	_	9	case	9:case	_
-11	makwëxakëshín	_	VERB	_	_	0	root	0:root	_
-12	.	_	PUNCT	_	_	11	punct	11:punct	_
+1	Chaxu	_	NOUN	_	_	12	nsubj:free	11:nsubj:free	deer
+2	a	_	DET	_	_	1	det	1:det	that
+3	=n	_	PART	_	_	1	case	1:case	A
+4 churu-akat	_	VERB	_	_	12	advcl	_	untie-REFL.passing:INTR-S/A>A:SE
+5	ka	_	PART	_	_	12	aux:sgen	11:aux:sgen	NAR
+6	=is	_	PART	_	_	12	aux:evid	11:aux:evid	REP
+7	=a	_	PART	_	_	12	nsubj:bound	11:nsubj:bound	3
+8	xanu	_	NOUN	_	_	12	obj	13:obj	woman
+9	xëni-rá	_	ADJ	_	_	8	amod	9:amod	old-DIM:ABS
+10	chaxu	_	NOUN	_	_	12	nsubj:free	13:nsubj:free	deer
+11	=n	_	PART	_	_	10	case	11:case	ERG
+12	makwëx-akë-x-ín	_	VERB	_	_	0	root	0:root	beat.up.with.a.mallet-REM.PST-3-PROX
+13	.	_	PUNCT	_	_	12	punct	13:punct	_
 
 
 # sent_id = 515-rosa
@@ -1219,51 +1220,51 @@
 
 
 # sent_id = 517-claudia
-1	‘Ë	_	PRON	_	_	8	nmod	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	PART	_	_	8	aux:sgen	_	_
-4	=na	_	PART	_	_	8	nsubj:bound	_	_
-5	a	_	DET	_	_	7	nsubj:bound	_	_
-6	bana	_	NOUN	_	_	7	nsubj:free	_	_
-7	ñuiti	_	VERB	_	_	0	root	_	_
-8	kwëëni	_	ADV	_	_	7	advcl	_	_
-9	=ma	_	PART	_	_	8	advmod	_	_
+1	‘Ë	_	PRON	_	_	8	nmod	_	1SG
+2	=n	_	PART	_	_	1	case	_	A
+3	ka	_	PART	_	_	8	aux:sgen	_	NAR
+4	=na	_	PART	_	_	8	nsubj:bound	_	1SG
+5	a	_	DET	_	_	7	nsubj:bound	_	that
+6	bana	_	NOUN	_	_	7	nsubj:free	_	tale:ABS
+7	ñui-ti	_	VERB	_	_	0	root	_	tell-NOMLZ
+8	kwëën-i	_	ADV	_	_	7	advcl	_	want-IPFV
+9	=ma	_	PART	_	_	8	advmod	_	NEG
 10	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 518-claudia
-1	Ë	_	PRON	_	_	7	nmod	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	PART	_	_	7	aux:sgen	_	_
-4	=na	_	PART	_	_	7	nsubj:bound	_	_
-5	a	_	DET	_	_	7	nsubj:bound	_	_
-6	bana	_	NOUN	_	_	7	nsubj:free	_	_
-7	ñuiti	_	VERB	_	_	0	root	_	_
-8	‘ain	_	AUX	_	_	7	aux:sgen	_	_
+1	Ë	_	PRON	_	_	7	nmod	_	1SG
+2	=n	_	PART	_	_	1	case	_	A
+3	ka	_	PART	_	_	7	aux:sgen	_	NAR
+4	=na	_	PART	_	_	7	nsubj:bound	_	1SG
+5	a	_	DET	_	_	7	nsubj:bound	_	that
+6	bana	_	NOUN	_	_	7	nsubj:free	_	tale:ABS
+7	ñuiti	_	VERB	_	_	0	root	_	tell-NOMLZ
+8	‘ain	_	AUX	_	_	7	aux:sgen	_	be:1/2
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 615-ximena
-1	ui	_	PRON	_	_	7	nsubj:free	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	PART	_	_	7	aux:sgen	_	_
-4	=ra	_	PART	_	_	7	aux:int	_	_
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	carretera	_	NOUN	_	_	7	obj	_	_
-7	'a-akë-x-a	_	VERB	_	_	0	root	_	_
+1	ui	_	PRON	_	_	7	nsubj:free	_	who
+2	=n	_	PART	_	_	1	case	_	A
+3	ka	_	PART	_	_	7	aux:sgen	_	NAR
+4	=ra	_	PART	_	_	7	aux:int	_	INT
+5	=a	_	PART	_	_	7	nsubj:bound	_	3
+6	carretera	_	NOUN	_	_	7	obj	_	road:ABS
+7	'a-akë-x-a	_	VERB	_	_	0	root	_	do-REM-PST-3-NON.PROX
 
 
 
 # sent_id = 672-ximena
-1	‘ë	_	PRON	_	_	7	nsubj:free	_	_
-2	=x	_	PART	_	_	1	case	_	_
-3	ka	_	PART	_	_	7	aux:sgen	_	_
-4	=na	_	PART	_	_	7	nsubj:bound	_	_
-5	munu-i	_	NOUN	_	_	7	advcl	_	_
-6	=ishi	_	PART	_	_	5	advmod	_	_
-7	kwan-i-n	_	VERB	_	_	0	root	_	_
+1	‘ë	_	PRON	_	_	7	nsubj:free	_	1SG
+2	=x	_	PART	_	_	1	case	_	S
+3	ka	_	PART	_	_	7	aux:sgen	_	NAR
+4	=na	_	PART	_	_	7	nsubj:bound	_	1SG
+5	munu-i	_	NOUN	_	_	7	advcl	_	slow-S/A>S:SE
+6	=ishi	_	PART	_	_	5	advmod	_	only
+7	kwan-i-n	_	VERB	_	_	0	root	_	go.IPFV-1/2
 
 
 
@@ -1284,36 +1285,36 @@
 
 
 # sent_id = 708-ximena
-1	‘inu	_	NOUN	_	_	6	nsubj:free	_	_
-2	=n	_	PART	_	_	1	case	_	_
-3	=bu	_	PART	_	_	1	nummod	_	_
-4	ka	_	PART	_	_	6	aux:sgen	_	_
-5	=a	_	AUX	_	_	6	nsubj:bound	_	_
-6	'a-a-x-a	_	VERB	_	_	0	root	_	_
+1	‘inu	_	NOUN	_	_	6	nsubj:free	_	jaguar
+2	=n	_	PART	_	_	1	case	_	ERG
+3	=bu	_	PART	_	_	1	nummod	_	COL
+4	ka	_	PART	_	_	6	aux:sgen	_	NAR
+5	=a	_	AUX	_	_	6	nsubj:bound	_	3
+6	'a-a-x-a	_	VERB	_	_	0	root	do-PFV-3-NON.PROX	_
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 719-ximena
-1	Juan	_	NOUN	_	_	6	nsubj:free	_	_
-2	ka	_	PART	_	_	6	aux:sgen	_	_
-3	=a	_	PART	_	_	6	nsubj:bound	_	_
-4	chuna	_	NOUN	_	_	6	nmod	_	_
-5	=sa	_	PART	_	_	4	case	_	_
-6	‘ikën	_	VERB	_	_	0	root	_	_
+1	Juan	_	NOUN	_	_	6	nsubj:free	_	Juan
+2	ka	_	PART	_	_	6	aux:sgen	_	NAR
+3	=a	_	PART	_	_	6	nsubj:bound	_	3
+4	chuna	_	NOUN	_	_	6	nmod	_	spider.monkey
+5	=sa	_	PART	_	_	4	case	_	COMP
+6	‘ikën	_	VERB	_	_	0	root	_	be:3
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 775-ximena
-1	chupa	_	NOUN	_	_	2	obj	_	_
-2	maru-kin	_	VERB	_	_	8	advcl	_	_
-3	=bi	_	PART	_	_	2	advmod	_	_
-4	ka	_	PART	_	_	8	aux:sgen	_	_
-5	=na	_	PART	_	_	8	nsubj:bound	_	_
-6	‘ë	_	PRON	_	_	8	nsubj:free	_	_
-7	=n	_	PART	_	_	6	case	_	_
-8	iëtan-a-n	_	VERB	_	_	0	root	_	_
+1	chupa	_	NOUN	_	_	2	obj	_	clothes
+2	maru-kin	_	VERB	_	_	8	advcl	_	buy-S/A:SE
+3	=bi	_	PART	_	_	2	advmod	_	same
+4	ka	_	PART	_	_	8	aux:sgen	_	NAR
+5	=na	_	PART	_	_	8	nsubj:bound	_	1SG
+6	‘ë	_	PRON	_	_	8	nsubj:free	_	1SG
+7	=n	_	PART	_	_	6	case	_	A
+8	iëtan-a-n	_	VERB	_	_	0	root	_	FRUST-TRAN-PFV-1/2
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
