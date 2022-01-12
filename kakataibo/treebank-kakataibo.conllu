@@ -537,7 +537,7 @@
 2	=n	n	PART	_	_	1	case	_	
 3	xubu	xubu	NOUN	_	_	5	nsubj	_	house:abs=
 4	‘aisama	‘aisama	ADJ	_	_	5	amod	_	bad=
-5	‘i-këbëtan	‘i	VERB	_	_	_	_	_	be-ds/a/p:se:tran=
+5	‘i-këbëtan	‘i	VERB	_	_	12	advcl	_	be-ds/a/p:se:tran=
 6	ka	ka	PART	_	_	12	aux:sgen	_	narrative=
 7	=na	na	PART	_	_	12	nsubj:bound	_	
 8	bëtsi	bëtsi	ADJ	_	_	9	amod	_	other=
