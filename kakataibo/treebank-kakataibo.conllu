@@ -1042,7 +1042,7 @@
 1	Emilio	_	NOUN	_	_	9	nsubj	_	Emilio:abs=
 2	ka	_	PART	_	_	9	aux:spgen	_	nar:3=
 3	=a	_	PART	_	_	9	nsubj	_	_
-4	mas	_	ADV	_	_	6	goeswith	_	more=
+4	mas	_	ADV	_	_	6	advmod	_	more=
 5	xuá	_	ADJ	_	_	9	cop	_	fat=
 6	ki	_	CCONJ	_	_	7	case	_	than=
 7	Roberto	_	NOUN	_	_	9	obl	_	Roberto=
