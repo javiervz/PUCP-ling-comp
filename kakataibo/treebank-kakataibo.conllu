@@ -605,23 +605,23 @@
 
 # sent_id = 316-claudia
 1	“	_	PUNCT	_	_	18	punct	_	_
-2	Mi	_	DET	_	_	18	nmod	_	2SG
-3	=n	_	PART	_	_	18	nsubj:bound	_	=GEN
-4	bënë	_	NOUN	_	_	18	obj	_	husband:ABS
-5	‘a-tankëxun	_	ADV	_	_	18	advcl	_	do-S/A>A:PE
-6	ka	_	PART	_	_	18	aux:sgen	_	NAR
-7	‘ë	_	NOUN	_	_	18	obj	_	1SG:P
-8	=ribi	_	PART	_	_	18	advmod	_	=also
-9	mi	_	DET	_	_	18	nmod	_	2SG
-10	=n	_	PART	_	_	18	nsubj:bound	_	=GEN
-11	maëx-ratsukun	_	NOUN	_	_	18	obl	_	genipap-DIM:INS
-12	‘ë	_	PRON	_	_	18	obj	_	1SG:P
-13	‘a	_	VERB	_	_	18	parataxis	_	do:IMP
+2	Mi	_	DET	_	_	18	nmod	_	_
+3	=n	_	PART	_	_	18	nsubj:bound	_	_
+4	bënë	_	NOUN	_	_	18	obj	_	_
+5	‘a-tankëxun	_	ADV	_	_	18	advcl	_	_
+6	ka	_	PART	_	_	18	aux:sgen	_	_
+7	‘ë	_	NOUN	_	_	18	obj	_	_
+8	=ribi	_	PART	_	_	18	advmod	_	_
+9	mi	_	DET	_	_	18	nmod	_	_
+10	=n	_	PART	_	_	18	nsubj:bound	_	_
+11	maëx-ratsukun	_	NOUN	_	_	18	obl	_	_
+12	‘ë	_	PRON	_	_	18	obj	_	_
+13	‘a	_	VERB	_	_	18	parataxis	_	_
 14	”	_	PUNCT	_	_	18	punct	_	_
-15	ka	_	PART	_	_	18	aux:sgen	_	NAR
-16	=is	_	PART	_	_	18	aux:ev	_	=REP
-17	=a	_	PART	_	_	18	nsubj:bound	_	=3
-18	ka-akë-x-ín	_	VERB	_	_	0	root	_	say.REM.PAST-3-PROX
+15	ka	_	PART	_	_	18	aux:sgen	_	_
+16	=is	_	PART	_	_	18	aux:ev	_	_
+17	=a	_	PART	_	_	18	nsubj:bound	_	_
+18	ka-akë-x-ín	_	VERB	_	_	0	root	_	_
 19	.	_	PUNCT	_	_	18	punct	_	_
 
 
@@ -1053,22 +1053,22 @@
 
 
 # sent_id = 405-claudia
-1	Bëxuñurá	_	NOUN	_	_	2	nsubj:free	_	_
-2	‘ikë	_	VERB	_	_	14	advcl	_	_
-3	=bi	_	PART	_	_	2	advmod	_	_
-4	ka	_	PART	_	_	14	aux:sgen	_	_
-5	=is	_	PART	_	_	14	aux:evid	_	_
-6	=a	_	PART	_	_	14	nsubj:bound	_	_
-7	xanu	_	NOUN	_	_	14	nsubj:free	_	_
-8	=n	_	PART	_	_	7	case	_	_
-9	ain	_	AUX	_	_	10	nmod	_	_
-10	bënë	_	NOUN	_	_	13	obj	_	_
-11	‘akë	_	VERB	_	_	13	obl	_	_
-12	=sa	_	PART	_	_	11	case	_	_
-13	okin	_	ADV	_	_	14	advcl	_	_
-14	maso	_	VERB	_	_	0	root	_	_
-15	=ma	_	PART	_	_	14	advmod	_	_
-16	‘ikën	_	VERB	_	_	14	aux	_	_
+1	Bëxuñurá	_	NOUN	_	_	2	nsubj:free	_	blind-DIM:ABS
+2	‘i-kë	_	VERB	_	_	14	advcl	_	be-NOMLZ
+3	=bi	_	PART	_	_	2	advmod	_	same
+4	ka	_	PART	_	_	14	aux:sgen	_	NAR
+5	=is	_	PART	_	_	14	aux:evid	_	REP
+6	=a	_	PART	_	_	14	nsubj:bound	_	3
+7	xanu	_	NOUN	_	_	14	nsubj:free	_	woman
+8	=n	_	PART	_	_	7	case	_	ERG
+9	ain	_	AUX	_	_	10	nmod	_	3SG:GEN
+10	bënë	_	NOUN	_	_	13	obj	_	husband:ABS
+11	‘a-kë	_	VERB	_	_	13	obl	_	do-NOMLZ
+12	=sa	_	PART	_	_	11	case	_	COMP
+13	o-kin	_	ADV	_	_	14	advcl	_	FACT-S/A>A:SE
+14	maso-a	_	VERB	_	_	0	root	_	mistreat-NOMLZ
+15	=ma	_	PART	_	_	14	advmod	_	NEG
+16	‘ikën	_	VERB	_	_	14	aux	_	be:3
 17	.	_	PUNCT	_	_	14	punct	_	_
 
 
@@ -1113,9 +1113,9 @@
 
 # sent_id = 471-claudia
 1	“	_	PUNCT	_	_	17	punct	_	_
-2	Anun	_	PRON	_	_	3	nmod	_	_
-3	ma	_	NOUN	_	_	12	obj	_	_
-4	shi	_	VERB	_	_	17	parataxis	_	_
+2	Anun	_	PRON	_	_	3	nmod	_	that:INS
+3	ma	_	NOUN	_	_	12	obj	_	head
+4	shi	_	VERB	_	_	17	parataxis	_	rub
 5	ki	_	PRON	_	_	3	nmod	_	_
 6	nun	_	ADV	_	_	4	advcl	_	_
 7	ka	_	AUX	_	_	12	aux:sgen	_	_
