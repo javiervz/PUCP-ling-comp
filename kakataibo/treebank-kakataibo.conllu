@@ -1487,3 +1487,52 @@
 
 
 
+# sent_id = 258-javier
+1	itsa	_	_	DET	_	4	case	4:case	a.lot:ABS
+2	ka	_	_	PART	_	4	aux:sgen	4:aux:sgen	NAR
+3	=na	_	_	PART	_	4	nsubj:bound	4:nsubj:bound	=1SG
+4	is-a-n	_	_	VERB	_	0	root	0:root	see-pfv-1/2
+
+
+# sent_id = 965-javier
+1	mix	_	_	PRON	_	5	nsubj:free	5:nsubj:free	2SG
+2	=x	_	_	PART	_	1	case	1:case	=S
+3	ka	_	_	PART	_	5	aux:sgen	5:aux:sgen	NAR
+4	=mina	_	_	PART	_	5	nsubj:bound	5:nsubj:bound	=2
+5	më-akat-a-n	_	_	VERB	_	0	root	0:root	beat.up-REF-PFV-1/2
+
+
+# sent_id = 972-javier
+1	‘Ë	‘ë	PRON	_	_	7	nsubj:free	_	1sg
+2	=n	n	PART	_	_	1	case	_	=A
+3	ka	ka	PART	_	_	7	aux:sgen	_	NAR
+4	=na	na	PART	_	_	7	nsubj:bound	_	=1sg
+5	María	_	NOUN	_	_	7	iobj	_	María:ABS
+6	‘atsa	_	NOUN	_	_	7	obj	_	manioc:ABS
+7	‘inan-i-n	_	VERB	_	_	0	root	_	give-ipfv-1/2
+8	.	_	PUNCT	_	_	7	punct	_	_
+
+
+
+# sent_id = 973-javier
+1	‘Ë 	_	_	PRON	_	8	nsubj:free	_	1SG
+2	=x	_	_	PART	_	1	case	_	=S
+3	ka	_	_	PART	_	8	aux:sgen	_	NAR
+4	=na	_	_	PART	_	8	nsubj:bound	_	=1SG
+5	Lima	_	_	NOUN	_	8	obl	_	Lima
+6	=nu	_	_	PART	_	8	case	_	=LOC
+7	Juanbë	_	_	NOUN	_	8	obl	_	Juan-COM:S
+8	kwan-i-n	_	_	VERB	_	0	root	_	go-ipfv-1/2
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+
+
+# sent_id = 975-javier
+1	bëba-ia	_	_	VERB	_	5	advcl	_	arrive-S/A>P:SE
+2	ka	_	_	PART	_	5	aux:sgen	_	=NAR
+3	=is	_	_	PART	_	5	aux:ev	_	=REP
+4	=a	_	_	PART	_	5	nsubj	_	=3
+5	is-akë-x-a	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX
+6	achushi	_	_	NUM	_	7	nummod	_	one
+7	gringo	_	_	NOUN	_	4	obj	_	white.person:ABS
+8	.	_	_	PUNCT	_	5	punct	_	_
