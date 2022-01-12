@@ -1186,20 +1186,18 @@
 
 
 # sent_id = 509-claudia
-1	Chaxu	_	NOUN	_	_	_	_	_	_
-2	an	_	DET	_	_	1	det	_	_
-3	=n	_	PART	_	_	1	case	_	_
-4	churukukwainkin	_	NOUN	_	_	12	nsubj	_	_
-5	ka	_	AUX	_	_	12	aux:sgen	_	_
-6	=is	_	AUX	_	_	12	aux:evid	_	_
-7	=a	_	DET	_	_	12	nsubj:bound	_	_
-8	xanu	_	NOUN	_	_	12	obj	_	_
-9	xënirá	_	ADJ	_	_	8	amod	_	_
-10	chaxu	_	NOUN	_	_	12	nsubj:free	_	_
-11	=n	_	PART	_	_	10	case	_	_
-12	makwëxakëshín	_	VERB	_	_	0	root	_	_
-13	.	_	PUNCT	_	_	12	punct	_	_
-
+1	Chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
+2	an	_	DET	_	_	1	det	1:det	_
+3	=n	_	PART	_	_	1	case	1:case	_
+4	ka	_	AUX	_	_	11	aux:sgen	11:aux:sgen	_
+5	=is	_	AUX	_	_	11	aux:evid	11:aux:evid	_
+6	=a	_	DET	_	_	11	nsubj:bound	11:nsubj:bound	_
+7	xanu	_	NOUN	_	_	11	obj	11:obj	_
+8	xënirá	_	ADJ	_	_	7	amod	7:amod	_
+9	chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
+10	=n	_	PART	_	_	9	case	9:case	_
+11	makwëxakëshín	_	VERB	_	_	0	root	0:root	_
+12	.	_	PUNCT	_	_	11	punct	11:punct	_
 
 
 # sent_id = 515-rosa
