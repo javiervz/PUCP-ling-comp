@@ -617,7 +617,7 @@
 11	”	_	PUNCT	_	_	15	punct	_	_
 12	ka	_	AUX	_	_	15	aux:sgen	_	_
 13	=is	_	AUX	_	_	15	aux:ev	_	_
-14	=a	_	DET	_	_	15	nsubj:bound	_	_
+14	=a	_	PART	_	_	15	nsubj:bound	_	_
 15	kakëshín	_	VERB	_	_	0	root	_	_
 16	.	_	PUNCT	_	_	15	punct	_	_
 
@@ -772,9 +772,9 @@
 1	Pui	_	NOUN	_	_	3	obl	_	_
 2	=n	_	PART	_	_	1	case	_	_
 3	‘axankëbë	_	VERB	_	_	9	advcl	_	_
-4	ka	_	AUX	_	_	9	aux:sgen	_	_
-5	=is	_	AUX	_	_	9	aux:evid	_	_
-6	=a	_	DET	_	_	9	nsubj:bound	_	_
+4	ka	_	PART	_	_	9	aux:sgen	_	_
+5	=is	_	PART	_	_	9	aux:evid	_	_
+6	=a	_	PART	_	_	9	nsubj:bound	_	_
 7	a	_	DET	_	_	9	amod	_	_
 8	kaxu	_	ADV	_	_	7	case	_	_
 9	kwankëxa	_	VERB	_	_	0	root	_	_
@@ -788,9 +788,9 @@
 1	Achushi	_	ADJ	_	_	2	nmod	_	_
 2	uni	_	NOUN	_	_	11	nsubj:free	_	_
 3	=n	_	PART	_	_	2	case	_	_
-4	ka	_	AUX	_	_	11	aux:sgen	_	_
-5	=is	_	AUX	_	_	11	aux:evid	_	_
-6	=a	_	DET	_	_	11	nsubj:bound	_	_
+4	ka	_	PART	_	_	11	aux:sgen	_	_
+5	=is	_	PART	_	_	11	aux:evid	_	_
+6	=a	_	PART	_	_	11	nsubj:bound	_	_
 7	kamabi	_	ADJ	_	_	8	nummod	_	_
 8	nëtë	_	NOUN	_	_	11	obl	_	_
 9	=n	_	PART	_	_	8	case	_	_
@@ -1053,10 +1053,10 @@
 # sent_id = 405-claudia
 1	Bëxuñurá	_	NOUN	_	_	2	nsubj:free	_	_
 2	‘ikë	_	VERB	_	_	14	advcl	_	_
-3	=bi	_	ADV	_	_	2	advmod	_	_
-4	ka	_	AUX	_	_	14	aux:sgen	_	_
-5	=is	_	AUX	_	_	14	aux:evid	_	_
-6	=a	_	DET	_	_	14	nsubj:bound	_	_
+3	=bi	_	PART	_	_	2	advmod	_	_
+4	ka	_	PART	_	_	14	aux:sgen	_	_
+5	=is	_	PART	_	_	14	aux:evid	_	_
+6	=a	_	PART	_	_	14	nsubj:bound	_	_
 7	xanu	_	NOUN	_	_	14	nsubj:free	_	_
 8	=n	_	PART	_	_	7	case	_	_
 9	ain	_	AUX	_	_	10	nmod	_	_
@@ -1065,7 +1065,7 @@
 12	=sa	_	PART	_	_	11	case	_	_
 13	okin	_	ADV	_	_	14	advcl	_	_
 14	maso	_	VERB	_	_	0	root	_	_
-15	=ma	_	ADV	_	_	14	advmod	_	_
+15	=ma	_	PART	_	_	14	advmod	_	_
 16	‘ikën	_	VERB	_	_	14	aux	_	_
 17	.	_	PUNCT	_	_	14	punct	_	_
 
@@ -1123,9 +1123,9 @@
 11	‘ë	_	PRON	_	_	10	nmod	_	_
 12	nipáxun	_	VERB	_	_	17	parataxis	_	_
 13	”	_	PUNCT	_	_	17	punct	_	_
-14	ka	_	AUX	_	_	17	aux:sgen	_	_
-15	=is	_	AUX	_	_	17	aux:ev	_	_
-16	=a	_	DET	_	_	17	nsubj:bound	_	_
+14	ka	_	PART	_	_	17	aux:sgen	_	_
+15	=is	_	PART	_	_	17	aux:ev	_	_
+16	=a	_	PART	_	_	17	nsubj:bound	_	_
 17	kakëshín	_	VERB	_	_	0	root	_	_
 18	.	_	PUNCT	_	_	17	punct	_	_
 
@@ -1162,7 +1162,7 @@
 8	chumíbukë	chumin-but-kë	ADJ	_	_	7	amod	_	thin-advance.process-NOMLZ:ABS=
 9	bamati	bama	VERB	_	_	5	advmod	_	die=
 10	ura	ura	ADV	_	_	9	advmod	_	far=
-11	=ma	ma	ADV	_	_	10	advmod	_	negative=
+11	=ma	ma	PART	_	_	10	advmod	_	negative=
 12	.	_	PUNCT	_	_	5	punct	_	_
 
 
@@ -1189,9 +1189,9 @@
 1	Chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
 2	an	_	DET	_	_	1	det	1:det	_
 3	=n	_	PART	_	_	1	case	1:case	_
-4	ka	_	AUX	_	_	11	aux:sgen	11:aux:sgen	_
-5	=is	_	AUX	_	_	11	aux:evid	11:aux:evid	_
-6	=a	_	DET	_	_	11	nsubj:bound	11:nsubj:bound	_
+4	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	_
+5	=is	_	PART	_	_	11	aux:evid	11:aux:evid	_
+6	=a	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	_
 7	xanu	_	NOUN	_	_	11	obj	11:obj	_
 8	xënirá	_	ADJ	_	_	7	amod	7:amod	_
 9	chaxu	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	_
@@ -1219,7 +1219,7 @@
 # sent_id = 517-claudia
 1	‘Ë	_	PRON	_	_	8	nmod	_	_
 2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	AUX	_	_	8	aux:sgen	_	_
+3	ka	_	PART	_	_	8	aux:sgen	_	_
 4	=na	_	PART	_	_	8	nsubj:bound	_	_
 5	a	_	DET	_	_	7	nsubj:bound	_	_
 6	bana	_	NOUN	_	_	7	nsubj:free	_	_
@@ -1233,7 +1233,7 @@
 # sent_id = 518-claudia
 1	Ë	_	PRON	_	_	7	nmod	_	_
 2	=n	_	PART	_	_	1	case	_	_
-3	ka	_	AUX	_	_	7	aux:sgen	_	_
+3	ka	_	PART	_	_	7	aux:sgen	_	_
 4	=na	_	PART	_	_	7	nsubj:bound	_	_
 5	a	_	DET	_	_	7	nsubj:bound	_	_
 6	bana	_	NOUN	_	_	7	nsubj:free	_	_
@@ -1318,8 +1318,8 @@
 
 # sent_id = 799-claudia
 1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	_
-2	ka	_	AUX	_	_	5	aux:sgen	5:aux:sgen	_
-3	=is	_	AUX	_	_	5	aux:evid	5:aux:evid	_
+2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	_
+3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	_
 4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	_
 5	kakëxa	_	VERB	_	_	0	root	0:root	_
 6	ain	_	AUX	_	_	7	nmod	7:nmod	_
@@ -1338,7 +1338,7 @@
 19	kupë	_	NOUN	_	_	21	obj	21:obj	manioc:ABS
 20	atsa	_	PART	_	_	19	compound	19:compound	_
 21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	_
-22	ka	_	AUX	_	_	23	aux:sgen	23:aux:sgen	_
+22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	_
 23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	_
 24	,	_	PUNCT	_	_	5	punct	5:punct	_
 25	tita	_	NOUN	_	_	23	discourse	23:discourse	_
@@ -1353,7 +1353,7 @@
 2	=n	_	PART	_	_	1	case	_	_
 3	‘aru-kë	_	VERB	_	_	7	ccomp	_	_
 4	=sa	_	PART	_	_	3	case	_	_
-5	ka	_	AUX	_	_	7	aux:sgen	_	_
+5	ka	_	PART	_	_	7	aux:sgen	_	_
 6	=na	_	PART	_	_	7	nsubj:bound	_	_
 7	sinan-i-n	_	VERB	_	_	0	root	_	_
 
@@ -1363,7 +1363,7 @@
 1	a	_	PRON	_	_	7	nsubj:free	_	_
 2	=kama	_	PART	_	_	1	nummod	_	_
 3	=n	_	PART	_	_	1	case	_	_
-4	ka	_	AUX	_	_	7	aux:sgen	_	_
+4	ka	_	PART	_	_	7	aux:sgen	_	_
 5	=a	_	PART	_	_	7	nsubj:bound	_	_
 6	‘atsa	_	NOUN	_	_	7	obj	_	_
 7	pi-kan-i-n	_	VERB	_	_	0	root	_	_
@@ -1524,11 +1524,11 @@
 
 
 # sent_id = 975-javier
-1	bëba-ia	_	VERB	_	_	5	advcl	5:advcl	arrive-S/A>P:SE
-2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	=NAR
-3	=is	_	PART	_	_	5	aux:ev	5:aux:ev	=REP
-4	=a	_	PART	_	_	5	nsubj	5:nsubj	=3
-5	is-akë-x-a	_	VERB	_	_	0	root	0:root	see-REM.PST-3-NON.PROX
-6	achushi	_	NUM	_	_	7	nummod	7:nummod	one
-7	gringo	_	NOUN	_	_	4	obj	4:obj	white.person:ABS
-8	.	_	PUNCT	_	_	5	punct	5:punct	_
+1	bëba-ia	_	VERB	_	_	5	advcl	_	arrive-S/A>P:SE
+2	ka	_	PART	_	_	5	aux:sgen	_	=NAR
+3	=is	_	PART	_	_	5	aux:ev	_	=REP
+4	=a	_	PART	_	_	5	nsubj:bound	_	=3
+5	is-akë-x-a	_	VERB _	_	0	root	_	see-REM.PST-3-NON.PROX
+6	achushi	_	NUM	_	_	7	nummod	_	one
+7	gringo	_	NOUN	_	_	4	obj	_	white.person:ABS
+8	.	_	PUNCT	_	_	5	punct	_	_
