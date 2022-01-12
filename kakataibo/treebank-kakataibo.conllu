@@ -1524,11 +1524,11 @@
 
 
 # sent_id = 975-javier
-1	bëba-ia	_	VERB	_	_	5	advcl	_	arrive-S/A>P:SE
-2	ka	_	PART	_	_	5	aux:sgen	_	=NAR
-3	=is	_	PART	_	_	5	aux:ev	_	=REP
-4	=a	_	PART	_	_	5	nsubj:bound	_	=3
-5	is-akë-x-a	VERB	_	_	_	0	root	_	see-REM.PST-3-NON.PROX
-6	achushi	_	NUM	_	_	7	nummod	_	one
-7	gringo	_	NOUN	_	_	4	obj	_	white.person:ABS
-8	.	_	PUNCT	_	_	5	punct	_	_
+1	bëba-ia	_	VERB	_	_	5	advcl	5:advcl	arrive-S/A>P:SE
+2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	=NAR
+3	=is	_	PART	_	_	5	aux:ev	5:aux:ev	=REP
+4	=a	_	PART	_	_	5	nsubj	5:nsubj	=3
+5	is-akë-x-a	_	VERB	_	_	0	root	0:root	see-REM.PST-3-NON.PROX
+6	achushi	_	NUM	_	_	7	nummod	7:nummod	one
+7	gringo	_	NOUN	_	_	4	obj	4:obj	white.person:ABS
+8	.	_	PUNCT	_	_	5	punct	5:punct	_
