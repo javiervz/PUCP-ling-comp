@@ -845,59 +845,59 @@
 
 
 # sent_id = 357-sabina
-1	ka	_	NOUN	_	_	2	aux:sgen	_	NAR=
-2	xui	_	VERB	_	_	10	parataxis	_	grill:IMP=
-3	ka-xun	_	VERB	_	_	10	advcl	_	say-S/A>A:SE=
-4	ka	_	PART	_	_	10	aux:sgen	_	NAR=
-5	=is	_	PART	_	_	10	aux:ev	_	
-6	=a	_	PART	_	_	10	nsubj:bound	_	
-7	charu	_	NOUN	_	_	10	obj	_	crab:ABS=
-8	ain	_	PRON	_	_	9	nmod	_	3SG:GEN=
-9	xanu	_	NOUN	_	_	10	iobj	_	woman:ABS=
-10	inan-akë-x-a	_	VERB	_	_	0	root	_	give-REM.PST-3-NON.PROX=
+1	ka	_	NOUN	_	_	2	aux:sgen	_	NAR
+2	xui	_	VERB	_	_	10	parataxis	_	grill:IMP
+3	ka-xun	_	VERB	_	_	10	advcl	_	say-S/A>A:SE
+4	ka	_	PART	_	_	10	aux:sgen	_	NAR
+5	=is	_	PART	_	_	10	aux:ev	_	=REP
+6	=a	_	PART	_	_	10	nsubj:bound	=3	
+7	charu	_	NOUN	_	_	10	obj	_	crab:ABS
+8	ain	_	PRON	_	_	9	nmod	_	3SG:GEN
+9	xanu	_	NOUN	_	_	10	iobj	_	woman:ABS
+10	inan-akë-x-a	_	VERB	_	_	0	root	_	give-REM.PST-3-NON.PROX
 11	.	_	PUNCT	_	_	10	punct	_	_
 
 
 
 # sent_id = 361-sabina
-1	a-kin	_	VERB	_	_	5	advcl	_	do-S/A>A:SE=
-2	=ma	_	PART	_	_	1	advmod	_	
-3	ka	_	PART	_	_	5	aux:sgen	_	NAR=
-4	=nanuna	_	PART	_	_	5	nsubj:bound	_	
-5	a-i-n	_	VERB	_	_	0	root	_	do-IPFV-1/1=
-6	atsa	_	NOUN	_	_	5	obl	_	manioc=
-7	=këñun	_	PART	_	_	6	case	_	
-8	xëki	_	NOUN	_	_	5	obj	_	corn:ABS=
+1	a-kin	_	VERB	_	_	5	advcl	_	do-S/A>A:SE
+2	=ma	_	PART	_	_	1	advmod	_	=NEG
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=nanuna	_	PART	_	_	5	nsubj:bound	_	=1PL
+5	a-i-n	_	VERB	_	_	0	root	_	do-IPFV-1/2
+6	atsa	_	NOUN	_	_	5	obl	_	manioc
+7	=këñun	_	PART	_	_	6	case	_	=COM:P
+8	xëki	_	NOUN	_	_	5	obj	_	corn:ABS
 9	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
 # sent_id = 363-rosa
-1	Ain	ain	PRON	_	_	2	nmod	_	3sg:gen=
-2	monument	monumento	NOUN	_	_	8	nsubj:free	_	statue=
-3	=sapi	sapi	PART	_	_	8	aux:dub	_	dubitative=
-4	ka	ka	PART	_	_	8	aux:sgen	_	narrative=
-5	=a	a	PART	_	_	8	nsubj:bound	_	3=
-6	Pucallpa	Pucallpa	NOUN	_	_	8	obl	_	Pucallpa=
-7	=nu	nu	PART	_	_	6	case	_	locative=
-8	‘ikën	‘ikën	VERB	_	_	0	root	_	be:3=
+1	Ain	ain	PRON	_	_	2	nmod	_	3sg:GEN
+2	monument	monumento	NOUN	_	_	8	nsubj:free	_	statue
+3	=sapi	sapi	PART	_	_	8	aux:dub	_	DUB
+4	ka	ka	PART	_	_	8	aux:sgen	_	NAR
+5	=a	a	PART	_	_	8	nsubj:bound	_	=3
+6	Pucallpa	Pucallpa	NOUN	_	_	8	obl	_	Pucallpa
+7	=nu	nu	PART	_	_	6	case	_	=LOC
+8	‘ikën	‘ikën	VERB	_	_	0	root	_	be:3
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
 
 # sent_id = 366-sabina
-1	cha	_	ADJ	_	_	2	amod	_	big=
-2	bai	_	NOUN	_	_	5	obj	_	path:ABS=
-3	ka	_	PART	_	_	5	aux:sgen	_	NAR=
-4	=a	_	PART	_	_	5	nsubj:bound	_	
-5	a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3=
-6	desde	_	ADP	_	_	7	case	_	from=
-7	Tingo	_	PROPN	_	_	8	compound	_	Tingo=
-8	María	_	PROPN	_	_	5	obl	_	María=
-9	anu-xun	_	ADV	_	_	5	advmod	_	there-PA.A=
-10	hasta	_	ADP	_	_	11	case	_	until=
-11	Pucallpa	_	PROPN	_	_	5	obl	_	Pucallpa=
-12	=nu	_	PART	_	_	11	case	_	
+1	cha	_	ADJ	_	_	2	amod	_	big
+2	bai	_	NOUN	_	_	5	obj	_	path:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=a	_	PART	_	_	5	nsubj:bound	_	=3
+5	a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3
+6	desde	_	ADP	_	_	7	case	_	from
+7	Tingo	_	PROPN	_	_	8	compound	_	Tingo
+8	María	_	PROPN	_	_	5	obl	_	María
+9	anu-xun	_	ADV	_	_	5	advmod	_	there-PA.A
+10	hasta	_	ADP	_	_	11	case	_	until
+11	Pucallpa	_	PROPN	_	_	5	obl	_	Pucallpa
+12	=nu	_	PART	_	_	11	case	_	=LOC
 13	.	_	PUNCT	_	_	5	punct	_	_
 
 
