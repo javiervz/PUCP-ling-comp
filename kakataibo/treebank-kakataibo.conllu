@@ -1130,19 +1130,19 @@
 2	Anun	_	PRON	_	_	3	nmod	_	that:INS
 3	ma	_	NOUN	_	_	12	obj	_	head
 4	shi	_	VERB	_	_	17	parataxis	_	rub
-5	ki	_	PRON	_	_	3	nmod	_	_
-6	nun	_	ADV	_	_	4	advcl	_	_
-7	ka	_	AUX	_	_	12	aux:sgen	_	_
-8	‘ë	_	PRON	_	_	9	nmod	_	_
-9	nanë	_	NOUN	_	_	12	obj	_	_
-10	itsirá	_	NOUN	_	_	12	obj	_	_
-11	‘ë	_	PRON	_	_	10	nmod	_	_
-12	nipáxun	_	VERB	_	_	17	parataxis	_	_
+5	akat	_	PRON	_	_	3	nmod	_	REFL
+6	nun	_	ADV	_	_	4	advcl	_	DS/A:POE
+7	ka	_	AUX	_	_	12	aux:sgen	_	NAR
+8	‘ë	_	PRON	_	_	9	nmod	_	1SG:P
+9	nanë	_	NOUN	_	_	12	obj	_	genipap:ABS
+10	itsi-rá	_	NOUN	_	_	12	obj	_	other-DIM:ABS
+11	‘ë	_	PRON	_	_	10	nmod	_	1SG:P
+12	ni-pat-xun	_	VERB	_	_	17	parataxis	_throw-down:TRAN-APP:BEN	
 13	”	_	PUNCT	_	_	17	punct	_	_
-14	ka	_	PART	_	_	17	aux:sgen	_	_
-15	=is	_	PART	_	_	17	aux:ev	_	_
-16	=a	_	PART	_	_	17	nsubj:bound	_	_
-17	kakëshín	_	VERB	_	_	0	root	_	_
+14	ka	_	PART	_	_	17	aux:sgen	_	NAR
+15	=is	_	PART	_	_	17	aux:ev	_	REP
+16	=a	_	PART	_	_	17	nsubj:bound	_	3
+17	ka-akë-x-ín	_	VERB	_	_	0	root	_	say-REM.PST-3-PROX
 18	.	_	PUNCT	_	_	17	punct	_	_
 
 
