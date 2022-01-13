@@ -704,18 +704,18 @@
 
 
 # sent_id = 333-mariana
-1	atian	_	ADV	_	_	11	discourse	_	then
-2	casi	_	ADV	_	_	3	advmod	_	almost
-3	kamabi	_	DET	_	_	4	nummod	_	every
-4	nëtë	_	NOUN	_	_	11	advmod	_	day
-5	=n	_	PART	_	_	4	case	_	=TEMP
-6	ka	_	PART	_	_	11	aux:sgen	_	NAR
-7	=is	_	PART	_	_	11	aux:evi	_	=REP
-8	=a	_	PART	_	_	11	nsubj:bound	_	=3	
-9	a	_	DET	_	_	10	det	_	that
-10	uni	_	NOUN	_	_	11	nsubj:free	_	person:ABS
-11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox
-12	.	_	PUNCT	_	_	11	punct	_	_
+1	atian	_	ADV	_	_	11	discourse	11:discourse	then
+2	casi	_	ADV	_	_	3	advmod	3:advmod	almost
+3	kamabi	_	DET	_	_	4	nummod	4:nummod	every
+4	nëtë	_	NOUN	_	_	11	advmod	11:advmod	day
+5	=n	_	PART	_	_	4	case	4:case	=TEMP
+6	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	NAR
+7	=is	_	PART	_	_	11	aux:evi	11:aux:evi	=REP
+8	=a	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=3
+9	a	_	DET	_	_	10	det	10:det	that
+10	uni	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	person:ABS
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	0:root	go-rem.pst-3-prox
+12	.	_	PUNCT	_	_	11	punct	11:punct	_
 
 
 
