@@ -144,11 +144,11 @@
 
 
 # sent_id = 201-luisa
-1	Xanu-xun	xanu	NOUN	_	_	5	advcl	_	woman=
-2	ka	_	AUX	_	_	5	aux:sgen	_	_
-3	=a	_	PART	_	_	5	nsubj:bound	_	_
-4	‘atapa	‘atapa	NOUN	_	_	5	obj	_	_
-5	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-pfv-3-non.prox=
+1	Xanu-xun	xanu	NOUN	_	_	5	advcl	_	woman
+2	ka	_	AUX	_	_	5	aux:sgen	_	NAR
+3	=a	_	PART	_	_	5	nsubj:bound	_	=3
+4	‘atapa	‘atapa	NOUN	_	_	5	obj	_	chicken:ABS
+5	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 
