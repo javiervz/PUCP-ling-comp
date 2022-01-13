@@ -1,18 +1,18 @@
 # sent_id = 1005(1)-sabina
-1	patron	_	NOUN	_	_	6	obl	_	boss=
-2	=bëtan	_	PART	_	_	1	case	_	
-3	ka	_	PART	_	_	6	aux:sgen	_	NAR=
-4	=a	_	PART	_	_	6	nsubj:bound	_	:3=
-5	balata	_	NOUN	_	_	6	obj	_	rubber.latex=
-6	a-akë-x-ín	_	VERB	_	_	0	root	_	do-REM.PST-3-PROX=
+1	patron	_	NOUN	_	_	6	obl	_	boss
+2	=bëtan	_	PART	_	_	1	case	_	=COM
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	=a	_	PART	_	_	6	nsubj:bound	_	=3
+5	balata	_	NOUN	_	_	6	obj	_	rubber.latex
+6	a-akë-x-ín	_	VERB	_	_	0	root	_	do-REM.PST-3-PROX
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 1005(6)-sabina
-1	maru-kin	_	VERB	_	_	3	advcl	_	sell-s/a>a:se=
-2	no-n	_	ADJ	_	_	3	nsubj:free	_	non.indigenous-erg=
-3	buan-akë-x-ín	_	VERB	_	_	0	root	_	take-rem.pas-3-non.prox=
+1	maru-kin	_	VERB	_	_	3	advcl	_	sell-S>A:SE
+2	no-n	_	ADJ	_	_	3	nsubj:free	_	non.indigenous-ERG
+3	buan-akë-x-ín	_	VERB	_	_	0	root	_	take-REM.PAS-3-NON.PROX
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 
@@ -32,113 +32,113 @@
 
 
 # sent_id = 174-mariana
-1	Juan	_	PROPN	_	_	7	nsubj:free	_	Juan=
-2	ka	_	PART	_	_	7	aux:sgen	_	NAR:3=
-3	=mënë	_	PART	_	_	7	nsubj:bound	_	
-4	mi	_	PRON	_	_	6	nmod	_	2SG=
-5	=n	_	PART	_	_	4	case	_	
-6	kuriki	_	NOUN	_	_	7	aux:sgen	_	money:ABS=
-7	mëkama-iéé	_	VERB	_	_	0	root	_	steal-3.accusatory=
+1	Juan	_	PROPN	_	_	7	nsubj:free	_	Juan
+2	ka	_	PART	_	_	7	aux:sgen	_	NAR:3
+3	=mënë	_	PART	_	_	7	nsubj:bound	_	=MIR
+4	mi	_	PRON	_	_	6	nmod	_	2SG
+5	=n	_	PART	_	_	4	case	_	=GEN
+6	kuriki	_	NOUN	_	_	7	aux:sgen	_	money:ABS
+7	mëkama-iéé	_	VERB	_	_	0	root	_	steal-3.accusatory
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 175-mariana
-1	Nukën	_	PRON	_	_	2	nmod	_	1pl:gen=
-2	chaiti	_	NOUN	_	_	6	nsubj:free	_	ancestor:abs=
-3	ka	_	PART	_	_	6	aux:sgen	_	nar=
-4	=is	_	PART	_	_	6	aux:ev	_	
-5	=a	_	PART	_	_	6	nsubj:bound	_	
-6	tsó-akë-x-a	_	VERB	_	_	0	root	_	live-rem.pst-3-non.prox=
-7	norte	_	NOUN	_	_	6	obl	_	North=
-8	=nu	_	PART	_	_	7	case	_	
+1	Nukën	_	PRON	_	_	2	nmod	_	1PLEN
+2	chaiti	_	NOUN	_	_	6	nsubj:free	_	ancestor:ABS
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
+4	=is	_	PART	_	_	6	aux:ev	_	=REP
+5	=a	_	PART	_	_	6	nsubj:bound	_	=3
+6	tsó-akë-x-a	_	VERB	_	_	0	root	_	live-REM.PST-3-NON.PROX
+7	norte	_	NOUN	_	_	6	obl	_	North
+8	=nu	_	PART	_	_	7	case	_	=LOC
 9	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 175(2)-mariana
-1	Norte	_	NOUN	_	_	16	obl	_	North=
-2	=nu	_	PART	_	_	1	case	_	
-3	tsó-xun	_	VERB	_	_	16	advcl	_	live-S/A>A:SE=
-4	ka	_	PART	_	_	16	aux:sgen	_	NAR=
-5	=is	_	PART	_	_	16	aux:ev	_	
-6	=a	_	PART	_	_	16	nsubj:bound	_	
-7	nukën	_	PRON	_	_	8	nmod	_	1pl.gen=
-8	chaiti-baë	_	NOUN	_	_	16	nsubj:free	_	ancestor-COL=
-9	=n	_	PART	_	_	8	case	_	
-10	uni	_	NOUN	_	_	16	obl	_	people=
-11	=ñu	_	PART	_	_	10	case	_	
-12	=ma	_	PART	_	_	10	nmod	_	
-13	no	_	ADJ	_	_	16	obl	_	foreign=
-14	=ñu	_	PART	_	_	13	case	_	
-15	=ma	_	PART	_	_	13	nmod	_	
-16	'a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3-NON.PROX=
+1	Norte	_	NOUN	_	_	16	obl	_	North
+2	=nu	_	PART	_	_	1	case	_	=LOC
+3	tsó-xun	_	VERB	_	_	16	advcl	_	live-S/A>A:SE
+4	ka	_	PART	_	_	16	aux:sgen	_	NAR
+5	=is	_	PART	_	_	16	aux:ev	_	=REP
+6	=a	_	PART	_	_	16	nsubj:bound	_	=3
+7	nukën	_	PRON	_	_	8	nmod	_	1PL.GEN
+8	chaiti-baë	_	NOUN	_	_	16	nsubj:free	_	ancestor-COL
+9	=n	_	PART	_	_	8	case	_	=ERG
+10	uni	_	NOUN	_	_	16	obl	_	people
+11	=ñu	_	PART	_	_	10	case	_	=PROP
+12	=ma	_	PART	_	_	10	nmod	_	=NEG
+13	no	_	ADJ	_	_	16	obl	_	foreign
+14	=ñu	_	PART	_	_	13	case	_	=PROP
+15	=ma	_	PART	_	_	13	nmod	_	=NEG
+16	'a-akë-x-a	_	VERB	_	_	0	root	_	do-REM.PST-3-NON.PROX
 17	.	_	PUNCT	_	_	16	punct	_	_
 
 
 
 # sent_id = 178-mariana
-1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN=
-2	chaiti	_	NOUN	_	_	7	nsubj:free	_	ancestor=
-3	=n	_	PART	_	_	2	case	_	
-4	ka	_	PART	_	_	7	aux:sgen	_	NAR:3=
-5	=a	_	PART	_	_	7	nsubj:bound	_	_
-6	bana	_	NOUN	_	_	7	obl	_	tale:ABS=
-7	ñui-xun-kian	_	VERB	_	_	0	root	_	say-BEN-REM.PST.HAB.3=
+1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN
+2	chaiti	_	NOUN	_	_	7	nsubj:free	_	ancestor
+3	=n	_	PART	_	_	2	case	_	=ERG
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR
+5	=a	_	PART	_	_	7	nsubj:bound	_	=3
+6	bana	_	NOUN	_	_	7	obl	_	tale:ABS
+7	ñui-xun-kian	_	VERB	_	_	0	root	_	say-BEN-REM.PST.HAB.3
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 180-mariana
-1	‘Ë	_	PRON	_	_	4	nsubj:free	_	1SG:P=
-2	ka	_	PART	_	_	4	aux:sgen	_	NAR=
-3	‘atsa	_	NOUN	_	_	4	obl	_	manioc:ABS=
-4	‘inan	_	VERB	_	_	0	root	_	give:IMP=
+1	‘Ë	_	PRON	_	_	4	nsubj:free	_	1SG:P
+2	ka	_	PART	_	_	4	aux:sgen	_	NAR
+3	‘atsa	_	NOUN	_	_	4	obl	_	manioc:ABS
+4	‘inan	_	VERB	_	_	0	root	_	give:IMP
 5	.	_	PUNCT	_	_	4	punct	_	_
 
 
 
 # sent_id = 189a-mariana
-1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN=
-2	chaiti	_	NOUN	_	_	9	nsubj:free	_	ancestor=
-3	=n	_	PART	_	_	2	case	_	
-4	ka	_	PART	_	_	9	aux:gen	_	NAR=
-5	=is	_	PART	_	_	9	aux:ev	_	
-6	=a	_	PART	_	_	9	nsubj:bound	_	
-7	'ó	_	NOUN	_	_	8	nmod	_	tapir=
-8	nami	_	NOUN	_	_	9	obl	_	meat:ABS=
-9	pi-akë-x-a	_	VERB	_	_	0	root	_	eat-REM.PST-3-NON.PROX=
+1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN
+2	chaiti	_	NOUN	_	_	9	nsubj:free	_	ancestor
+3	=n	_	PART	_	_	2	case	_	=ERG
+4	ka	_	PART	_	_	9	aux:gen	_	NAR
+5	=is	_	PART	_	_	9	aux:ev	_	=REP
+6	=a	_	PART	_	_	9	nsubj:bound	_	=3
+7	'ó	_	NOUN	_	_	8	nmod	_	tapir
+8	nami	_	NOUN	_	_	9	obl	_	meat:ABS
+9	pi-akë-x-a	_	VERB	_	_	0	root	_	eat-REM.PST-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
 
 # sent_id = 199-mariana
 # text = Achushi uni chaxkë =bëtan ka =na 'ë =n xubu' a-ti 'ain .
-1	Achushi	_	NUM	_	_	2	nummod	_	one=
-2	uni	_	NOUN	_	_	10	obl	_	man=
-3	chaxkë	_	ADJ	_	_	2	amod	_	big=
-4	=bëtan	_	PART	_	_	3	case	_	
-5	ka	_	PART	_	_	10	aux:sgen	_	NAR=
-6	=na	_	PART	_	_	10	nsubj:bound	_	
-7	‘ë	_	PRON	_	_	10	nsubj:free	_	1SG=
-8	=n	_	PART	_	_	7	case	_	
-9	xubu‘	_	NOUN	_	_	10	obl	_	house:ABS=
-10	a-ti	_	VERB	_	_	0	root	_	do-NMLZ=
-11	‘ain	_	AUX	_	_	10	aux	_	be:1/2=
+1	Achushi	_	NUM	_	_	2	nummod	_	one
+2	uni	_	NOUN	_	_	10	obl	_	man
+3	chaxkë	_	ADJ	_	_	2	amod	_	big
+4	=bëtan	_	PART	_	_	3	case	_	=COM:A
+5	ka	_	PART	_	_	10	aux:sgen	_	NAR
+6	=na	_	PART	_	_	10	nsubj:bound	_	1SG
+7	‘ë	_	PRON	_	_	10	nsubj:free	_	1SG
+8	=n	_	PART	_	_	7	case	_	=GEN
+9	xubu‘	_	NOUN	_	_	10	obl	_	house:ABS
+10	a-ti	_	VERB	_	_	0	root	_	do-NMLZ
+11	‘ain	_	AUX	_	_	10	aux	_	be:1/2
 12	.	_	PUNCT	_	_	10	punct	_	_
 
 
 
 # sent_id = 200-mariana
-1	Uni	_	NOUN	_	_	9	nsubj:free	_	man=
-2	=n	_	PART	_	_	1	case	_	
-3	ka	_	PART	_	_	9	aux:sgen	_	NAR:3=
-4	=a	_	PART	_	_	9	nsubj:bound	_	_
-5	baka	_	NOUN	_	_	9	obl	_	river=
-6	=nu	_	PART	_	_	5	case	_	
-7	=xun	_	PART	_	_	1	case	_	
-8	chaxu	_	NOUN	_	_	9	obj	_	deer:ABS=
-9	‘a-a-x-a	_	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX=
+1	Uni	_	NOUN	_	_	9	nsubj:free	_	man
+2	=n	_	PART	_	_	1	case	_	=ERG
+3	ka	_	PART	_	_	9	aux:sgen	_	NAR
+4	=a	_	PART	_	_	9	nsubj:bound	_	=3
+5	baka	_	NOUN	_	_	9	obl	_	river
+6	=nu	_	PART	_	_	5	case	_	=LOC
+7	=xun	_	PART	_	_	1	case	_	=PA.A
+8	chaxu	_	NOUN	_	_	9	obj	_	deer:ABS
+9	‘a-a-x-a	_	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
