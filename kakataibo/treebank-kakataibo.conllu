@@ -903,52 +903,52 @@
 
 
 # sent_id = 369-sabina
-1	hotel	_	NOUN	_	_	8	obl	_	hotel=
-2	=miki	_	PART	_	_	1	case	_	
-3	ka	_	PART	_	_	8	aux:sgen	_	NAR=
-4	=a	_	PART	_	_	8	nsubj:bound	_	:3=
-5	e	_	PRON	_	_	7	nmod	_	1SG=
-6	=n	_	PART	_	_	5	case	_	
-7	xukën	_	NOUN	_	_	8	nsubj:free	_	brother:ABS=
-8	u-i-a	_	VERB	_	_	0	root	_	come-IPFV-NON.PROX=
+1	hotel	_	NOUN	_	_	8	obl	_	hotel
+2	=miki	_	PART	_	_	1	case	_	=mi(ki)
+3	ka	_	PART	_	_	8	aux:sgen	_	NAR
+4	=a	_	PART	_	_	8	nsubj:bound	_	=3
+5	e	_	PRON	_	_	7	nmod	_	1SG
+6	=n	_	PART	_	_	5	case	_	=GEN
+7	xukën	_	NOUN	_	_	8	nsubj:free	_	brother:ABS
+8	u-i-a	_	VERB	_	_	0	root	_	come-IPFV-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
 
 # sent_id = 370-luisa
-1	Hotel	hotel	NOUN	_	_	8	obl	_	hotel=
-2	=uki	u(ki)	PART	_	_	1	case	_	
-3	ka	_	AUX	_	_	8	aux:sgen	_	_
-4	=a	ka	PART	_	_	8	nsubj:bound	_	nar:3=
-5	‘ë	‘ë	PRON	_	_	7	nmod	_	1sg=
-6	=n	n	PART	_	_	5	case	_	
-7	xukën	xukën	NOUN	_	_	8	nsubj:free	_	brother:abs=
-8	u-i-a	u	VERB	_	_	0	root	_	come-ipvf-non.prox=
+1	Hotel	hotel	NOUN	_	_	8	obl	_	hotel
+2	=uki	u(ki)	PART	_	_	1	case	_	=IMPR.DIR
+3	ka	ka	AUX	_	_	8	aux:sgen	_	NAR
+4	=a	a	PART	_	_	8	nsubj:bound	_	=3
+5	‘ë	‘ë	PRON	_	_	7	nmod	_	1sg
+6	=n	n	PART	_	_	5	case	_	=GEN
+7	xukën	xukën	NOUN	_	_	8	nsubj:free	_	brother:ABS
+8	u-i-a	u	VERB	_	_	0	root	_	come-IPFV-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
 
 # sent_id = 379-sabina
-1	xubu	_	NOUN	_	_	5	obj	_	houses=
-2	=kama	_	PART	_	_	1	nmod	_	
-3	ka	_	PART	_	_	5	aux:sgen	_	NAR=
-4	=a	_	PART	_	_	5	nsubj:bound	_	:3=
-5	is-akë-x-a	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX=
+1	xubu	_	NOUN	_	_	5	obj	_	houses
+2	=kama	_	PART	_	_	1	nmod	_	=PL:ABS
+3	ka	_	PART	_	_	5	aux:sgen	_	NAR
+4	=a	_	PART	_	_	5	nsubj:bound	_	=3
+5	is-akë-x-a	_	VERB	_	_	0	root	_	see-REM.PST-3-NON.PROX
 6	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
 # sent_id = 388-sabina
-1	nukën	_	PRON	_	_	2	nmod	_	our=
-2	papaokë	_	NOUN	_	_	10	nsubj:free	_	ancestor=
-3	=kama	_	PART	_	_	2	nummod	_	
-4	ka	_	PART	_	_	10	aux:sgen	_	NAR=
-5	=a	_	PART	_	_	10	nsubj:bound	_	:3=
-6	uni	_	NOUN	_	_	7	amod	_	man=
-7	chaxkë	_	ADJ	_	_	10	nmod	_	big=
-8	siná	_	ADJ	_	_	9	amod	_	brave=
-9	uni	_	NOUN	_	_	10	nmod	_	man=
-10	i-akë-x-a	_	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX=
+1	nukën	_	PRON	_	_	2	nmod	_	our
+2	papaokë	_	NOUN	_	_	10	nsubj:free	_	ancestor
+3	=kama	_	PART	_	_	2	nummod	_	=PL
+4	ka	_	PART	_	_	10	aux:sgen	_	NAR
+5	=a	_	PART	_	_	10	nsubj:bound	_	=3
+6	uni	_	NOUN	_	_	7	amod	_	man
+7	chaxkë	_	ADJ	_	_	10	nmod	_	big
+8	siná	_	ADJ	_	_	9	amod	_	brave
+9	uni	_	NOUN	_	_	10	nmod	_	man
+10	i-akë-x-a	_	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
 11	.	_	PUNCT	_	_	10	punct	_	_
 
 
