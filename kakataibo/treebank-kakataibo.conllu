@@ -1087,40 +1087,40 @@
 
 
 # sent_id = 408-sabina
-1	uni-tín	_	ADJ	_	_	2	nmod	2:nmod	man-same.size=
-2	chuna	_	NOUN	_	_	8	nsubj:free	8:nsubj:free	spider.monkey=
-3	a	_	PRON	_	_	2	det	2:det	3SG=
-4	=n	_	PART	_	_	2	case	2:case	
-5	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
-6	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	:3=
-7	ë	_	PRON	_	_	8	obj	8:obj	1SG:P=
-8	ratu-a-x-a	_	VERB	_	_	0	root	0:root	scare-PFV-3-NON.PROX=
+1	uni-tín	_	ADJ	_	_	2	nmod	2:nmod	man-same.size
+2	chuna	_	NOUN	_	_	8	nsubj:free	8:nsubj:free	spider.monkey
+3	a	_	PRON	_	_	2	det	2:det	3SG
+4	=n	_	PART	_	_	2	case	2:case =A
+5	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
+6	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	=3
+7	ë	_	PRON	_	_	8	obj	8:obj	1SG:P
+8	ratu-a-x-a	_	VERB	_	_	0	root	0:root	scare-PFV-3-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	8:punct	_
 
 
 
 # sent_id = 445-luisa
-1	‘Ë	‘ë	PRON	_	_	5	nsubj:free	_	1sg=
-2	=x	x	PART	_	_	1	case	_	s=
-3	ka	ka	AUX	_	_	5	aux:sgen	_	ind=
-4	=na	na	PART	_	_	5	nsubj:bound	_	1sg=
-5	rakwët-i-n	rakwët	VERB	_	_	0	root	_	be.affraid.of-ipfv-½=
-6	‘inu	‘inu	NOUN	_	_	8	nsubj:free	_	jaguar=
-7	=n	n	PART	_	_	6	case	_	erg=
+1	‘Ë	‘ë	PRON	_	_	5	nsubj:free	_	1sg
+2	=x	x	PART	_	_	1	case	_	=s
+3	ka	ka	AUX	_	_	5	aux:sgen	_	ind
+4	=na	na	PART	_	_	5	nsubj:bound	_	=1sg
+5	rakwët-i-n	rakwët	VERB	_	_	0	root	_	be.affraid.of-ipfv-½
+6	‘inu	‘inu	NOUN	_	_	8	nsubj:free	_	jaguar
+7	=n	n	PART	_	_	6	case	_	=erg
 8	pi-ti	piti	NOUN	_	_	5	obl	_	eat-nomlz
-9	rabanan	rabanan	ADP	_	_	8	case	_	because.of=
+9	rabanan	rabanan	ADP	_	_	8	case	_	because.of
 10	.	_	PUNCT	_	_	8	punct	_	_
 
 
 
 # sent_id = 460-mariana
-1	paën-xun	_	VERB	_	_	7	advcl	_	get.drunk-s/a>a=
-2	ka	_	PART	_	_	7	aux:sgen	_	nar=
-3	=na	_	PART	_	_	7	nsubj:bound	_	1sg=
-4	‘ë	_	PRON	_	_	7	nsubj:free	_	1sg=
-5	=n	_	PART	_	_	4	case	_	a=
-6	‘atsa	_	NOUN	_	_	7	nsubj:free	_	manioc:abs=
-7	kwëën-i-n	_	VERB	_	_	0	root	_	want-ipfv-½=
+1	paën-xun	_	VERB	_	_	7	advcl	_	get.drunk-s/a>a
+2	ka	_	PART	_	_	7	aux:sgen	_	nar
+3	=na	_	PART	_	_	7	nsubj:bound	_	=1sg
+4	‘ë	_	PRON	_	_	7	nsubj:free	_	1sg
+5	=n	_	PART	_	_	4	case	_	=a
+6	‘atsa	_	NOUN	_	_	7	nsubj:free	_	manioc:abs
+7	kwëën-i-n	_	VERB	_	_	0	root	_	want-ipfv-½
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
