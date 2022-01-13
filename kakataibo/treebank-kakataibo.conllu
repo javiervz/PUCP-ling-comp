@@ -385,7 +385,7 @@
 5	=n	n	PART	_	_	4	case	_	
 6	piti	piti	NOUN	_	_	7	obj	_	food:abs=
 7	pi-ti	piti	VERB	_	_	0	root	_	eat-nomlz=
-8	=ma	ma	PART	_	_	7	neg	_	
+8	=ma	ma	PART	_	_	7	advmod	_	
 9	‘ikën	‘i	AUX	_	_	7	aux	_	be:3=
 10	.	_	PUNCT	_	_	7	punct	_	_
 
