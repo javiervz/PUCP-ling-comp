@@ -622,17 +622,17 @@
 
 
 # sent_id = 318-rosa
-1	Anuxun	anu-xun	ADV	_	_	11	advmod	_	there-S/A>A:SE=
-2	nukën	nukën	PRON	_	_	3	nmod	_	1pl.gen=
-3	bake	bakë	NOUN	_	_	11	obj	_	son:abs=
-4	bëchikë	bëchikë	NOUN	_	_	3	compound	_	son:abs=
-5	nukën	nukën	PRON	_	_	6	nmod	_	1pl.gen=
-6	ini	ini	NOUN	_	_	11	obj	_	daughter:abs=
-7	bëchikë	bëchikë	NOUN	_	_	6	compound	_	daughter:abs=
-8	'óina	'ó-ina	NOUN	_	_	10	obj	_	tapir-GENE:ABS=
-9	chunena	chuna-ina	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS=
-10	pitankëxun	pi-tankëxun	VERB	_	_	11	advcl	_	eat-S/A>A:PE=
-11	kaniot-i-n	kaniot-i-n	VERB	_	_	0	root	_	raise-IPFV-1/2=
+1	Anu-xun	anu	ADV	_	_	11	advmod	_	there-S/A>A:SE
+2	nukën	nukën	PRON	_	_	3	nmod	_	1pl.GEN
+3	bake	bakë	NOUN	_	_	11	obj	_	son:ABS
+4	bëchikë	bëchikë	NOUN	_	_	3	compound	_	son:ABS
+5	nukën	nukën	PRON	_	_	6	nmod	_	1pl.GEN
+6	ini	ini	NOUN	_	_	11	obj	_	daughter:ABS
+7	bëchikë	bëchikë	NOUN	_	_	6	compound	_	daughter:ABS
+8	'ó-ina	'ó	NOUN	_	_	10	obj	_	tapir-GENE:ABS
+9	chunena	chuna-ina	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS
+10	pi-tankëxun	pi	VERB	_	_	11	advcl	_	eat-S/A>A:PE
+11	kaniot-i-n	kaniot	VERB	_	_	0	root	_	raise-IPFV-1/2
 12	.	_	PUNCT	_	_	11	punct	_	_
 
 
@@ -704,17 +704,17 @@
 
 
 # sent_id = 333-mariana
-1	atian	_	ADV	_	_	11	discourse	_	then=
-2	casi	_	ADV	_	_	3	advmod	_	almost=
-3	kamabi	_	DET	_	_	4	nummod	_	every=
-4	nëtë	_	NOUN	_	_	11	advmod	_	day=
-5	=n	_	PART	_	_	4	case	_	
-6	ka	_	PART	_	_	11	aux:sgen	_	nar=
-7	=is	_	PART	_	_	11	aux:evi	_	
-8	=a	_	PART	_	_	11	nsubj:bound	_	
-9	a	_	DET	_	_	10	det	_	that=
-10	uni	_	NOUN	_	_	11	nsubj:free	_	person:abs=
-11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox=
+1	atian	_	ADV	_	_	11	discourse	_	then
+2	casi	_	ADV	_	_	3	advmod	_	almost
+3	kamabi	_	DET	_	_	4	nummod	_	every
+4	nëtë	_	NOUN	_	_	11	advmod	_	day
+5	=n	_	PART	_	_	4	case	_	=TEMP
+6	ka	_	PART	_	_	11	aux:sgen	_	NAR
+7	=is	_	PART	_	_	11	aux:evi	_	=REP
+8	=a	_	PART	_	_	11	nsubj:bound	_	=3	
+9	a	_	DET	_	_	10	det	_	that
+10	uni	_	NOUN	_	_	11	nsubj:free	_	person:ABS
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	_	go-rem.pst-3-prox
 12	.	_	PUNCT	_	_	11	punct	_	_
 
 
