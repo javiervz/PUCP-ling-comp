@@ -1185,7 +1185,7 @@
 1	Chaxu	_	NOUN	_	_	12	nsubj:free	11:nsubj:free	deer
 2	a	_	DET	_	_	1	det	1:det	that
 3	=n	_	PART	_	_	1	case	1:case	A
-4 churu-akat	_	VERB	_	_	12	advcl	_	untie-REFL.passing:INTR-S/A>A:SE
+4	churu-akat	_	VERB	_	_	12	advcl	_	untie-REFL.passing:INTR-S/A>A:SE
 5	ka	_	PART	_	_	12	aux:sgen	11:aux:sgen	NAR
 6	=is	_	PART	_	_	12	aux:evid	11:aux:evid	REP
 7	=a	_	PART	_	_	12	nsubj:bound	11:nsubj:bound	3
