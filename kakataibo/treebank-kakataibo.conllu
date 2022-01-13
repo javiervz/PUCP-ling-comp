@@ -969,68 +969,68 @@
 
 
 # sent_id = 390-sabina
-1	después	_	ADV	_	_	5	advmod	_	after=
-2	ka	_	PART	_	_	5	aux:sgen	_	NAR=
-3	=nanuna	_	PART	_	_	5	nsubj:bound	_	
-4	bëtsi	_	NOUN	_	_	5	obj	_	other:ABS=
-5	a-ti	_	VERB	_	_	0	root	_	do-NOMLZ=
-6	ain	_	AUX	_	_	5	aux	_	be:1/2=
-7	bëtsi	_	DET	_	_	8	amod	_	other=
-8	historia	_	NOUN	_	_	5	obj	_	story:ABS=
-9	bëtsi	_	DET	_	_	10	amod	_	other=
-10	bana	_	NOUN	_	_	8	appos	_	tale:ABS=
+1	después	_	ADV	_	_	5	advmod	_	after
+2	ka	_	PART	_	_	5	aux:sgen	_	NAR
+3	=nanuna	_	PART	_	_	5	nsubj:bound	_	=1PL
+4	bëtsi	_	NOUN	_	_	5	obj	_	other:ABS
+5	a-ti	_	VERB	_	_	0	root	_	do-NOMLZ
+6	ain	_	AUX	_	_	5	aux	_	be:1/2
+7	bëtsi	_	DET	_	_	8	amod	_	other
+8	historia	_	NOUN	_	_	5	obj	_	story:ABS
+9	bëtsi	_	DET	_	_	10	amod	_	other
+10	bana	_	NOUN	_	_	8	appos	_	tale:ABS
 11	.	_	PUNCT	_	_	5	punct	_	_
 
 
 
 # sent_id = 391-sabina
-1	a-tankëxun	_	VERB	_	_	8	advcl	8:advcl	do-S/A>A:PE=
-2	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR=
-3	=na	_	PART	_	_	8	nsubj:bound	8:nsubj	
-4	itsa	_	DET	_	_	5	nummod	5:nummod	a.lot=
-5	katsin	_	NOUN	_	_	8	obj	8:obj	banana.sp:ABS=
-6	itsa	_	DET	_	_	7	nummod	7:nummod	a.lot=
-7	xinkun	_	NOUN	_	_	5	appos	5:appos	banana.sp:ABS=
-8	a-ti	_	VERB	_	_	0	root	0:root	do-NOMLZ=
-9	ain	_	AUX	_	_	8	aux	8:aux	be:1/2=
+1	a-tankëxun	_	VERB	_	_	8	advcl	8:advcl	do-S/A>A:PE
+2	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
+3	=na	_	PART	_	_	8	nsubj:bound	8:nsubj	=1SG			
+4	itsa	_	DET	_	_	5	nummod	5:nummod	a.lot
+5	katsin	_	NOUN	_	_	8	obj	8:obj	banana.sp:ABS
+6	itsa	_	DET	_	_	7	nummod	7:nummod	a.lot
+7	xinkun	_	NOUN	_	_	5	appos	5:appos	banana.sp:ABS
+8	a-ti	_	VERB	_	_	0	root	0:root	do-NOMLZ
+9	ain	_	AUX	_	_	8	aux	8:aux	be:1/2
 10	.	_	PUNCT	_	_	8	punct	8:punct	_
 
 
 
 # sent_id = 393-sabina
-1	ainbi	_	CCONJ	_	_	11	advcl	_	but:DS/A/P=
-2	ka	_	PART	_	_	11	aux:sgen	_	NAR=
-3	=a	_	PART	_	_	11	nsubj:bound	_	:3=
-4	bëná	_	ADJ	_	_	5	amod	_	young=
-5	uni	_	NOUN	_	_	11	nsubj:free	_	person=
-6	=n	_	PART	_	_	5	case	_	
-7	pia	_	NOUN	_	_	8	nmod	_	arrow:ABS=
-8	toin-ti	_	NOUN	_	_	11	obj	_	grab-NOMLZ=
-9	kanti	_	NOUN	_	_	10	nmod	_	bow=
-10	toin-ti	_	NOUN	_	_	8	appos	_	hold-NOMLZ=
-11	rabin-i-a	_	VERB	_	_	0	root	_	feel.embarrased-IPFV-NON.PROX=
+1	ainbi	_	CCONJ	_	_	11	advcl	_	but:DS/A/P
+2	ka	_	PART	_	_	11	aux:sgen	_	NAR
+3	=a	_	PART	_	_	11	nsubj:bound	_	=3
+4	bëná	_	ADJ	_	_	5	amod	_	young
+5	uni	_	NOUN	_	_	11	nsubj:free	_	person
+6	=n	_	PART	_	_	5	case	_	=ERG
+7	pia	_	NOUN	_	_	8	nmod	_	arrow:ABS
+8	toin-ti	_	NOUN	_	_	11	obj	_	grab-NOMLZ
+9	kanti	_	NOUN	_	_	10	nmod	_	bow
+10	toin-ti	_	NOUN	_	_	8	appos	_	hold-NOMLZ
+11	rabin-i-a	_	VERB	_	_	0	root	_	feel.embarrased-IPFV-NON.PROX
 12	.	_	PUNCT	_	_	11	punct	_	_
 
 
 
 # sent_id = 395-sabina
-1	upit-o-kin	_	ADJ	_	_	3	advcl	_	good-FACT-S/A>A:SE=
-2	nui-xun	_	NOUN	_	_	3	advcl	_	love-S/A>A:SE=
-3	nits-kin-kin	_	VERB	_	_	0	root	_	walk-APPL-HAB:REM.PST:3=
+1	upit-o-kin	_	ADJ	_	_	3	advcl	_	good-FACT-S/A>A:SE
+2	nui-xun	_	NOUN	_	_	3	advcl	_	love-S/A>A:SE
+3	nits-kin-kin	_	VERB	_	_	0	root	_	walk-APPL-HAB:REM.PST:3
 4	.	_	PUNCT	_	_	3	punct	_	_
 
 
 
 # sent_id = 397-sabina
-1	a	_	PRON	_	_	8	obl	_	that=
-2	=kupí	_	PART	_	_	1	case	_	-REAS=
-3	ka	_	PART	_	_	8	aux:sgen	_	NAR=
-4	=a	_	PART	_	_	8	nsubj:bound	_	:3=
-5	nu	_	PRON	_	_	7	nmod	_	we=
-6	=n	_	PART	_	_	5	case	_	
-7	me	_	NOUN	_	_	8	nsubj:free	_	land:ABS=
-8	chukúma	_	ADJ	_	_	9	amod	_	small=
-9	ikën	_	VERB	_	_	0	root	_	be:3=
+1	a	_	PRON	_	_	8	obl	_	that
+2	=kupí	_	PART	_	_	1	case	_	=REAS
+3	ka	_	PART	_	_	8	aux:sgen	_	NAR
+4	=a	_	PART	_	_	8	nsubj:bound	_	=3
+5	nu	_	PRON	_	_	7	nmod	_	we
+6	=n	_	PART	_	_	5	case	_	=GEN
+7	me	_	NOUN	_	_	8	nsubj:free	_	land:ABS
+8	chukúma	_	ADJ	_	_	9	amod	_	small
+9	ikën	_	VERB	_	_	0	root	_	be:3
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
