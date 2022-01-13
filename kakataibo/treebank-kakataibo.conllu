@@ -482,13 +482,13 @@
 
 
 # sent_id = 270a-rosa
-1	Bari	bari	NOUN	_	_	7	nsubj:free	_	sun=
-2	=n	n	PART	_	_	1	case	_	ergative=
-3	ka	ka	PART	_	_	7	aux:sgen	_	narrative=
-4	=a	a	PART	_	_	7	nsubj:bound	_	3=
-5	a	a	DET	_	_	6	det	_	that=
-6	këntí	këntí	NOUN	_	_	7	obj	_	pot:abs=
-7	ichút-mi-a-x-a	ichút-mi-a-x-a	VERB	_	_	0	root	_	be.bright-CAUS-PFV-3-NON.PROX=
+1	Bari	bari	NOUN	_	_	7	nsubj:free	_	sun
+2	=n	n	PART	_	_	1	case	_	=ERG
+3	ka	ka	PART	_	_	7	aux:sgen	_	NAR
+4	=a	a	PART	_	_	7	nsubj:bound	_	=3
+5	a	a	DET	_	_	6	det	_	that
+6	këntí	këntí	NOUN	_	_	7	obj	_	pot:ABS
+7	ichút-mi-a-x-a	ichút-mi-a-x-a	VERB	_	_	0	root	_	be.bright-CAUS-PFV-3-NON.PROX
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
@@ -505,17 +505,16 @@
 
 
 # sent_id = 285-rosa
-1	A	a	DET	_	_	2	det	_	that=
-2	uni	uni	NOUN	_	_	9	nsubj:free	_	man=
-3	=n	n	PART	_	_	2	case	_	ergative=
-4	ka	ka	PART	_	_	9	aux:sgen	_	narrative=
-5	=a	a	PART	_	_	9	nsubj:bound	_	3=
-6	uri	uri	ADV	_	_	9	advmod	_	far=
-7	achushi	achushi	NUM	_	_	8	nummod	_	one=
-8	xaë	xaë	NOUN	_	_	9	obj	_	turtle:abs=
-9	mëra-a-x-a	mëra-a-x-a	VERB	_	_	0	root	_	find-PFV-3-NON.PROX=
+1	A	a	DET	_	_	2	det	_	that
+2	uni	uni	NOUN	_	_	9	nsubj:free	_	man
+3	=n	n	PART	_	_	2	case	_	=ERG
+4	ka	ka	PART	_	_	9	aux:sgen	_	NAR
+5	=a	a	PART	_	_	9	nsubj:bound	_	=3
+6	uri	uri	ADV	_	_	9	advmod	_	far
+7	achushi	achushi	NUM	_	_	8	nummod	_	one
+8	xaë	xaë	NOUN	_	_	9	obj	_	turtle:ABS
+9	mëra-a-x-a	mëra-a-x-a	VERB	_	_	0	root	_	find-PFV-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
-
 
 
 # sent_id = 286(3)-luisa
@@ -549,33 +548,33 @@
 
 
 # sent_id = 301-luisa
-1	Kënë	kënë	NOUN	_	_	2	nsubj:free	_	wall:abs=
-2	xaiki-këbë	xaibi	VERB	_	_	6	advcl	_	shake-ds/a/p:se:intr=
-3	ka	_	AUX	_	_	6	aux:sgen	_	_
-4	=a	ka	PART	_	_	6	nsubj:bound	_	nar:3=
-5	xubu	xubu	NOUN	_	_	6	nsubj:free	_	house:abs=
-6	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-ipfv-non.prox=
+1	Kënë	kënë	NOUN	_	_	2	nsubj:free	_	wall:ABS
+2	xaiki-këbë	xaibi	VERB	_	_	6	advcl	_	shake-DS/A/P:SE:INTR
+3	ka	_	AUX	_	_	6	aux:sgen	_	NAR
+4	=a	ka	PART	_	_	6	nsubj:bound	_	=3
+5	xubu	xubu	NOUN	_	_	6	nsubj:free	_	house:ABS
+6	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-NON.PROX
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
 
 # sent_id = 302-luisa
-1	Emilionë	Emilionë	NOUN	_	_	4	nsubj:free	_	Emilio=
-2	=n	n	PART	_	_	1	case	_	
-3	kënë	kënë	NOUN	_	_	4	obj	_	wall:abs=
-4	xaika-këx	xaika	VERB	_	_	8	advcl	_	shake:tran-p>s:pe:tran=
-5	ka	_	AUX	_	_	8	aux:sgen	_	_
-6	=a	ka	PART	_	_	8	nsubj:bound	_	nar:3=
-7	xubu	xubu	NOUN	_	_	8	nsubj:free	_	house:abs=
-8	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-ipfv-3-non.prox=
+1	Emilio	Emilio	NOUN	_	_	4	nsubj:free	_	Emilio
+2	=n	n	PART	_	_	1	case	_	=ERG
+3	kënë	kënë	NOUN	_	_	4	obj	_	wall:ABS
+4	xaika-këx	xaika	VERB	_	_	8	advcl	_	shake:TRAN-P>S:PE:TRAN
+5	ka	_	AUX	_	_	8	aux:sgen	_	NAR
+6	=a	ka	PART	_	_	8	nsubj:bound	_	=3
+7	xubu	xubu	NOUN	_	_	8	nsubj:free	_	house:ABS
+8	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-3-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
 
 # sent_id = 310-luisa
-1	‘Ë	‘ë	PRON	_	_	3	nmod	_	1sg=
-2	=n	n	PART	_	_	1	case	_	
-3	xubu	xubu	NOUN	_	_	8	obl	_	house=
+1	‘Ë	‘ë	PRON	_	_	3	nmod	_	1SG
+2	=uki	u(ki)	PART	_	_	1	case	_	
+3	ka	_	AUX	_	_	8	aux:sgen	_	_
 4	=nu	nu	PART	_	_	3	case	_	
 5	ka	ka	AUX	_	_	8	aux:sgen	_	narrative=
 6	=na	na	PART	_	_	8	nsubj:bound	_	
