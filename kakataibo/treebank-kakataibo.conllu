@@ -1036,49 +1036,49 @@
 
 
 # sent_id = 401-sabina
-1	Emilio	_	NOUN	_	_	9	nsubj	_	Emilio:abs=
-2	ka	_	PART	_	_	9	aux:sgen	_	nar:3=
-3	=a	_	PART	_	_	9	nsubj:bound	_	_
-4	mas	_	ADV	_	_	6	advmod	_	more=
-5	xuá	_	ADJ	_	_	9	cop	_	fat=
-6	ki	_	CCONJ	_	_	7	case	_	than=
-7	Roberto	_	NOUN	_	_	9	obl	_	Roberto=
-8	=ma	_	PART	_	_	9	advmod	_	
-9	‘ikën	_	VERB	_	_	0	root	_	be:3=
+1	Emilio	_	NOUN	_	_	9	nsubj	_	Emilio:ABS
+2	ka	_	PART	_	_	9	aux:sgen	_	NAR
+3	=a	_	PART	_	_	9	nsubj:bound	_	=3
+4	mas	_	ADV	_	_	6	advmod	_	more
+5	xuá	_	ADJ	_	_	9	cop	_	fat
+6	ki	_	CCONJ	_	_	7	case	_	than
+7	Roberto	_	NOUN	_	_	9	obl	_	Roberto
+8	=ma	_	PART	_	_	9	advmod	_	=NEG
+9	‘ikën	_	VERB	_	_	0	root	_	be:3
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
 
 # sent_id = 405-claudia
-1	Bëxuñurá	_	NOUN	_	_	2	nsubj:free	_	_
-2	‘ikë	_	VERB	_	_	14	advcl	_	_
-3	=bi	_	PART	_	_	2	advmod	_	_
-4	ka	_	PART	_	_	14	aux:sgen	_	_
-5	=is	_	PART	_	_	14	aux:evid	_	_
-6	=a	_	PART	_	_	14	nsubj:bound	_	_
-7	xanu	_	NOUN	_	_	14	nsubj:free	_	_
-8	=n	_	PART	_	_	7	case	_	_
-9	ain	_	AUX	_	_	10	nmod	_	_
-10	bënë	_	NOUN	_	_	13	obj	_	_
-11	‘akë	_	VERB	_	_	13	obl	_	_
-12	=sa	_	PART	_	_	11	case	_	_
-13	okin	_	ADV	_	_	14	advcl	_	_
-14	maso	_	VERB	_	_	0	root	_	_
-15	=ma	_	PART	_	_	14	advmod	_	_
-16	‘ikën	_	VERB	_	_	14	aux	_	_
+1	Bëxuñu-rá	_	NOUN	_	_	2	nsubj:free	_	blind-DIM:ABS
+2	‘i-kë	_	VERB	_	_	14	advcl	_	be-NOMLZ
+3	=bi	_	PART	_	_	2	advmod	_	=same
+4	ka	_	PART	_	_	14	aux:sgen	_	NAR
+5	=is	_	PART	_	_	14	aux:evid	_	=REP
+6	=a	_	PART	_	_	14	nsubj:bound	_	=3
+7	xanu	_	NOUN	_	_	14	nsubj:free	_	woman
+8	=n	_	PART	_	_	7	case	_	=ERG
+9	ain	_	AUX	_	_	10	nmod	_	3SG:GEN
+10	bënë	_	NOUN	_	_	13	obj	_	husband:ABS
+11	‘a-kë	_	VERB	_	_	13	obl	_	do-NOMLZ
+12	=sa	_	PART	_	_	11	case	_	=COMP
+13	o-kin	_	ADV	_	_	14	advcl	_	=same
+14	maso-a	_	VERB	_	_	0	root	_	mistreat-NOMLZ
+15	=ma	_	PART	_	_	14	advmod	_	=NEG
+16	‘ikën	_	VERB	_	_	14	aux	_	be:3
 17	.	_	PUNCT	_	_	14	punct	_	_
 
 
 
 # sent_id = 407-rosa
-1	Chuna	chuna	NOUN	_	_	8	nsubj:free	_	spider.monkey=
-2	unitín	uni-tín	NOUN	_	_	1	nmod	_	man-same.size=
-3	a	a	PRON	_	_	1	appos	_	3sg=
-4	=n	n	PART	_	_	3	case	_	
-5	ka	ka	PART	_	_	8	aux:sgen	_	narrative=
-6	=a	a	PART	_	_	8	nsubj:bound	_	3=
-7	‘ë	‘ë	PRON	_	_	8	obj	_	1sg:P=
-8	ratu-a-x-a	ratu-a-x-a	VERB	_	_	0	root	_	scare-PFV-3-NON.PROX=
+1	Chuna	chuna	NOUN	_	_	8	nsubj:free	_	spider.monkey
+2	unitín	uni-tín	NOUN	_	_	1	nmod	_	man-same.size
+3	a	a	PRON	_	_	1	appos	_	3sg
+4	=n	n	PART	_	_	3	case	_	=A
+5	ka	ka	PART	_	_	8	aux:sgen	_	=NAR
+6	=a	a	PART	_	_	8	nsubj:bound	_	=3
+7	‘ë	‘ë	PRON	_	_	8	obj	_	1sg:P
+8	ratu-a-x-a	ratu-a-x-a	VERB	_	_	0	root	_	scare-PFV-3-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
@@ -1087,7 +1087,7 @@
 1	uni-tín	_	ADJ	_	_	2	nmod	2:nmod	man-same.size
 2	chuna	_	NOUN	_	_	8	nsubj:free	8:nsubj:free	spider.monkey
 3	a	_	PRON	_	_	2	det	2:det	3SG
-4	=n	_	PART	_	_	2	case	2:case =A
+4	=n	_	PART	_	_	2	case	2:case	=A
 5	ka	_	PART	_	_	8	aux:sgen	8:aux:sgen	NAR
 6	=a	_	PART	_	_	8	nsubj:bound	8:nsubj	=3
 7	ë	_	PRON	_	_	8	obj	8:obj	1SG:P
