@@ -38,7 +38,7 @@
 4	mi	_	PRON	_	_	6	nmod	_	2SG
 5	=n	_	PART	_	_	4	case	_	=GEN
 6	kuriki	_	NOUN	_	_	7	aux:sgen	_	money:ABS
-7	mëkama-iéé	_	VERB	_	_	0	root	_	steal-3.accusatory
+7	mëkama-iéé	_	VERB	_	_	0	root	_	steal-3.ACCUSATORY
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
@@ -607,12 +607,12 @@
 2	Mi	_	DET	_	_	18	nmod	_	2SG
 3	=n	_	PART	_	_	18	nsubj:bound	_	=GEN
 4	bënë	_	NOUN	_	_	18	obj	_	husband:ABS
-5	‘a-tankëxun	_	ADV	_	_	18	advcl	do-S/A>A:PE	
+5	‘a-tankëxun	_	ADV	_	_	18	advcl _ do-S/A>A:PE	
 6	ka	_	PART	_	_	18	aux:sgen	_	NAR
 7	‘ë	_	NOUN	_	_	18	obj	_	1SG:P
 8	=ribi	_	PART	_	_	18	advmod	_	also
 9	mi	_	DET	_	_	18	nmod	_	2SG
-10	=n	_	PART	_	_	18	nsubj:bound	_	=GEN	
+10	=n	_	PART	_	_	18  nsubj:bound	_	=GEN	
 11	maëx-ratsukun	_	NOUN	_	_	18	obl	_	genipap-DIM:INS
 12	‘ë	_	PRON	_	_	18	obj	_	1SG:P
 13	‘a	_	VERB	_	_	18	parataxis	_	do:IMP
