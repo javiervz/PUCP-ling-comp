@@ -494,12 +494,12 @@
 
 
 # sent_id = 271a-luisa
-1	Mi	mi	PRON	_	_	3	nmod	_	2sg=
-2	=n	n	PART	_	_	1	case	_	
-3	linterna	linterna	NOUN	_	_	6	nsubj:free	_	torch:abs=
-4	ka	ka	AUX	_	_	6	aux:sgen	_	narrative=
-5	=mina	mina	PART	_	_	6	nsubj:bound	_	
-6	tirit-o-a-n	tirit	VERB	_	_	0	root	_	become.shining-fact-pfv-2=
+1	Mi	mi	PRON	_	_	3	nmod	_	2SG
+2	=n	n	PART	_	_	1	case	_	=GEN
+3	linterna	linterna	NOUN	_	_	6	nsubj:free	_	torch:ABS
+4	ka	ka	AUX	_	_	6	aux:sgen	_	NAR
+5	=mina	mina	PART	_	_	6	nsubj:bound	_	=2
+6	tirit-o-a-n	tirit	VERB	_	_	0	root	_	become.shining-FACT-PFV-2
 7	.	_	PUNCT	_	_	6	punct	_	_
 
 
@@ -518,32 +518,33 @@
 
 
 # sent_id = 286(3)-luisa
-1	A	a	DET	_	_	2	det	_	that=
-2	xubu	xubu	NOUN	_	_	7	obl	_	house=
-3	=nu	nu	PART	_	_	2	case	_	
-4	ka	ka	AUX	_	_	7	aux:sgen	_	narrative=
-5	=na	na	PART	_	_	7	nsubj:bound	_	
-6	imé̈	imé̈	ADV	_	_	7	advmod	_	at.night=
-7	kwan-ti	kwanti	VERB	_	_	0	root	_	go-nomlz=
-8	‘ain	‘i	AUX	_	_	7	aux	_	be:1/2=
+1	A	a	DET	_	_	2	det	_	that
+2	xubu	xubu	NOUN	_	_	7	obl	_	house
+3	=nu	nu	PART	_	_	2	case	_	=LOC
+4	ka	ka	AUX	_	_	7	aux:sgen	_	NAR
+5	=na	na	PART	_	_	7	nsubj:bound	_	1SG
+6	imé̈	imé̈	ADV	_	_	7	advmod	_	at.night
+7	kwan-ti	kwanti	VERB	_	_	0	root	_	go-NOLMZ
+8	‘ain	‘i	AUX	_	_	7	aux	_	be:1/2
 9	.	_	PUNCT	_	_	7	punct	_	_
 
 
 
 # sent_id = 299-luisa
-1	‘Ë	‘Ë	PRON	_	_	3	nmod	_	1sg=
-2	=n	n	PART	_	_	1	case	_	
-3	xubu	xubu	NOUN	_	_	5	nsubj:free	_	house:abs=
-4	‘aisama	‘aisama	ADJ	_	_	5	amod	_	bad=
-5	‘i-këbëtan	‘i	VERB	_	_	12	advcl	_	be-ds/a/p:se:tran=
-6	ka	ka	AUX	_	_	12	aux:sgen	_	narrative=
-7	=na	na	PART	_	_	12	nsubj:bound	_	
-8	bëtsi	bëtsi	ADJ	_	_	9	amod	_	other=
-9	xubu	xubu	NOUN	_	_	12	obj	_	house:abs=
-10	‘ë	‘ë	PRON	_	_	12	nsubj:free	_	1sg=
-11	=n	n	PART	_	_	10	case	_	
-12	‘a-akë-n	‘a	VERB	_	_	0	root	_	do-rem.pst-1/2=
+1	‘Ë	‘Ë	PRON	_	_	3	nmod	_	1SG
+2	=n	n	PART	_	_	1	case	_	=GEN
+3	xubu	xubu	NOUN	_	_	5	nsubj:free	_	house:ABS
+4	‘aisama	‘aisama	ADJ	_	_	5	amod	_	bad
+5	‘i-këbëtan	‘i	VERB	_	_	12	advcl	_	be-DS/A/P:SE:TRAN
+6	ka	ka	PART	_	_	12	aux:sgen	_	NAR
+7	=na	na	PART	_	_	12	nsubj:bound	_	=1SG
+8	bëtsi	bëtsi	ADJ	_	_	9	amod	_	other
+9	xubu	xubu	NOUN	_	_	12	obj	_	house:ABS
+10	‘ë	‘ë	PRON	_	_	12	nsubj:free	_	1SG
+11	=n	n	PART	_	_	10	case	_	=A
+12	‘a-akë-n	‘a	VERB	_	_	0	root	_	do-REM.PST-1/2
 13	.	_	PUNCT	_	_	12	punct	_	_
+
 
 
 
@@ -572,14 +573,14 @@
 
 
 # sent_id = 310-luisa
-1	‘Ë	‘ë	PRON	_	_	3	nmod	_	1SG
-2	=uki	u(ki)	PART	_	_	1	case	_	
-3	ka	_	AUX	_	_	8	aux:sgen	_	_
-4	=nu	nu	PART	_	_	3	case	_	
-5	ka	ka	AUX	_	_	8	aux:sgen	_	narrative=
-6	=na	na	PART	_	_	8	nsubj:bound	_	
-7	‘aisama	‘aisama	ADJ	_	_	8	amod	_	bad=
-8	‘ain	‘i	VERB	_	_	0	root	_	be:1/2=
+1	‘Ë	_	PRON	_	_	3	nmod	_	1SG
+2	=n	_	PART	_	_	1	case	_	=GEN
+3	xubu	_	NOUN	_	_	8	obl	_	house
+4	=nu	_	PART	_	_	3	case	_	=LOC
+5	ka	_	PART	_	_	8	aux:sgen	_	NAR
+6	=na	_	PART	_	_	8	nsubj:bound	_	=1SG
+7	‘aisama	_	ADJ	_	_	8	amod	_	bad
+8	‘ain	_	VERB	_	_	0	root	_	be:1/2
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
