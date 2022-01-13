@@ -145,7 +145,7 @@
 
 # sent_id = 201-luisa
 1	Xanu-xun	xanu	NOUN	_	_	5	advcl	_	woman
-2	ka	_	AUX	_	_	5	aux:sgen	_	NAR
+2	ka	_	PART	_	_	5	aux:sgen	_	NAR
 3	=a	_	PART	_	_	5	nsubj:bound	_	=3
 4	‘atapa	‘atapa	NOUN	_	_	5	obj	_	chicken:ABS
 5	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
@@ -158,7 +158,7 @@
 2	achushi	achushi	DET	_	_	1	xmod	_	one
 3	=n	n	PART	_	_	1	case	_	=ERG
 4	=pain	pain	PART	_	_	9	advcl	_	=first
-5	ka	_	AUX	_	_	9	aux:sgen	_	NAR
+5	ka	_	PART	_	_	9	aux:sgen	_	NAR
 6	=a	ka	PART	_	_	9	nsubj:bound	_	=3
 7	ënë	ënë	DET	_	_	8	det	_	this
 8	‘ó	‘ó	NOUN	_	_	9	obj	_	tapir:ABS
@@ -194,7 +194,7 @@
 1	Achushi	achushi	DET	_	_	3	nummod	_	one
 2	=ishi	ishi	PART	_	_	1	advmod	_	=only
 3	ñu	ñu	NOUN	_	_	7	obj	_	thing:ABS
-4	ka	_	AUX	_	_	7	aux:sgen	_	NAR
+4	ka	_	PART	_	_	7	aux:sgen	_	NAR
 5	=a	ka	PART	_	_	7	nsubj:bound	_	=3
 6	‘ë	‘ë	PRON	_	_	7	obj	_	1SG:P
 7	‘inan	'inan	VERB	_	_	0	root	_	give:IMP
@@ -220,7 +220,7 @@
 
 # sent_id = 210-luisa
 1	Imëishi	imëishi	ADV	_	_	6	advmod	_	tomorrow
-2	ka	ka	AUX	_	_	6	aux:sgen	_	NAR
+2	ka	ka	PART	_	_	6	aux:sgen	_	NAR
 3	=na	na	PART	_	_	6	nsubj:bound	_	=1SG
 4	Aguaytia	Aguaytia	NOUN	_	_	6	obl	_	Aguaytia
 5	=nu	nu	PART	_	_	4	case	_	=DIR
@@ -341,7 +341,7 @@
 # sent_id = 233-luisa
 1	Ë	ë	PRON	_	_	8	nsubj:free	_	1SG
 2	=n	n	PART	_	_	1	case	_	=A
-3	ka	ka	AUX	_	_	8	aux:sgen	_	NAR
+3	ka	ka	PART	_	_	8	aux:sgen	_	NAR
 4	=na	na	PART	_	_	8	nsubj:bound	_	=1SG
 5	xubu	xubu	NOUN	_	_	8	obl	_	house
 6	=nu	nu	PART	_	_	5	case	_	=LOC
@@ -354,7 +354,7 @@
 # sent_id = 234-luisa
 1	‘Ë	‘ë	PRON	_	_	7	nsubj:free	_	1SG
 2	=x	x	PART	_	_	1	case	_	=S
-3	ka	ka	AUX	_	_	7	aux:sgen	_	NAR
+3	ka	ka	PART	_	_	7	aux:sgen	_	NAR
 4	=na	na	PART	_	_	7	nsubj:bound	_	=1SG
 5	kini	kini	NOUN	_	_	7	obl	_	hole
 6	=nu	nu	PART	_	_	5	case	_	=LOC
@@ -378,7 +378,7 @@
 
 # sent_id = 243-luisa
 1	Uinbi	uinbi	PRON	_	_	7	nsubj:free	_	nobody:A
-2	ka	_	AUX	_	_	7	aux:sgen	_	NAR
+2	ka	_	PART	_	_	7	aux:sgen	_	NAR
 3	=a	ka	PART	_	_	7	nsubj:bound	_	=3
 4	‘ë	‘ë	PRON	_	_	6	nmod	_	1
 5	=n	n	PART	_	_	4	case	_	=GEN
@@ -448,7 +448,7 @@
 1	Achushi	achushi	ADJ	_	_	2	nummod	_	one
 2	kini	kini	NOUN	_	_	0	root	_	hole
 3	=ñu	ñu	PART	_	_	2	case	_	=PROP
-4	ka	_	AUX	_	_	10	aux:sgen	_	NAR
+4	ka	_	PART	_	_	10	aux:sgen	_	NAR
 5	=a	ka	PART	_	_	10	nsubj:bound	_	=3
 6	mi	mi	PRON	_	_	8	nmod	_	2SG
 7	=n	n	PART	_	_	6	case	_	=GEN
@@ -463,7 +463,7 @@
 1	Mi	mi	PRON	_	_	3	nmod	_	2SG
 2	=n	n	PART	_	_	1	case	_	=GEN
 3	nunti	nunti	NOUN	_	_	6	nsubj:free	_	canoe:ABS
-4	ka	_	AUX	_	_	6	aux:sgen	_	NAR
+4	ka	_	PART	_	_	6	aux:sgen	_	NAR
 5	=a	ka	PART	_	_	6	nsubj:bound	_	=3
 6	kini-i-ín	kini	VERB	_	_	0	root	_	become.hole-IPFV-PROX
 7	.	_	PUNCT	_	_	6	punct	_	_
@@ -474,7 +474,7 @@
 1	Mi	mi	PRON	_	_	3	nmod	_	2SG
 2	=n	n	PART	_	_	1	case	_	=GEN
 3	naë	naë	NOUN	_	_	6	nsubj:free	_	garden:ABS
-4	ka	_	AUX	_	_	6	aux:sgen	_	NAR
+4	ka	_	PART	_	_	6	aux:sgen	_	NAR
 5	=a	ka	PART	_	_	6	nsubj:bound	_	=3
 6	matat-i-ín	matat	VERB	_	_	0	root	_	become.hill-IPFV-PROX
 7	.	_	PUNCT	_	_	6	punct	_	_
@@ -497,7 +497,7 @@
 1	Mi	mi	PRON	_	_	3	nmod	_	2SG
 2	=n	n	PART	_	_	1	case	_	=GEN
 3	linterna	linterna	NOUN	_	_	6	nsubj:free	_	torch:ABS
-4	ka	ka	AUX	_	_	6	aux:sgen	_	NAR
+4	ka	ka	PART	_	_	6	aux:sgen	_	NAR
 5	=mina	mina	PART	_	_	6	nsubj:bound	_	=2
 6	tirit-o-a-n	tirit	VERB	_	_	0	root	_	become.shining-FACT-PFV-2
 7	.	_	PUNCT	_	_	6	punct	_	_
@@ -521,7 +521,7 @@
 1	A	a	DET	_	_	2	det	_	that
 2	xubu	xubu	NOUN	_	_	7	obl	_	house
 3	=nu	nu	PART	_	_	2	case	_	=LOC
-4	ka	ka	AUX	_	_	7	aux:sgen	_	NAR
+4	ka	ka	PART	_	_	7	aux:sgen	_	NAR
 5	=na	na	PART	_	_	7	nsubj:bound	_	1SG
 6	imé̈	imé̈	ADV	_	_	7	advmod	_	at.night
 7	kwan-ti	kwanti	VERB	_	_	0	root	_	go-NOLMZ
@@ -551,7 +551,7 @@
 # sent_id = 301-luisa
 1	Kënë	kënë	NOUN	_	_	2	nsubj:free	_	wall:ABS
 2	xaiki-këbë	xaibi	VERB	_	_	6	advcl	_	shake-DS/A/P:SE:INTR
-3	ka	_	AUX	_	_	6	aux:sgen	_	NAR
+3	ka	_	PART	_	_	6	aux:sgen	_	NAR
 4	=a	ka	PART	_	_	6	nsubj:bound	_	=3
 5	xubu	xubu	NOUN	_	_	6	nsubj:free	_	house:ABS
 6	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-NON.PROX
@@ -564,7 +564,7 @@
 2	=n	n	PART	_	_	1	case	_	=ERG
 3	kënë	kënë	NOUN	_	_	4	obj	_	wall:ABS
 4	xaika-këx	xaika	VERB	_	_	8	advcl	_	shake:TRAN-P>S:PE:TRAN
-5	ka	_	AUX	_	_	8	aux:sgen	_	NAR
+5	ka	_	PART	_	_	8	aux:sgen	_	NAR
 6	=a	ka	PART	_	_	8	nsubj:bound	_	=3
 7	xubu	xubu	NOUN	_	_	8	nsubj:free	_	house:ABS
 8	nipakët-a-x-a	nipakët	VERB	_	_	0	root	_	fall.down-IPFV-3-NON.PROX
@@ -922,7 +922,7 @@
 # sent_id = 370-luisa
 1	Hotel	hotel	NOUN	_	_	8	obl	_	hotel
 2	=uki	u(ki)	PART	_	_	1	case	_	=IMPR.DIR
-3	ka	ka	AUX	_	_	8	aux:sgen	_	NAR
+3	ka	ka	PART	_	_	8	aux:sgen	_	NAR
 4	=a	a	PART	_	_	8	nsubj:bound	_	=3
 5	‘ë	‘ë	PRON	_	_	7	nmod	_	1sg
 6	=n	n	PART	_	_	5	case	_	=GEN
@@ -1103,7 +1103,7 @@
 # sent_id = 445-luisa
 1	‘Ë	‘ë	PRON	_	_	5	nsubj:free	_	1sg
 2	=x	x	PART	_	_	1	case	_	=s
-3	ka	ka	AUX	_	_	5	aux:sgen	_	ind
+3	ka	ka	PART	_	_	5	aux:sgen	_	ind
 4	=na	na	PART	_	_	5	nsubj:bound	_	=1sg
 5	rakwët-i-n	rakwët	VERB	_	_	0	root	_	be.affraid.of-ipfv-½
 6	‘inu	‘inu	NOUN	_	_	8	nsubj:free	_	jaguar
@@ -1133,7 +1133,7 @@
 4	shi	_	VERB	_	_	17	parataxis	_	rub
 5	akat	_	PRON	_	_	3	nmod	_	REFL
 6	nun	_	ADV	_	_	4	advcl	_	DS/A:POE
-7	ka	_	AUX	_	_	12	aux:sgen	_	NAR
+7	ka	_	PART	_	_	12	aux:sgen	_	NAR
 8	‘ë	_	PRON	_	_	9	nmod	_	1SG:P
 9	nanë	_	NOUN	_	_	12	obj	_	genipap:ABS
 10	itsi-rá	_	NOUN	_	_	12	obj	_	other-DIM:ABS
@@ -1284,7 +1284,7 @@
 2	=n	_	PART	_	_	1	case	_	=ERG
 3	=bu	_	PART	_	_	1	nummod	_	=COL
 4	ka	_	PART	_	_	6	aux:sgen	_	NAR
-5	=a	_	AUX	_	_	6	nsubj:bound	_	=3
+5	=a	_	PART	_	_	6	nsubj:bound	_	=3
 6	'a-a-x-a	_	VERB	_	_	0	root	_	do-PFV-3-NON.PROX
 7	.	_	PUNCT	_	_	6	punct	_	_
 
