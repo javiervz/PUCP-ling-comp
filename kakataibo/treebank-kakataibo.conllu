@@ -1134,7 +1134,7 @@
 9	nanë	_	NOUN	_	_	12	obj	_	genipap:ABS
 10	itsi-rá	_	NOUN	_	_	12	obj	_	other-DIM:ABS
 11	‘ë	_	PRON	_	_	10	nmod	_	1SG:P
-12	ni-pat-xun	_	VERB	_	_	17	parataxis	_	throw-down:TRAN-APP:BEN	
+12	ni-pat-xun	_	VERB	_	_	17	parataxis	_	throw-down:TRAN-APP:BEN
 13	”	_	PUNCT	_	_	17	punct	_	_
 14	ka	_	PART	_	_	17	aux:sgen	_	NAR
 15	=is	_	PART	_	_	17	aux:ev	_	REP
