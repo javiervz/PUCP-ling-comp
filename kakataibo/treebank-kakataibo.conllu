@@ -730,17 +730,17 @@
 
 
 # sent_id = 335-mariana
-1	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	nar=
-2	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	
-3	toxama	_	NOUN	_	_	5	obj	5:obj	tree.sp.=
-4	upí	_	ADJ	_	_	3	amod	3:amod	beautiful:abs=
-5	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	pick.up-s/a>a:pe=
-6	taish	_	NOUN	_	_	8	obj	8:obj	tree.sp.=
-7	a	_	DET	_	_	6	det	6:det	3sg:p=
-8	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	buy-s/a>a:pe=
-9	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	nar=
-10	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	
-11	‘aru-i-n	_	VERB	_	_	0	root	0:root	cook-ipfv-½=
+1	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	NAR
+2	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=1PL
+3	toxama	_	NOUN	_	_	5	obj	5:obj	tree.sp.
+4	upí	_	ADJ	_	_	3	amod	3:amod	beautiful:ABS
+5	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	pick.up-S/A>A:PE
+6	taish	_	NOUN	_	_	8	obj	8:obj	tree.sp.
+7	a	_	DET	_	_	6	det	6:det	3sg:P
+8	bits-tankëxun	_	VERB	_	_	11	advcl	11:advcl	buy-S/A>A:PE
+9	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	=NAR
+10	=nanuna	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=1PL
+11	‘aru-i-n	_	VERB	_	_	0	root	0:root	cook-IPFV-½
 12	.	_	PUNCT	_	_	11	punct	11:punct	_
 
 
@@ -800,46 +800,46 @@
 
 
 # sent_id = 341-rosa
-1	Kana	kana	NOUN	_	_	2	nmod	_	macaw=
-2	rani	rani	NOUN	_	_	10	obj	_	feather:abs=
-3	xon	xon	NOUN	_	_	4	nmod	_	red.macaw=
-4	rani	rani	NOUN	_	_	10	obj	_	feather:abs=
-5	ka	ka	PART	_	_	10	aux:sgen	_	narrative=
-6	=nanuna	nanuna	PART	_	_	10	nsubj:bound	_	
-7	ain	ain	PRON	_	_	8	nmod	_	his=
-8	tsipu	tsipun	NOUN	_	_	10	obl	_	end=
-9	=nu	nu	PART	_	_	8	case	_	locative=
-10	bëtanit-i-n	bëtanit-i-n	VERB	_	_	0	root	_	tie-IPFV-1/2=
+1	Kana	kana	NOUN	_	_	2	nmod	_	macaw
+2	rani	rani	NOUN	_	_	10	obj	_	feather:abs
+3	xon	xon	NOUN	_	_	4	nmod	_	red.macaw
+4	rani	rani	NOUN	_	_	10	obj	_	feather:abs
+5	ka	ka	PART	_	_	10	aux:sgen	_	NAR
+6	=nanuna	nanuna	PART	_	_	10	nsubj:bound	_	=1PL
+7	ain	ain	PRON	_	_	8	nmod	_	his
+8	tsipu	tsipun	NOUN	_	_	10	obl	_	end
+9	=nu	nu	PART	_	_	8	case	_	lOC
+10	bëtanit-i-n	bëtanit	VERB	_	_	0	root	_	tie-IPFV-1/2
 11	.	_	PUNCT	_	_	10	punct	_	_
 
 
 
 # sent_id = 343-sabina
-1	nukën	_	DET	_	_	2	nmod	2:nmod	1PL.GEN=
-2	papa	_	NOUN	_	_	4	nmod	4:nmod	father=
-3	=n	_	PART	_	_	2	case	2:case	
-4	bana	_	NOUN	_	_	7	nsubj:free	7:nsubj	tale:ABS=
-5	=ishi	_	PART	_	_	4	advmod	4:advmod	
-6	a-i	_	VERB	_	_	7	advcl	7:advcl	do-S/A>S:SE=
-7	tsót-i-n	_	VERB	_	_	12	parataxis	12:parataxis	live-IPFV-1/2=
-8	a	_	PRON	_	_	12	obj	12:obj	that=
-9	=ishi	_	PART	_	_	8	advmod	8:advmod	
-10	ka	_	PART	_	_	12	aux:sgen	12:aux:sgen	NAR=
-11	=na	_	PART	_	_	12	nsubj:bound	12:nsubj	
-12	ka-i-n	_	VERB	_	_	0	root	0:root	say-IPFV-1/2=
+1	nukën	_	DET	_	_	2	nmod	2:nmod	1PL.GEN
+2	papa	_	NOUN	_	_	4	nmod	4:nmod	father
+3	=n	_	PART	_	_	2	case	2:case	=GEN
+4	bana	_	NOUN	_	_	7	nsubj:free	7:nsubj	tale:ABS
+5	=ishi	_	PART	_	_	4	advmod	4:advmod	=only
+6	a-i	_	VERB	_	_	7	advcl	7:advcl	do-S/A>S:SE
+7	tsót-i-n	_	VERB	_	_	12	parataxis	12:parataxis	live-IPFV-1/2
+8	a	_	PRON	_	_	12	obj	12:obj	that
+9	=ishi	_	PART	_	_	8	advmod	8:advmod	=only
+10	ka	_	PART	_	_	12	aux:sgen	12:aux:sgen	NAR
+11	=na	_	PART	_	_	12	nsubj:bound	12:nsubj	=1SG
+12	ka-i-n	_	VERB	_	_	0	root	0:root	say-IPFV-1/2
 13	.	_	PUNCT	_	_	12	punct	12:punct	_
 
 
 
 # sent_id = 348-sabina
-1	rët-tankëxun	_	VERB	_	_	8	advcl	_	kill-S/A:A:PE=
-2	ka	_	PART	_	_	8	aux:sgen	_	NAR=
-3	=is	_	PART	_	_	8	aux:ev	_	
-4	=a	_	PART	_	_	8	nsubj:bound	_	
-5	xanu	_	NOUN	_	_	8	nsubj:free	_	woman=
-6	=n	_	PART	_	_	5	case	_	
-7	chaxu	_	NOUN	_	_	8	obj	_	deer:ABS=
-8	rakan-akë-x-in	_	VERB	_	_	0	root	_	lay.down-REM.PST-3-PROX=
+1	rët-tankëxun	_	VERB	_	_	8	advcl	_	kill-S/A:A:PE
+2	ka	_	PART	_	_	8	aux:sgen	_	NAR
+3	=is	_	PART	_	_	8	aux:ev	_	=REP
+4	=a	_	PART	_	_	8	nsubj:bound	=3	
+5	xanu	_	NOUN	_	_	8	nsubj:free	_	woman
+6	=n	_	PART	_	_	5	case	_	=ERG
+7	chaxu	_	NOUN	_	_	8	obj	_	deer:ABS
+8	rakan-akë-x-in	_	VERB	_	_	0	root	_	lay.down-REM.PST-3-PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
