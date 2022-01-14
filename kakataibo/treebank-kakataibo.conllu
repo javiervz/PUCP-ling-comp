@@ -186,7 +186,7 @@
 5	ënë	ënë	DET	_	_	7	det	_	this
 6	‘ó	'o	NOUN	_	_	7	nmod	_	tapir
 7	name	nami	NOUN	_	_	8	obj	_	meat:ABS
-8	pi-pan-i-a	pi-pan-i-a	VERB	_	_	0	root	_	eat-first-IPFV-NON.PROX
+8	pi-pan-i-a	pi-pan	VERB	_	_	0	root	_	eat-first-IPFV-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
@@ -212,7 +212,7 @@
 7	‘ë	‘ë	PRON	_	_	9	nmod	_	1SG
 8	=n	n	PART	_	_	7	case	_	=GEN
 9	xubu	xubu	NOUN	_	_	10	obj	_	house:ABS
-10	‘ati	‘a-ti	VERB	_	_	0	root	_	do-NOMLZ
+10	‘ati	‘a	VERB	_	_	0	root	_	do-NOMLZ
 11	‘ain	‘ain	AUX	_	_	10	aux	_	be:1/2
 12	.	_	PUNCT	_	_	10	punct	_	_
 
@@ -252,7 +252,7 @@
 7	=xun	xun	PART	_	_	1	case	_	=PA.A
 8	=bi	bi	PART	_	_	5	advmod	_	=same
 9	chaxu	chaxu	NOUN	_	_	10	obj	_	deer:ABS
-10	‘a-a-x-a	‘a-a-x-a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
+10	‘a-a-x-a	‘a	VERB	_	_	0	root	_	kill-PFV-3-NON.PROX
 11	.	_	PUNCT	_	_	10	punct	_	_
 
 
@@ -306,7 +306,7 @@
 3	=x	x	PART	_	_	1	case	_	=S
 4	ka	ka	PART	_	_	6	aux:sgen	_	NAR
 5	=a	a	PART	_	_	6	nsubj:bound	_	=3
-6	pabëntamëti	pa-bëntan-mët-ti	VERB	_	_	0	root	_	ear-hang-REFL-NOMLZ
+6	pa-bëntan-mët-ti	pa-bëntan	VERB	_	_	0	root	_	ear-hang-REFL-NOMLZ
 7	‘ikën	‘ikën	AUX	_	_	6	aux	_	be:3
 8	.	_	PUNCT	_	_	6	punct	_	_
 
@@ -320,7 +320,7 @@
 5	=a	a	PART	_	_	8	nsubj:bound	_	=3
 6	pabí	pabí	NOUN	_	_	8	obl	_	ear
 7	=nu	nu	PART	_	_	6	case	_	=LOC
-8	bëntamëti	bëntan-mët-ti	VERB	_	_	0	root	_	hang-REFL-NOMLZ
+8	bëntan-mët-ti	bëntan	VERB	_	_	0	root	_	hang-REFL-NOMLZ
 9	‘ikën	‘ikën	AUX	_	_	8	aux	_	be:3
 10	.	_	PUNCT	_	_	8	punct	_	_
 
@@ -370,7 +370,7 @@
 4	‘ë	‘ë	PRON	_	_	6	nmod	_	1
 5	=n	n	PART	_	_	4	case	_	=GEN
 6	piti	piti	NOUN	_	_	7	obj	_	food:ABS
-7	piti	pi-ti	VERB	_	_	0	root	_	eat-NOMLZ
+7	pi-ti	pi	VERB	_	_	0	root	_	eat-NOMLZ
 8	‘ikën	‘ikën	AUX	_	_	7	aux	_	be:3
 9	.	_	PUNCT	_	_	7	punct	_	_
 
@@ -392,8 +392,8 @@
 
 # sent_id = 247-rosa
 1	Tanu	tanu	NOUN	_	_	2	obj	_	palm.grub:ABS
-2	rërëkanux	rërëka-nux	VERB	_	_	3	advcl	_	spill-S/A>S:POE
-3	tsóbuakëxa	tsót-but-akë-x-a	VERB	_	_	0	root	_	live-down:INTR-REM.PST-3-NON.PROX
+2	rërëka-nux	rërëka	VERB	_	_	3	advcl	_	spill-S/A>S:POE
+3	tsót-but-akë-x-a	tsót-but	VERB	_	_	0	root	_	live-down:INTR-REM.PST-3-NON.PROX
 4	bai	bai	NOUN	_	_	3	obl	_	path
 5	‘ipasu	'ipasu	ADP	_	_	4	case	_	at.side.of
 6	.	_	PUNCT	_	_	3	punct	_	_
