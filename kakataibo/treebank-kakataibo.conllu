@@ -102,7 +102,7 @@
 1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN
 2	chaiti	_	NOUN	_	_	9	nsubj:free	_	ancestor
 3	=n	_	PART	_	_	2	case	_	=ERG
-4	ka	_	PART	_	_	9	aux:gen	_	NAR
+4	ka	_	PART	_	_	9	aux:sgen	_	NAR
 5	=is	_	PART	_	_	9	aux:ev	_	=REP
 6	=a	_	PART	_	_	9	nsubj:bound	_	=3
 7	'ó	_	NOUN	_	_	8	nmod	_	tapir
