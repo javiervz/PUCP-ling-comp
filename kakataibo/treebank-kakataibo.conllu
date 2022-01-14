@@ -1317,7 +1317,7 @@
 # sent_id = 799-claudia
 1	‘I-tankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
 2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR
-3	=is	_	PART	_	_	5	aux:evid	5:aux:ev	REP
+3	=is	_	PART	_	_	5	aux:ev	5:aux:ev	REP
 4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	3
 5	ka-akë-x-a	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
 6	ain	_	AUX	_	_	7	nmod	7:nmod	3SG:GEN
