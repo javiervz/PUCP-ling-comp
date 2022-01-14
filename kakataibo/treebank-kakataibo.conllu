@@ -718,7 +718,7 @@
 8	=a	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=3
 9	a	_	DET	_	_	10	det	10:det	that
 10	uni	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	person:ABS
-11	kwan-akë-x-ín	_	VERB	_	_	0	root	0:root	go-rem.pst-3-prox
+11	kwan-akë-x-ín	_	VERB	_	_	0	root	0:root	go-REM.PST-3-PROX
 12	.	_	PUNCT	_	_	11	punct	11:punct	_
 
 
