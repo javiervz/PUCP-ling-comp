@@ -24,6 +24,33 @@
 
 
 
+# sent_id = E-rosa
+1	A	_	DET	_	_	2	det	_	that
+2	xanu	_	NOUN	_	_	9	nsubj:free	_	woman
+3	=n	_	PART	_	_	2	case	_	=ERG
+4	ka	_	PART	_	_	9	aux:sgen	_	NAR
+5	=a	_	PART	_	_	9	nsubj:bound	_	=3SG
+6	'atsa	_	NOUN	_	_	9	obj	_	yuca
+7	kari	_	NOUN	_	_	6	list	_	sweet potato
+8	tama	_	NOUN	_	_	6	list	_	peanuts
+9	pi-akë-x-a	_	VERB	_	_	0	root	_	eat-REM.PST-3-NON.PROX
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+
+
+# sent_id = F-rosa
+1	Tita	_	NOUN	_	_	9	vocative	_	mother
+2	,	_	PUNCT	_	_	9	punct	_	_
+3	'ë	_	PRON	_	_	9	nsubj:free	_	1SG
+4	=n	_	PART	_	_	3	case	_	=ERG
+5	ka	_	PART	_	_	9	aux:sgen	_	NAR
+6	=na	_	PART	_	_	9	nsubj:bound	_	=1SG
+7	mi	_	PRON	_	_	9	obj	_	2SG
+8	itsa	_	ADV	_	_	9	advmod	_	a.lot
+9	kwëën-i-n	_	VERB	_	_	0	root	_	want-IPFV-1/2
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+
 # sent_id = 1005(1)-sabina
 1	patron	_	NOUN	_	_	6	obl	_	boss
 2	=bëtan	_	PART	_	_	1	case	_	=COM
