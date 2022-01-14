@@ -657,7 +657,7 @@
 1	Usa-i	_	ADV	_	_	5	advmod	_	like.that-S/A>S:SE
 2	ka	_	PART	_	_	5	aux:sgen	_	NAR
 3	=a	_	PART	_	_	5	nsubj:bound	_	=3
-4	ëo	_	VERB	_	_	5	goeswith	_	a.lot.of
+4	ëo	_	VERB	_	_	5	advmod	_	a.lot.of
 5	kamë-o-akë-x-a	_	VERB	_	_	0	root	_	a.lot.of-FACT-REM.PST-3-NON.PROX
 6	nu	_	PRON	_	_	8	nmod	_	1PL
 7	=n	_	PART	_	_	6	case	_	=GEN
