@@ -774,11 +774,11 @@
 
 # sent_id = 339-claudia
 1	Pui	_	NOUN	_	_	3	obl	_	excrement
-2	=n	_	PART	_	_	1	case	_	INS
+2	=n	_	PART	_	_	1	case	_	=INS
 3	‘axan-këbë	_	VERB	_	_	9	advcl	_	fish.using.poison-DS/A/P:SE:INTR
 4	ka	_	PART	_	_	9	aux:sgen	_	NAR
-5	=is	_	PART	_	_	9	aux:evid	_	REP
-6	=a	_	PART	_	_	9	nsubj:bound	_	3
+5	=is	_	PART	_	_	9	aux:evid	_	=REP
+6	=a	_	PART	_	_	9	nsubj:bound	_	=3
 7	a	_	DET	_	_	9	amod	_	that
 8	kaxu	_	ADV	_	_	7	case	_	behind
 9	kwan-akë-x-a	_	VERB	_	_	0	root	_	go-REM.PST-3-NON.PROX
