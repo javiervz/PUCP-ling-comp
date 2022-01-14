@@ -434,7 +434,7 @@
 1	Nukën	nukën	PRON	_	_	2	nmod	_	1PL.GEN
 2	‘ibu	‘ibu	NOUN	_	_	9	nsubj:free	_	owner:ABS
 3	ka	ka	PART	_	_	9	aux:sgen	_	NAR
-4	=is	is	PART	_	_	9	aux:evid	_	=REP
+4	=is	is	PART	_	_	9	aux:ev	_	=REP
 5	=a	a	PART	_	_	9	nsubj:bound	_	=3
 6	nai	nai	NOUN	_	_	9	obl	_	sky
 7	=nu	nu	PART	_	_	6	case	_	=LOC
@@ -589,7 +589,7 @@
 1	Xanu	Xanu	NOUN	_	_	6	nsubj:free	_	woman
 2	=n	=n	PART	_	_	1	case	_	=ERG
 3	ka	ka	PART	_	_	6	aux:sgen	_	NAR
-4	=is	=is	PART	_	_	6	aux:evid	_	=REP
+4	=is	=is	PART	_	_	6	aux:ev	_	=REP
 5	=a	=a	PART	_	_	6	nsubj:bound	_	=3
 6	buan-kian	buankian	VERB	_	_	0	root	_	bring-HAB.PAST.3
 7	ain	ain	DET	_	_	8	nmod	_	3SG:GEN
@@ -714,7 +714,7 @@
 4	nëtë	_	NOUN	_	_	11	advmod	11:advmod	day
 5	=n	_	PART	_	_	4	case	4:case	=TEMP
 6	ka	_	PART	_	_	11	aux:sgen	11:aux:sgen	NAR
-7	=is	_	PART	_	_	11	aux:evi	11:aux:evi	=REP
+7	=is	_	PART	_	_	11	aux:ev	11:aux:ev	=REP
 8	=a	_	PART	_	_	11	nsubj:bound	11:nsubj:bound	=3
 9	a	_	DET	_	_	10	det	10:det	that
 10	uni	_	NOUN	_	_	11	nsubj:free	11:nsubj:free	person:ABS
@@ -777,7 +777,7 @@
 2	=n	_	PART	_	_	1	case	_	=INS
 3	‘axan-këbë	_	VERB	_	_	9	advcl	_	fish.using.poison-DS/A/P:SE:INTR
 4	ka	_	PART	_	_	9	aux:sgen	_	NAR
-5	=is	_	PART	_	_	9	aux:evid	_	=REP
+5	=is	_	PART	_	_	9	aux:ev	_	=REP
 6	=a	_	PART	_	_	9	nsubj:bound	_	=3
 7	a	_	DET	_	_	9	amod	_	that
 8	kaxu	_	ADV	_	_	7	case	_	behind
@@ -793,7 +793,7 @@
 2	uni	_	NOUN	_	_	11	nsubj:free	_	person
 3	=n	_	PART	_	_	2	case	_	=ERG
 4	ka	_	PART	_	_	11	aux:sgen	_	NAR
-5	=is	_	PART	_	_	11	aux:evid	_	=REP
+5	=is	_	PART	_	_	11	aux:ev	_	=REP
 6	=a	_	PART	_	_	11	nsubj:bound	_	=3
 7	kamabi	_	ADJ	_	_	8	nummod	_	all
 8	nëtë	_	NOUN	_	_	11	obl	_	day
@@ -1058,7 +1058,7 @@
 2	‘i-kë	_	VERB	_	_	14	advcl	_	be-NOMLZ
 3	=bi	_	PART	_	_	2	advmod	_	=same
 4	ka	_	PART	_	_	14	aux:sgen	_	NAR
-5	=is	_	PART	_	_	14	aux:evid	_	=REP
+5	=is	_	PART	_	_	14	aux:ev	_	=REP
 6	=a	_	PART	_	_	14	nsubj:bound	_	=3
 7	xanu	_	NOUN	_	_	14	nsubj:free	_	woman
 8	=n	_	PART	_	_	7	case	_	=ERG
@@ -1151,7 +1151,7 @@
 # sent_id = 490-rosa
 1	‘Aishbi	‘aishbi	VERB	_	_	5	advmod	_	but:S/A>A
 2	ka	ka	PART	_	_	5	aux:sgen	_	narrative
-3	=is	is	PART	_	_	5	aux:evid	_	=reportative
+3	=is	is	PART	_	_	5	aux:ev	_	=reportative
 4	=a	a	PART	_	_	5	nsubj:bound	_	=3
 5	‘i-akë-x-a	‘i	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
 6	a	a	DET	_	_	7	det	_	that
@@ -1188,7 +1188,7 @@
 3	=n	_	PART	_	_	1	case	1:case	=A
 4	churu-akat	_	VERB	_	_	12	advcl	_	untie-REFL.passing:INTR-S/A>A:SE
 5	ka	_	PART	_	_	12	aux:sgen	11:aux:sgen	NAR
-6	=is	_	PART	_	_	12	aux:evid	11:aux:evid	=REP
+6	=is	_	PART	_	_	12	aux:ev	11:aux:ev	=REP
 7	=a	_	PART	_	_	12	nsubj:bound	11:nsubj:bound	=3
 8	xanu	_	NOUN	_	_	12	obj	13:obj	woman
 9	xëni-rá	_	ADJ	_	_	8	amod	9:amod	old-DIM:ABS
@@ -1317,7 +1317,7 @@
 # sent_id = 799-claudia
 1	‘I-tankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
 2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR
-3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	REP
+3	=is	_	PART	_	_	5	aux:evid	5:aux:ev	REP
 4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	3
 5	ka-akë-x-a	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
 6	ain	_	AUX	_	_	7	nmod	7:nmod	3SG:GEN
