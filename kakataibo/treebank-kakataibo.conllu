@@ -423,7 +423,7 @@
 4	=na	=na	PART	_	_	7	nsubj:bound	7:nsubj:bound	=1SG
 5	‘ë	‘ë	PRON	_	_	7	nsubj:free	7:nsubj:free	1SG
 6	=x	x	PART	_	_	5	case	5:case	=S
-7	tsókën	tsót-akë-n	VERB	_	_	0	root	0:root	live-REM.PST-1/2
+7	tsót-akë-n	tsót	VERB	_	_	0	root	0:root	live-REM.PST-1/2
 8	SantaRosa	Santa Rosa	NOUN	_	_	7	obl	7:obl	Santa.Rosa.village
 9	tsipúmi	 tsipumi	ADP	_	_	8	case	8:case	below
 10	.	_	PUNCT	_	_	7	punct	7:punct	_
@@ -439,7 +439,7 @@
 6	nai	nai	NOUN	_	_	9	obl	_	sky
 7	=nu	nu	PART	_	_	6	case	_	=LOC
 8	=ax	ax	PART	_	_	2	case	_	=PA.S
-9	u-akë-x-a	u-akë-x-a	VERB	_	_	0	root	_	come-REM.PST-3-NON.PROX
+9	u-akë-x-a	u	VERB	_	_	0	root	_	come-REM.PST-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
@@ -488,7 +488,7 @@
 4	=a	a	PART	_	_	7	nsubj:bound	_	=3
 5	a	a	DET	_	_	6	det	_	that
 6	këntí	këntí	NOUN	_	_	7	obj	_	pot:ABS
-7	ichút-mi-a-x-a	ichút-mi-a-x-a	VERB	_	_	0	root	_	be.bright-CAUS-PFV-3-NON.PROX
+7	ichút-mi-a-x-a	ichút	VERB	_	_	0	root	_	be.bright-CAUS-PFV-3-NON.PROX
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
@@ -513,7 +513,7 @@
 6	uri	uri	ADV	_	_	9	advmod	_	far
 7	achushi	achushi	NUM	_	_	8	nummod	_	one
 8	xaë	xaë	NOUN	_	_	9	obj	_	turtle:ABS
-9	mëra-a-x-a	mëra-a-x-a	VERB	_	_	0	root	_	find-PFV-3-NON.PROX
+9	mëra-a-x-a	mëra	VERB	_	_	0	root	_	find-PFV-3-NON.PROX
 10	.	_	PUNCT	_	_	9	punct	_	_
 
 
@@ -634,7 +634,7 @@
 6	ini	ini	NOUN	_	_	11	obj	_	daughter:ABS
 7	bëchikë	bëchikë	NOUN	_	_	6	compound	_	daughter:ABS
 8	'ó-ina	'ó	NOUN	_	_	10	obj	_	tapir-GENE:ABS
-9	chunena	chuna-ina	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS
+9	chunena	chuna	NOUN	_	_	10	obj	_	monkey.species-GENE:ABS
 10	pi-tankëxun	pi	VERB	_	_	11	advcl	_	eat-S/A>A:PE
 11	kaniot-i-n	kaniot	VERB	_	_	0	root	_	raise-IPFV-1/2
 12	.	_	PUNCT	_	_	11	punct	_	_
