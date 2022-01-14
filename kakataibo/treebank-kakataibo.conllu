@@ -1101,14 +1101,14 @@
 
 
 # sent_id = 445-luisa
-1	‘Ë	‘ë	PRON	_	_	5	nsubj:free	_	1sg
-2	=x	x	PART	_	_	1	case	_	=s
-3	ka	ka	PART	_	_	5	aux:sgen	_	ind
-4	=na	na	PART	_	_	5	nsubj:bound	_	=1sg
-5	rakwët-i-n	rakwët	VERB	_	_	0	root	_	be.affraid.of-ipfv-½
+1	‘Ë	‘ë	PRON	_	_	5	nsubj:free	_	1SG
+2	=x	x	PART	_	_	1	case	_	=S
+3	ka	ka	PART	_	_	5	aux:sgen	_	IND
+4	=na	na	PART	_	_	5	nsubj:bound	_	=1SG
+5	rakwët-i-n	rakwët	VERB	_	_	0	root	_	be.affraid.of-IPFV-1/2
 6	‘inu	‘inu	NOUN	_	_	8	nsubj:free	_	jaguar
-7	=n	n	PART	_	_	6	case	_	=erg
-8	pi-ti	piti	NOUN	_	_	5	obl	_	eat-nomlz
+7	=n	n	PART	_	_	6	case	_	=ERG
+8	pi-ti	piti	NOUN	_	_	5	obl	_	eat-NOMLZ
 9	rabanan	rabanan	ADP	_	_	8	case	_	because.of
 10	.	_	PUNCT	_	_	8	punct	_	_
 
