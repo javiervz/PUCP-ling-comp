@@ -839,7 +839,7 @@
 1	rët-tankëxun	_	VERB	_	_	8	advcl	_	kill-S/A:A:PE
 2	ka	_	PART	_	_	8	aux:sgen	_	NAR
 3	=is	_	PART	_	_	8	aux:ev	_	=REP
-4	=a	_	PART	_	_	8	nsubj:bound	=3	
+4	=a	_	PART	_	_	8	nsubj:bound	_	=3
 5	xanu	_	NOUN	_	_	8	nsubj:free	_	woman
 6	=n	_	PART	_	_	5	case	_	=ERG
 7	chaxu	_	NOUN	_	_	8	obj	_	deer:ABS
