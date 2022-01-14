@@ -1,3 +1,28 @@
+# sent_id = A-mariana
+1	Bëbu	_	NOUN	_	_	8	nsubj:free	_	male
+2	'imanun	_	CCONJ	_	_	3	cc	_	and
+3	xanu	_	NOUN	_	_	1	conj	_	female
+4	ka	_	PART	_	_	8	aux:sgen	_	NAR
+5	=a	_	PART	_	_	8	nsubj:bound	_	=3
+6	Lima	_	PROPN	_	_	8	obl	_	Lima
+7	=nu	_	PART	_	_	6	case	_	=LOC
+8	kwan-a-x-a	_	VERB	_	_	0	root	_	go-PFV-3-NON.PROX
+9	.	_	PUNCT	_	_	8	punct	_	_
+
+
+# sent_id = B-mariana
+1	Nukën	_	PRON	_	_	3	nmod	_	1PL.GEN
+2	'ó	_	NOUN	_	_	3	compound	_	tapir
+3	nami	_	NOUN	_	_	4	obj	_	meat
+4	pi-kë	_	VERB	_	_	9	csubj	_	eat-NOMLZ
+5	a	_	PRON	_	_	4	appos	_	3SG
+6	=x	_	PART	_	_	5	case	_	=S
+7	ka	_	PART	_	_	9	aux:sgen	_	NAR
+8	=a	_	PART	_	_	9	nsubj:bound	_	=3
+9	bama-a-x-a	_	VERB	_	_	0	root	_	die-PFV-3-NON.PROX
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+
 # sent_id = 1005(1)-sabina
 1	patron	_	NOUN	_	_	6	obl	_	boss
 2	=bëtan	_	PART	_	_	1	case	_	=COM
