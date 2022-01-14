@@ -618,7 +618,7 @@
 13	‘a	_	VERB	_	_	18	parataxis	_	do:IMP
 14	”	_	PUNCT	_	_	18	punct	_	_
 15	ka	_	PART	_	_	18	aux:sgen	_	NAR
-16	=is	_	PART	_	_	18	aux:ev	_	_	REP
+16	=is	_	PART	_	_	18	aux:ev	_	REP
 17	=a	_	PART	_	_	18	nsubj:bound	_	3
 18	ka-akë-x-ín	_	VERB	_	_	0	root	_	say.REM.PAST-3-PROX
 19	.	_	PUNCT	_	_	18	punct	_	_
