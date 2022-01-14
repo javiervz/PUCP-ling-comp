@@ -1505,13 +1505,13 @@
 
 
 # sent_id = 972-javier
-1	‘Ë	‘ë	PRON	_	_	7	nsubj:free	_	1sg
+1	‘Ë	‘ë	PRON	_	_	7	nsubj:free	_	1SG
 2	=n	n	PART	_	_	1	case	_	=A
 3	ka	ka	PART	_	_	7	aux:sgen	_	NAR
-4	=na	na	PART	_	_	7	nsubj:bound	_	=1sg
+4	=na	na	PART	_	_	7	nsubj:bound	_	=1SG
 5	María	_	NOUN	_	_	7	iobj	_	María:ABS
 6	‘atsa	_	NOUN	_	_	7	obj	_	manioc:ABS
-7	‘inan-i-n	_	VERB	_	_	0	root	_	give-ipfv-1/2
+7	‘inan-i-n	_	VERB	_	_	0	root	_	give-IPFV-1/2
 8	.	_	PUNCT	_	_	7	punct	_	_
 
 
@@ -1524,7 +1524,7 @@
 5	Lima	_	NOUN	_	_	8	obl	_	Lima
 6	=nu	_	PART	_	_	8	case	_	=LOC
 7	Juanbë	_	NOUN	_	_	8	obl	_	Juan-COM:S
-8	kwan-i-n	_	VERB	_	_	0	root	_	go-ipfv-1/2
+8	kwan-i-n	_	VERB	_	_	0	root	_	go-IPFV-1/2
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
