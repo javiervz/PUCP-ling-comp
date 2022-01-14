@@ -1076,13 +1076,13 @@
 
 # sent_id = 407-rosa
 1	Chuna	chuna	NOUN	_	_	8	nsubj:free	_	spider.monkey
-2	unitín	uni-tín	NOUN	_	_	1	nmod	_	man-same.size
+2	unitín	uni	NOUN	_	_	1	nmod	_	man-same.size
 3	a	a	PRON	_	_	1	appos	_	3sg
 4	=n	n	PART	_	_	3	case	_	=A
 5	ka	ka	PART	_	_	8	aux:sgen	_	=NAR
 6	=a	a	PART	_	_	8	nsubj:bound	_	=3
 7	‘ë	‘ë	PRON	_	_	8	obj	_	1sg:P
-8	ratu-a-x-a	ratu-a-x-a	VERB	_	_	0	root	_	scare-PFV-3-NON.PROX
+8	ratu-a-x-a	ratu	VERB	_	_	0	root	_	scare-PFV-3-NON.PROX
 9	.	_	PUNCT	_	_	8	punct	_	_
 
 
@@ -1153,10 +1153,10 @@
 2	ka	ka	PART	_	_	5	aux:sgen	_	narrative
 3	=is	is	PART	_	_	5	aux:evid	_	=reportative
 4	=a	a	PART	_	_	5	nsubj:bound	_	=3
-5	‘i-akë-x-a	‘i-akë-x-a	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
+5	‘i-akë-x-a	‘i	VERB	_	_	0	root	_	be-REM.PST-3-NON.PROX
 6	a	a	DET	_	_	7	det	_	that
 7	uni	uni	NOUN	_	_	5	nsubj:free	_	person
-8	chumíbukë	chumin-but-kë	ADJ	_	_	7	amod	_	thin-advance.process-NOMLZ:ABS
+8	chumín-but-kë	chumin-but	ADJ	_	_	7	amod	_	thin-advance.process-NOMLZ:ABS
 9	bamati	bama	VERB	_	_	5	advmod	_	die
 10	ura	ura	ADV	_	_	9	advmod	_	far
 11	=ma	ma	PART	_	_	10	advmod	_	=NEG
@@ -1165,19 +1165,19 @@
 
 
 # sent_id = 508-rosa
-1	kwainkin	kwain-kin	VERB	_	_	13	advcl	_	move.over-S/A>A:SE
+1	kwain-kin	kwain	VERB	_	_	13	advcl	_	move.over-S/A>A:SE
 2	=shi	ishi	PART	_	_	1	advmod	_	=only
 3	ka	ka	PART	_	_	13	aux:sgen	_	narrative
 4	=is	is	PART	_	_	13	aux:evid	_	=REP
 5	=a	a	PART	_	_	13	nsubj:bound	_	=3
 6	ain	ain	PRON	_	_	7	nmod	_	3sg:gen
 7	tita	tita	NOUN	_	_	13	obj	_	mother
-8	ñuxanrá	ñuxan-rá	NOUN	_	_	7	amod	_	old.woman-DIM:ABS
+8	ñuxan-rá	ñuxan	NOUN	_	_	7	amod	_	old.woman-DIM:ABS
 9	ain	ain	PRON	_	_	10	nmod	_	3sg:gen
 10	maë	maë	NOUN	_	_	11	obj	_	house:abs
-11	matsunkubuinia	matsun-uku-buin-ia=bi	VERB	_	_	13	advcl	_	sweep-ITER-passing:TRA-S/A>P:SE
+11	matsun-uku-buin-ia	matsun	VERB	_	_	13	advcl	_	sweep-ITER-passing:TRA-S/A>P:SE
 12	=bi	bi	PART	_	_	11	advmod	_	=same
-13	rët-akë-x-a	rët-akë-x-a	VERB	_	_	0	root	_	beat-REM.PST-3-NON.PROX
+13	rët-akë-x-a	rët	VERB	_	_	0	root	_	beat-REM.PST-3-NON.PROX
 14	.	_	PUNCT	_	_	13	punct	_	_
 
 
@@ -1209,7 +1209,7 @@
 8	‘ia	'i-a	NOUN	_	_	11	ccomp	_	be-NOMLZ
 9	ka	ka	PART	_	_	11	aux:sgen	_	narrative
 10	=na	na	PART	_	_	11	nsubj:bound	_	=1SG
-11	ñui-kas-i-n	ñui-kas-i-n	VERB	_	_	0	root	_	tell-DES-IPFV-1/2
+11	ñui-kas-i-n	ñui	VERB	_	_	0	root	_	tell-DES-IPFV-1/2
 12	.	_	PUNCT	_	_	11	punct	_	_
 
 
@@ -1315,14 +1315,14 @@
 
 
 # sent_id = 799-claudia
-1	‘Itankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
+1	‘I-tankëxun	_	ADV	_	_	5	advcl	5:advcl	be-S/A>A:PE
 2	ka	_	PART	_	_	5	aux:sgen	5:aux:sgen	NAR
 3	=is	_	PART	_	_	5	aux:evid	5:aux:evid	REP
 4	=a	_	PART	_	_	5	nsubj:bound	5:nsubj:bound	3
-5	kakëxa	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
+5	ka-akë-x-a	_	VERB	_	_	0	root	0:root	say-REM.PST-3-NON.PROX
 6	ain	_	AUX	_	_	7	nmod	7:nmod	3SG:GEN
 7	tita	_	NOUN	_	_	5	obj	5:obj	mother
-8	ñuxanrá	_	ADJ	_	_	7	amod	7:amod	 old(FEM)-DIM
+8	ñuxan-rá	_	ADJ	_	_	7	amod	7:amod	 old(FEM)-DIM
 9	“	_	PUNCT	_	_	5	punct	5:punct	_
 10	tita	_	NOUN	_	_	23	discourse	23:discourse	mother
 11	=n	_	PART	_	_	10	case	10:case	=VOC
@@ -1335,7 +1335,7 @@
 18	=n	_	PART	_	_	17	case	17:case	=GEN
 19	kupë	_	NOUN	_	_	21	obj	21:obj	manioc:ABS
 20	atsa	_	PART	_	_	19	compound	19:compound	manioc:ABS
-21	bitstanmainun	_	VERB	_	_	23	advcl	23:advcl	pick.up-go.to-DS/A/P:SE:DUR
+21	bits-tan-mainun	_	VERB	_	_	23	advcl	23:advcl	pick.up-go.to-DS/A/P:SE:DUR
 22	ka	_	PART	_	_	23	aux:sgen	23:aux:sgen	NAR
 23	bëruan	_	VERB	_	_	5	parataxis	5:parataxis	take.care
 24	,	_	PUNCT	_	_	5	punct	5:punct	_
