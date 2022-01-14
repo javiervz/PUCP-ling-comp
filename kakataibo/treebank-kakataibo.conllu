@@ -1206,7 +1206,7 @@
 5	nu	nu	PRON	_	_	7	amod	_	1pl
 6	=n	n	PART	_	_	5	case	_	=GEN
 7	‘anibu	‘anibu	NOUN	_	_	8	nsubj:free	_	ancestor:abs
-8	‘ia	'i-a	NOUN	_	_	11	ccomp	_	be-NOMLZ
+8	‘ia	'i	NOUN	_	_	11	ccomp	_	be-NOMLZ
 9	ka	ka	PART	_	_	11	aux:sgen	_	narrative
 10	=na	na	PART	_	_	11	nsubj:bound	_	=1SG
 11	ñui-kas-i-n	ñui	VERB	_	_	0	root	_	tell-DES-IPFV-1/2
