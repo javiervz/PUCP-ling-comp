@@ -24,6 +24,36 @@
 
 
 
+# sent_id = C-claudia
+1	Nukën	_	PRON	_	_	2	nmod	_	1PL.GEN
+2	chaiti	_	NOUN	_	_	9	nsubj:free	_	ancestor
+3	=kama	_	PART	_	_	2	nummod	_	PLU
+4	ka	_	PART	_	_	9	aux:sgen	_	NAR
+5	=is	_	PART	_	_	9	aux:ev	_	REP
+6	=a	_	PART	_	_	9	nsubj:bound	_	3
+7	Lima	_	PROPN	_	_	9	obl	_	Lima
+8	=nu	_	PART	_	_	7	case	_	LOC
+9	bakë-akë-x-a	_	VERB	_	_	0	root	_	born-REM.PST-3-NON.PROX
+10	Norte=nu	_	PROPN	_	_	9	dislocated	_	Norte
+11	=nu	_	PART	_	_	10	case	_	LOC
+12	.	_	PUNCT	_	_	9	punct	_	_
+
+
+
+# sent_id = C-claudia
+1	Ochapa	_	PROPN	_	_	9	nsubj:free	_	Ochapa
+2	Ispon	_	PROPN	_	_	1	flat	_	Ispon
+3	a	_	PRON	_	_	2	appos	_	3SG
+4	=x	_	PART	_	_	3	case	_	=S
+5	ka	_	PART	_	_	9	aux:sgen	_	NAR
+6	=a	_	PART	_	_	9	nsubj:bound	_	=3
+7	nukën	_	PRON	_	_	8	nmod	_	1PL.GEN
+8	papa	_	NOUN	_	_	9	nmod	_	father
+9	'ia-akë-x-a	_	VERB	_	_	0	root	_	be-REM-PST-3-NON.PROX
+10	.	_	PUNCT	_	_	9	punct	_	_
+
+
+
 # sent_id = E-rosa
 1	A	_	DET	_	_	2	det	_	that
 2	xanu	_	NOUN	_	_	9	nsubj:free	_	woman
